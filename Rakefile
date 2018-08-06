@@ -8,6 +8,6 @@ task default: %W[#{name}.pdf #{name}.html]
 
 backends.each do |backend|
   file "#{name}.#{backend}" => "#{name}.adoc" do
-    Asciidoctor.convert_file "#{name}.adoc", backend: backend, to_file: "#{name}.#{backend}"
+    Asciidoctor.convert_file "#{name}.adoc", backend: backend, to_file: "#{name}.#{backend}", header_footer: true
   end
 end
