@@ -1,2 +1,14 @@
 language: ruby
 cache: bundler
+before_deploy:
+  - mkdir -p deploy
+  - mv decline_and_fall.html deploy/index.html
+deploy:
+  provider: pages
+  local-dir: deploy
+  skip-cleanup: true
+  keep-history: true
+  on:
+    branch: master
+  github-token:
+    secure: CowG8WwhYMxah7m87bpIPT9g+O2xN+mmCNTkxIIITdc7FEvS6F8i0S2ApAjRJFd0RhCgErDx/gUqg9cvxcYgYcHhf28k43h4DxmeAkKP9ltdkA4RfM7OR9KTJ3FgSUesFRQLnhmI797qCirJ+qyiniERyouj0ioRrMMUhvL3+zshwzD/XFkHLhraOlpU4WZfQX8pHOi5OZEMfbBvCpjvEzMpW0EMsA0fmYZaowS8T/Juz1Oye5EiypElsbpeBM+q63PAmoJJLe5ZjQTACt9PPqY/Op61UaIL/O9qsFTbcbYF29qnqBjKHGaNAxW4r75s3QfOn7QwbH6GfI1DqyUywcV58vbUgasdHODulAgfZ6cqJ9I6VGDwsLfWQT97q9SWguhOF9w7HNExfhZU3upJStUDSEPWuDglGbufUrsIhvVot2PujUIvSWhlXdtQP1m2LSUVzlj5vxu9vzNQcNIWlTHQVxZgsWleqEsI003JPy7YVyJdCw2aqS9pGG9qeRWs1LypcPr4Gep7jhO7QkOhJARVG+p6X1z06KaQEMKIRAoK3c3uEa+ayhEAtaOBO/IGhupQTQ7S54LuEt5QCi6BCt1TNG2sdm1lwZlGEMx2MN0L7TjFk2+MsWhFzGOs/6UT7nUajW7+mT6AbfI2ZxeNx3TJbzvJALNqrxwXzkOAsnQ=
