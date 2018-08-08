@@ -12,14 +12,13 @@ History of the Decline and Fall of the Roman Empire, it will, perhaps,
 be expected that I should explain, in a few words, the nature and limits
 of my general plan.
 
-
-
 The memorable series of revolutions, which in the course of about
 thirteen centuries gradually undermined, and at length destroyed, the
 solid fabric of human greatness, may, with some propriety, be divided
 into the three following periods:
 
-I. The first of these periods may be traced from the age of Trajan
+[upperroman]
+. The first of these periods may be traced from the age of Trajan
 and the Antonines, when the Roman monarchy, having attained its full
 strength and maturity, began to verge towards its decline; and will
 extend to the subversion of the Western Empire, by the barbarians of
@@ -28,7 +27,7 @@ modern Europe. This extraordinary revolution, which subjected Rome to
 the power of a Gothic conqueror, was completed about the beginning of
 the sixth century.
 
-II. The second period of the Decline and Fall of Rome may be supposed
+. The second period of the Decline and Fall of Rome may be supposed
 to commence with the reign of Justinian, who, by his laws, as well as by
 his victories, restored a transient splendor to the Eastern Empire. It
 will comprehend the invasion of Italy by the Lombards; the conquest
@@ -37,7 +36,7 @@ religion of Mahomet; the revolt of the Roman people against the feeble
 princes of Constantinople; and the elevation of Charlemagne, who, in the
 year eight hundred, established the second, or German Empire of the West.
 
-III. The last and longest of these periods includes about six centuries
+. The last and longest of these periods includes about six centuries
 and a half; from the revival of the Western Empire, till the taking of
 Constantinople by the Turks, and the extinction of a degenerate race
 of princes, who continued to assume the titles of Caesar and Augustus,
@@ -67,16 +66,19 @@ history of the world; but it would require many years of health, of
 leisure, and of perseverance.
 
 
+-- Bentinck Street, February 1, 1776.
 
-Bentinck Street, February 1, 1776.
+***
 
-P. S. The entire History, which is now published, of the Decline
++P.+ S. The entire History, which is now published, of the Decline
 and Fall of the Roman Empire in the West, abundantly discharges my
 engagements with the Public. Perhaps their favorable opinion may
 encourage me to prosecute a work, which, however laborious it may seem,
 is the most agreeable occupation of my leisure hours.
 
-Bentinck Street, March 1, 1781.
+-- Bentinck Street, March 1, 1781.
+
+***
 
 An Author easily persuades himself that the public opinion is still
 favorable to his labors; and I have now embraced the serious resolution
@@ -95,5 +97,4 @@ with the revolutions of Modern Europe. From the seventh to the eleventh
 century, the obscure interval will be supplied by a concise narrative
 of such facts as may still appear either interesting or important.
 
- Bentinck
-Street, March 1, 1782.
+-- Bentinck Street, March 1, 1782.
