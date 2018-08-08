@@ -5,7 +5,12 @@ Edward Gibbon
 :doctitle: The History of the Decline and Fall of the Roman Empire
 :copyright: Public Domain
 :lang: en
+:source: http://www.gutenberg.org/7/3/731/
 :nofooter:
 :endash: &#8211;
 :emdash: --
-ifndef::ebook-format[:leveloffset: 1]
+:toc:
+
+include::colophon.adoc[]
+
+include::volume-1/spine.adoc[]

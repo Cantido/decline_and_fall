@@ -1,0 +1,13 @@
+[partintro]
+.Introduction
+--
+
+include::preface-editor.adoc[]
+
+include::preface-author.adoc[]
+
+include::preface-first.adoc[]
+
+include::preface-quarto.adoc[]
+
+--
