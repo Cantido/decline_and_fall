@@ -3,11 +3,11 @@
 
 === Part I
 
-     Troubles After The Abdication Of Diocletian.--Death Of
-     Constantius.--Elevation Of Constantine And Maxen Tius.--
-     Six Emperors At The Same Time.--Death Of Maximian And
-     Galerius.--Victories Of Constantine Over Maxentius And
-     Licinus.--Reunion Of The Empire Under The Authority Of
+     Troubles After The Abdication Of Diocletian.{emdash}Death Of
+     Constantius.{emdash}Elevation Of Constantine And Maxen Tius.{emdash}
+     Six Emperors At The Same Time.{emdash}Death Of Maximian And
+     Galerius.{emdash}Victories Of Constantine Over Maxentius And
+     Licinus.{emdash}Reunion Of The Empire Under The Authority Of
      Constantine.
 
 The balance of power established by Diocletian subsisted no longer than
@@ -80,8 +80,8 @@ ingratitude and arrogance. footnote:[Lactantius de Mort. Persecutor. c. 18. Were
 of this conference more consistent with truth and decency, we might
 still ask how they came to the knowledge of an obscure rhetorician. But
 there are many historians who put us in mind of the admirable saying of
-the great Conde to Cardinal de Retz: "Ces coquins nous font parlor et
-agir, comme ils auroient fait eux-memes a notre place." * Note: This
+the great Conde to Cardinal de Retz: {ldquo}Ces coquins nous font parlor et
+agir, comme ils auroient fait eux-memes a notre place.{rdquo} * Note: This
 attack upon Lactantius is unfounded. Lactantius was so far from having
 been an obscure rhetorician, that he had taught rhetoric publicly, and
 with the greatest success, first in Africa, and afterwards in Nicomedia.
@@ -92,14 +92,14 @@ accused of dishonesty or imposture. Satis me vixisse arbitrabor et
 officium hominis implesse si labor meus aliquos homines, ab erroribus
 iberatos, ad iter coeleste direxerit. De Opif. Dei, cap. 20. The
 eloquence of Lactantius has caused him to be called the Christian
-Cicero. Annon Gent.--G. ----Yet no unprejudiced person can read this
+Cicero. Annon Gent.{emdash}G. {emdash}{emdash}Yet no unprejudiced person can read this
 coarse and particular private conversation of the two emperors, without
-assenting to the justice of Gibbon's severe sentence. But the authorship
+assenting to the justice of Gibbon{apos}s severe sentence. But the authorship
 of the treatise is by no means certain. The fame of Lactantius for
 eloquence as well as for truth, would suffer no loss if it should be
-adjudged to some more "obscure rhetorician." Manso, in his Leben
+adjudged to some more {ldquo}obscure rhetorician.{rdquo} Manso, in his Leben
 Constantins des Grossen, concurs on this point with Gibbon Beylage, iv.
---M.]
+{emdash}M.]
  But these obscure anecdotes are
 sufficiently refuted by an impartial view of the character and conduct of
 Diocletian. Whatever might otherwise have been his intentions, if he
@@ -181,22 +181,22 @@ of Helena, from Essex to the wall of Antoninus.]
 obliged to confess, that Helena was the daughter of an innkeeper; but at
 the same time, we may defend the legality of her marriage, against those
 who have represented her as the concubine of Constantius. footnote:[Eutropius (x. 2) expresses, in a few words, the real truth,
-and the occasion of the error "ex obscuriori matrimonio ejus filius."
+and the occasion of the error {ldquo}ex obscuriori matrimonio ejus filius.{rdquo}
 Zosimus (l. ii. p. 78) eagerly seized the most unfavorable report,
 and is followed by Orosius, (vii. 25,) whose authority is oddly enough
 overlooked by the indefatigable, but partial Tillemont. By insisting on
 the divorce of Helena, Diocletian acknowledged her marriage.]
  The great
 Constantine was most probably born at Naissus, in Dacia; footnote:[There are three opinions with regard to the place of
-Constantine's birth. 1. Our English antiquarians were used to dwell
-with rapture on the words of his panegyrist, "Britannias illic oriendo
-nobiles fecisti." But this celebrated passage may be referred with as
+Constantine{apos}s birth. 1. Our English antiquarians were used to dwell
+with rapture on the words of his panegyrist, {ldquo}Britannias illic oriendo
+nobiles fecisti.{rdquo} But this celebrated passage may be referred with as
 much propriety to the accession, as to the nativity of Constantine.
 2. Some of the modern Greeks have ascribed the honor of his birth to
 Drepanum, a town on the Gulf of Nicomedia, (Cellarius, tom. ii. p. 174,)
 which Constantine dignified with the name of Helenopolis, and Justinian
 adorned with many splendid buildings, (Procop. de Edificiis, v. 2.) It
-is indeed probable enough, that Helena's father kept an inn at Drepanum,
+is indeed probable enough, that Helena{apos}s father kept an inn at Drepanum,
 and that Constantius might lodge there when he returned from a Persian
 embassy, in the reign of Aurelian. But in the wandering life of a
 soldier, the place of his marriage, and the places where his children
@@ -215,7 +215,7 @@ profession of arms, the youth should discover very little inclination
 to improve his mind by the acquisition of knowledge. footnote:[Literis minus instructus. Anonym. ad Ammian. p. 710.]
  He was about
 eighteen years of age when his father was promoted to the rank of
-Caesar; but that fortunate event was attended with his mother's divorce;
+Caesar; but that fortunate event was attended with his mother{apos}s divorce;
 and the splendor of an Imperial alliance reduced the son of Helena to a
 state of disgrace and humiliation. Instead of following Constantius in
 the West, he remained in the service of Diocletian, signalized his valor
@@ -250,10 +250,10 @@ without preventing a pursuit, would have scattered suspicions, and might
 have stopped his journey. * Note: Zosimus is not the only writer who
 tells this story. The younger Victor confirms it. Ad frustrandos
 insequentes, publica jumenta, quaqua iter ageret, interficiens. Aurelius
-Victor de Caesar says the same thing, G. as also the Anonymus Valesii.--
-M. ----Manso, (Leben Constantins,) p. 18, observes that the story has
+Victor de Caesar says the same thing, G. as also the Anonymus Valesii.{emdash}
+M. {emdash}{emdash}Manso, (Leben Constantins,) p. 18, observes that the story has
 been exaggerated; he took this precaution during the first stage of his
-journey.--M.]
+journey.{emdash}M.]
  Leaving the palace of Nicomedia
 in the night, he travelled post through Bithynia, Thrace, Dacia,
 Pannonia, Italy, and Gaul, and, amidst the joyful acclamations of the
@@ -318,7 +318,7 @@ in vain, to escape from the hands of his soldiers.]
 usurpation; nor did he yield to the acclamations of the army, till he
 had provided the proper materials for a letter, which he immediately
 despatched to the emperor of the East. Constantine informed him of the
-melancholy event of his father's death, modestly asserted his natural
+melancholy event of his father{apos}s death, modestly asserted his natural
 claim to the succession, and respectfully lamented, that the
 affectionate violence of his troops had not permitted him to solicit the
 Imperial purple in the regular and constitutional manner. The first
@@ -398,7 +398,7 @@ of the emperors. They jointly dedicate, for the use of their own Romans,
 this magnificent edifice. The architects have delineated the ruins of
 these Thermoe, and the antiquarians, particularly Donatus and Nardini,
 have ascertained the ground which they covered. One of the great rooms
-is now the Carthusian church; and even one of the porter's lodges is
+is now the Carthusian church; and even one of the porter{apos}s lodges is
 sufficient to form another church, which belongs to the Feuillans.]
  The tranquility of
 those elegant recesses of ease and luxury was disturbed by the impatient
@@ -420,7 +420,7 @@ denique parti Italiae invec tum tributorum ingens malum. Aur. Vict. c.
 39. It was a necessary consequence of the division of the empire: it
 became impossible to maintain a second court and executive, and leave
 so large and fruitful a part of the territory exempt from
-contribution.--M.]
+contribution.{emdash}M.]
  and the officers of the revenue
 already began to number the Roman people, and to settle the proportion
 of the new taxes. Even when the spirit of freedom had been utterly
@@ -464,7 +464,7 @@ stranger was therefore raised to the throne of Italy, and the son of
 the late emperor of the West was left to enjoy the luxury of a private
 fortune in a villa a few miles distant from the capital. The gloomy
 passions of his soul, shame, vexation, and rage, were inflamed by envy
-on the news of Constantine's success; but the hopes of Maxentius revived
+on the news of Constantine{apos}s success; but the hopes of Maxentius revived
 with the public discontent, and he was easily persuaded to unite his
 personal injury and pretensions with the cause of the Roman people.
 Two Praetorian tribunes and a commissary of provisions undertook the
@@ -484,7 +484,7 @@ to reassume the purple. His ancient dignity, his experience, and his
 fame in arms, added strength as well as reputation to the party of
 Maxentius. footnote:[The sixth Panegyric represents the conduct of Maximian
 in the most favorable light, and the ambiguous expression of Aurelius
-Victor, "retractante diu," may signify either that he contrived, or that
+Victor, {ldquo}retractante diu,{rdquo} may signify either that he contrived, or that
 he opposed, the conspiracy. See Zosimus, l. ii. p. 79, and Lactantius
 de M. P. c. 26.]
 
@@ -539,7 +539,7 @@ are very doubtfully and variously told in our ancient fragments,
 (see Tillemont, Hist. des Empereurs, tom. iv. part i. p. 555.) I have
 endeavored to extract from them a consistent and probable narration.
 * Note: Manso justly observes that two totally different narratives might
-be formed, almost upon equal authority. Beylage, iv.--M.]
+be formed, almost upon equal authority. Beylage, iv.{emdash}M.]
 
 
 
@@ -571,8 +571,8 @@ safety or ambition in the event of the war. footnote:[The sixth Panegyric was pr
 elevation of Constantine; but the prudent orator avoids the mention
 either of Galerius or of Maxentius. He introduces only one slight
 allusion to the actual troubles, and to the majesty of Rome. *
-Note: Compare Manso, Beylage, iv. p. 302. Gibbon's account is at least
-as probable as that of his critic.--M.]
+Note: Compare Manso, Beylage, iv. p. 302. Gibbon{apos}s account is at least
+as probable as that of his critic.{emdash}M.]
 
 
 
@@ -622,8 +622,8 @@ long contended against the discipline and valor of the legions. We are
 likewise informed that the legions themselves were struck with horror
 and remorse, and that those pious sons of the republic refused to
 violate the sanctity of their venerable parent. footnote:[Lactantius de M. P. c. 28. The former of these reasons
-is probably taken from Virgil's Shepherd: "Illam * * * ego huic notra
-similem, Meliboee, putavi," &c. Lactantius delights in these poetical
+is probably taken from Virgil{apos}s Shepherd: {ldquo}Illam * * * ego huic notra
+similem, Meliboee, putavi,{rdquo} &c. Lactantius delights in these poetical
 illusions.]
  But when we
 recollect with how much ease, in the more ancient civil wars, the zeal
@@ -632,11 +632,11 @@ citizens of Rome into her most implacable enemies, we shall be inclined
 to distrust this extreme delicacy of strangers and barbarians, who had
 never beheld Italy till they entered it in a hostile manner. Had they
 not been restrained by motives of a more interested nature, they would
-probably have answered Galerius in the words of Caesar's veterans: "If
+probably have answered Galerius in the words of Caesar{apos}s veterans: {ldquo}If
 our general wishes to lead us to the banks of the Tyber, we are prepared
 to trace out his camp. Whatsoever walls he has determined to level
 with the ground, our hands are ready to work the engines: nor shall we
-hesitate, should the name of the devoted city be Rome itself." These
+hesitate, should the name of the devoted city be Rome itself.{rdquo} These
 are indeed the expressions of a poet; but of a poet who has been
 distinguished, and even censured, for his strict adherence to the truth
 of history. footnote:[Castra super Tusci si ponere Tybridis undas; (jubeus)
@@ -802,7 +802,7 @@ had spared an old man, the benefactor of his father, and the father of
 his wife. During the whole of this melancholy transaction, it appears
 that Fausta sacrificed the sentiments of nature to her conjugal duties.
 footnote:[Zosim. l. ii. p. 82. Eumenius in Panegyr. Vet. vii.
-16--21. The latter of these has undoubtedly represented the whole
+16{endash}21. The latter of these has undoubtedly represented the whole
 affair in the most favorable light for his sovereign. Yet even from
 this partial narrative we may conclude, that the repeated clemency
 of Constantine, and the reiterated treasons of Maximian, as they
@@ -814,10 +814,10 @@ generum tentaret acerbe, jure tamen interierat. Aur. Vict. de Caesar l.
 p. 623. Eutropius also says, inde ad Gallias profectus est (Maximianus)
 composito tamquam a filio esset expulsus, ut Constantino genero jun
 geretur: moliens tamen Constantinum, reperta occasione, interficere,
-dedit justissimo exitu. Eutrop. x. p. 661. (Anon. Gent.)--G. ----
+dedit justissimo exitu. Eutrop. x. p. 661. (Anon. Gent.){emdash}G. {emdash}{emdash}
 These writers hardly confirm more than Gibbon admits; he denies the
 repeated clemency of Constantine, and the reiterated treasons of
-Maximian Compare Manso, p. 302.--M.]
+Maximian Compare Manso, p. 302.{emdash}M.]
 
 
 
@@ -862,7 +862,7 @@ accuracy and apparent pleasure.]
 and powerful party among his subjects, his sufferings, instead of
 exciting their compassion, have been celebrated as the visible effects
 of divine justice. footnote:[If any (like the late Dr. Jortin, Remarks on
-Ecclesiastical History, vol. ii. p. 307--356) still delight in recording
+Ecclesiastical History, vol. ii. p. 307{endash}356) still delight in recording
 the wonderful deaths of the persecutors, I would recommend to their
 perusal an admirable passage of Grotius (Hist. l. vii. p. 332)
 concerning the last illness of Philip II. of Spain.]
@@ -926,7 +926,7 @@ discovering, in such a treatment of royal captives, any thing that was
 repugnant to the laws of nations or of humanity. footnote:[Yet the panegyric assumes something of an apologetic tone.
 Te vero Constantine, quantumlibet oderint hoses, dum perhorrescant. Haec
 est enim vera virtus, ut non ament et quiescant. The orator appeals to
-the ancient ideal of the republic.--M.]
+the ancient ideal of the republic.{emdash}M.]
 
 
 
@@ -954,8 +954,8 @@ extent of that fertile country, were wasted by fire and sword. The abuse
 of victory was followed by the abuse of law and justice. A formidable
 army of sycophants and delators invaded Africa; the rich and the noble
 were easily convicted of a connection with the rebels; and those among
-them who experienced the emperor's clemency, were only punished by the
-confiscation of their estates. footnote:[Zosimus, l. ii. p. 83--85. Aurelius Victor.]
+them who experienced the emperor{apos}s clemency, were only punished by the
+confiscation of their estates. footnote:[Zosimus, l. ii. p. 83{endash}85. Aurelius Victor.]
  So signal a victory was celebrated by
 a magnificent triumph, and Maxentius exposed to the eyes of the people
 the spoils and captives of a Roman province. The state of the capital
@@ -1032,7 +1032,7 @@ a formidable enemy, whose ambition had been hitherto restrained by
 considerations of prudence, rather than by principles of justice. footnote:[After the victory of Constantine, it was universally
 allowed, that the motive of delivering the republic from a detested
 tyrant, would, at any time, have justified his expedition into Italy.
-Euseb in Vi'. Constantin. l. i. c. 26. Panegyr. Vet. ix. 2.]
+Euseb in Vi{apos}. Constantin. l. i. c. 26. Panegyr. Vet. ix. 2.]
 
 After the death of Maximian, his titles, according to the established
 custom, had been erased, and his statues thrown down with ignominy. His
@@ -1052,7 +1052,7 @@ force to invade the Gallic provinces on the side of Rhaetia; and though
 he could not expect any assistance from Licinius, he was flattered with
 the hope that the legions of Illyricum, allured by his presents and
 promises, would desert the standard of that prince, and unanimously
-declare themselves his soldiers and subjects. footnote:[Zosimus, l. ii. p. 84, 85. Nazarius in Panegyr. x. 7--13.]
+declare themselves his soldiers and subjects. footnote:[Zosimus, l. ii. p. 84, 85. Nazarius in Panegyr. x. 7{endash}13.]
  Constantine no longer
 hesitated. He had deliberated with caution, he acted with vigor. He gave
 a private audience to the ambassadors, who, in the name of the senate
@@ -1104,7 +1104,7 @@ in his power to employ above half his troops in the Italian expedition,
 unless he sacrificed the public safety to his private quarrel. footnote:[Panegyr. Vet. ix. 3. It is not surprising that the orator
 should diminish the numbers with which his sovereign achieved the
 conquest of Italy; but it appears somewhat singular that he should
-esteem the tyrant's army at no more than 100,000 men.]
+esteem the tyrant{apos}s army at no more than 100,000 men.]
  At
 the head of about forty thousand soldiers he marched to encounter an
 enemy whose numbers were at least four times superior to his own.
@@ -1141,14 +1141,14 @@ nations, that had never yielded a passage to a regular army. footnote:[The three
 Italy, are those of Mount St. Bernard, Mount Cenis, and Mount Genevre.
 Tradition, and a resemblance of names, (Alpes Penninoe,) had assigned
 the first of these for the march of Hannibal, (see Simler de Alpibus.)
-The Chevalier de Folard (Polyp. tom. iv.) and M. d'Anville have led him
+The Chevalier de Folard (Polyp. tom. iv.) and M. d{apos}Anville have led him
 over Mount Genevre. But notwithstanding the authority of an experienced
 officer and a learned geographer, the pretensions of Mount Cenis are
 supported in a specious, not to say a convincing, manner, by M. Grosley.
-Observations sur l'Italie, tom. i. p. 40, &c.  ----The dissertation of
+Observations sur l{apos}Italie, tom. i. p. 40, &c.  {emdash}{emdash}The dissertation of
 Messrs. Cramer and Wickham has clearly shown that the Little St. Bernard
-must claim the honor of Hannibal's passage. Mr. Long (London, 1831) has
-added some sensible corrections re Hannibal's march to the Alps.--M]
+must claim the honor of Hannibal{apos}s passage. Mr. Long (London, 1831) has
+added some sensible corrections re Hannibal{apos}s march to the Alps.{emdash}M]
 
 The Alps were then guarded by nature, they are now fortified by art.
 Citadels, constructed with no less skill than labor and expense, command
@@ -1171,7 +1171,7 @@ received any certain intelligence of his departure from the banks of the
 Rhine. The city of Susa, however, which is situated at the foot of
 Mount Cenis, was surrounded with walls, and provided with a garrison
 sufficiently numerous to check the progress of an invader; but the
-impatience of Constantine's troops disdained the tedious forms of a
+impatience of Constantine{apos}s troops disdained the tedious forms of a
 siege. The same day that they appeared before Susa, they applied fire to
 the gates, and ladders to the walls; and mounting to the assault amidst
 a shower of stones and arrows, they entered the place sword in hand,
@@ -1342,7 +1342,7 @@ became of course the enemy of Rome.]
 
 
 
-The celerity of Constantine's march has been compared to the rapid
+The celerity of Constantine{apos}s march has been compared to the rapid
 conquest of Italy by the first of the Caesars; nor is the flattering
 parallel repugnant to the truth of history, since no more than
 fifty-eight days elapsed between the surrender of Verona and the final
@@ -1413,14 +1413,14 @@ probable that such a bridge was thrown over the river to facilitate the
 advance, and to secure the retreat, of the army of Maxentius? In case of
 defeat, orders were given for destroying it, in order to check the
 pursuit: it broke down accidentally, or in the confusion was destroyed,
-as has not unfrequently been the case, before the proper time.--M.]
+as has not unfrequently been the case, before the proper time.{emdash}M.]
  His body, which
 had sunk very deep into the mud, was found with some difficulty the
 next day. The sight of his head, when it was exposed to the eyes of
 the people, convinced them of their deliverance, and admonished them
 to receive with acclamations of loyalty and gratitude the fortunate
 Constantine, who thus achieved by his valor and ability the most
-splendid enterprise of his life. footnote:[Zosimus, l. ii. p. 86-88, and the two Panegyrics, the
+splendid enterprise of his life. footnote:[Zosimus, l. ii. p. 86{endash}88, and the two Panegyrics, the
 former of which was pronounced a few months afterwards, afford the
 clearest notion of this great battle. Lactantius, Eusebius, and even the
 Epitomes, supply several useful hints.]
@@ -1446,7 +1446,7 @@ Omnibus qui labefactari statum ejus poterant cum stirpe deletis. The
 other orator (Panegyr. Vet. ix. 20, 21) contents himself with observing,
 that Constantine, when he entered Rome, did not imitate the cruel
 massacres of Cinna, of Marius, or of Sylla. * Note: This may refer to
-the son or sons of Maxentius.--M.]
+the son or sons of Maxentius.{emdash}M.]
  He inflicted
 the same treatment to which a defeat would have exposed his own person
 and family, put to death the two sons of the tyrant, and carefully
@@ -1488,8 +1488,8 @@ trophies of Constantine. The new ornaments which it was necessary to
 introduce between the vacancies of ancient sculpture are executed in the
 rudest and most unskillful manner. footnote:[Adhuc cuncta opera quae magnifice construxerat, urbis
 fanum atque basilicam, Flavii meritis patres sacravere. Aurelius Victor.
-With regard to the theft of Trajan's trophies, consult Flaminius Vacca,
-apud Montfaucon, Diarium Italicum, p. 250, and l'Antiquite Expliquee of
+With regard to the theft of Trajan{apos}s trophies, consult Flaminius Vacca,
+apud Montfaucon, Diarium Italicum, p. 250, and l{apos}Antiquite Expliquee of
 the latter, tom. iv. p. 171.]
 
 
@@ -1535,7 +1535,7 @@ pigneraveris ut Senatus dignitas.... ex totius Orbis flore consisteret.
 Nazarius in Panegyr. Vet x. 35. The word pigneraveris might almost seem
 maliciously chosen. Concerning the senatorial tax, see Zosimus, l. ii.
 p. 115, the second title of the sixth book of the Theodosian Code, with
-Godefroy's Commentary, and Memoires de l'Academic des Inscriptions, tom.
+Godefroy{apos}s Commentary, and Memoires de l{apos}Academic des Inscriptions, tom.
 xxviii. p. 726.]
  After the defeat of Maxentius, the victorious emperor
 passed no more than two or three months in Rome, which he visited twice
@@ -1586,7 +1586,7 @@ after a siege of eleven days. He was detained some days under the walls
 of Heraclea; and he had no sooner taken possession of that city, than he
 was alarmed by the intelligence, that Licinius had pitched his camp at
 the distance of only eighteen miles. After a fruitless negotiation, in
-which the two princes attempted to seduce the fidelity of each other's
+which the two princes attempted to seduce the fidelity of each other{apos}s
 adherents, they had recourse to arms. The emperor of the East commanded
 a disciplined and veteran army of above seventy thousand men; and
 Licinius, who had collected about thirty thousand Illyrians, was at
@@ -1605,7 +1605,7 @@ poison, and to the divine justice. As Maximin was alike destitute of
 abilities and of virtue, he was lamented neither by the people nor by
 the soldiers. The provinces of the East, delivered from the terrors of
 civil war, cheerfully acknowledged the authority of Licinius. footnote:[Zosimus mentions the defeat and death of Maximin as
-ordinary events; but Lactantius expatiates on them, (de M. P. c. 45-50,)
+ordinary events; but Lactantius expatiates on them, (de M. P. c. 45{endash}50,)
 ascribing them to the miraculous interposition of Heaven. Licinius at
 that time was one of the protectors of the church.]
 
@@ -1650,14 +1650,14 @@ examined their naked charms with anxious curiosity, lest any part of
 their body should be found unworthy of the royal embraces. Coyness and
 disdain were considered as treason, and the obstinate fair one was
 condemned to be drowned. A custom was gradually introduced, that no
-person should marry a wife without the permission of the emperor, "ut
-ipse in omnibus nuptiis praegustator esset." Lactantius de M. P. c. 38.]
+person should marry a wife without the permission of the emperor, {ldquo}ut
+ipse in omnibus nuptiis praegustator esset.{rdquo} Lactantius de M. P. c. 38.]
  He had a wife still alive; but divorce was permitted by the
 Roman law, and the fierce passions of the tyrant demanded an immediate
 gratification. The answer of Valeria was such as became the daughter
 and widow of emperors; but it was tempered by the prudence which her
 defenceless condition compelled her to observe. She represented to the
-persons whom Maximin had employed on this occasion, "that even if honor
+persons whom Maximin had employed on this occasion, {ldquo}that even if honor
 could permit a woman of her character and dignity to entertain a thought
 of second nuptials, decency at least must forbid her to listen to his
 addresses at a time when the ashes of her husband, and his benefactor
@@ -1665,7 +1665,7 @@ were still warm, and while the sorrows of her mind were still expressed
 by her mourning garments. She ventured to declare, that she could
 place very little confidence in the professions of a man whose cruel
 inconstancy was capable of repudiating a faithful and affectionate
-wife." footnote:[Lactantius de M. P. c. 39.]
+wife.{rdquo} footnote:[Lactantius de M. P. c. 39.]
  On this repulse, the love of Maximin was converted into fury;
 and as witnesses and judges were always at his disposal, it was easy for
 him to cover his fury with an appearance of legal proceedings, and to
@@ -1775,7 +1775,7 @@ refuge in his dominions, confirmed the suspicions already entertained of
 his perfidy; and the indignities offered at Aemona, on the frontiers of
 Italy, to the statues of Constantine, became the signal of discord
 between the two princes. footnote:[The situation of Aemona, or, as it is now called, Laybach,
-in Carniola, (D'Anville, Geographie Ancienne, tom. i. p. 187,) may
+in Carniola, (D{apos}Anville, Geographie Ancienne, tom. i. p. 187,) may
 suggest a conjecture. As it lay to the north-east of the Julian Alps,
 that important territory became a natural object of dispute between the
 sovereigns of Italy and of Illyricum.]
@@ -1791,7 +1791,7 @@ obscure ruins of Swilei) was situated about fifty miles from Sirmium,
 the capital of Illyricum, and about one hundred from Taurunum, or
 Belgrade, and the conflux of the Danube and the Save. The Roman
 garrisons and cities on those rivers are finely illustrated by M.
-d'Anville in a memoir inserted in l'Academie des Inscriptions, tom.
+d{apos}Anville in a memoir inserted in l{apos}Academie des Inscriptions, tom.
 xxviii.]
  From the
 inconsiderable forces which in this important contest two such powerful
@@ -1860,11 +1860,11 @@ whilst its inevitable calamities were alike pernicious to both the
 contending parties; and declared that he was authorized to propose a
 lasting and honorable peace in the name of the two emperors his
 masters. Constantine received the mention of Valens with indignation and
-contempt. "It was not for such a purpose," he sternly replied, "that we
+contempt. {ldquo}It was not for such a purpose,{rdquo} he sternly replied, {ldquo}that we
 have advanced from the shores of the western ocean in an uninterrupted
 course of combats and victories, that, after rejecting an ungrateful
 kinsman, we should accept for our colleague a contemptible slave. The
-abdication of Valens is the first article of the treaty." footnote:[Petrus Patricius in Excerpt. Legat. p. 27. If it should be
+abdication of Valens is the first article of the treaty.{rdquo} footnote:[Petrus Patricius in Excerpt. Legat. p. 27. If it should be
 thought that signifies more properly a son-in-law, we might conjecture
 that Constantine, assuming the name as well as the duties of a father,
 had adopted his younger brothers and sisters, the children of Theodora.
@@ -1940,7 +1940,7 @@ immediate and sufficient relief to be given to those parents who should
 produce before the magistrates the children whom their own poverty would
 not allow them to educate. But the promise was too liberal, and the
 provision too vague, to effect any general or permanent benefit. footnote:[Codex Theodosian. l. xi. tit. 27, tom. iv. p. 188, with
-Godefroy's observations. See likewise l. v. tit. 7, 8.]
+Godefroy{apos}s observations. See likewise l. v. tit. 7, 8.]
 
 The law, though it may merit some praise, served rather to display than
 to alleviate the public distress. It still remains an authentic monument
@@ -1956,9 +1956,9 @@ the most amiable weaknesses of human nature; since the description of
 that crime was applied not only to the brutal violence which compelled,
 but even to the gentle seduction which might persuade, an unmarried
 woman, under the age of twenty-five, to leave the house of her parents.
-"The successful ravisher was punished with death;" and as if simple death
+{ldquo}The successful ravisher was punished with death;{rdquo} and as if simple death
 was inadequate to the enormity of his guilt, he was either burnt alive,
-or torn in pieces by wild beasts in the amphitheatre. The virgin's
+or torn in pieces by wild beasts in the amphitheatre. The virgin{apos}s
 declaration, that she had been carried away with her own consent,
 instead of saving her lover, exposed her to share his fate. The duty of
 a public prosecution was intrusted to the parents of the guilty or
@@ -1985,13 +1985,13 @@ the subject with Lactantius, that he was moved, among other things, by
 the passage to which I have referred, and in the first transport of his
 enthusiasm, he published the edict in question? The whole of the edict
 bears the character of precipitation, of excitement, (entrainement,)
-rather than of deliberate reflection--the extent of the promises, the
+rather than of deliberate reflection{emdash}the extent of the promises, the
 indefiniteness of the means, of the conditions, and of the time during
 which the parents might have a right to the succor of the state. Is
 there not reason to believe that the humanity of Constantine was excited
 by the influence of Lactantius, by that of the principles of
 Christianity, and of the Christians themselves, already in high esteem
-with the emperor, rather than by some "extraordinary instances of
+with the emperor, rather than by some {ldquo}extraordinary instances of
 despair"? * * * See Hegewisch, Essai Hist. sur les Finances Romaines.
 The edict for Africa was not published till 322: of that we may say in
 truth that its origin was in the misery of the times. Africa had
@@ -2004,7 +2004,7 @@ determined. (Code Theod. l. xi. tit. 27, c 2.) If the direct utility of
 these laws may not have been very extensive, they had at least the great
 and happy effect of establishing a decisive opposition between the
 principles of the government and those which, at this time, had
-prevailed among the subjects of the empire.--G.]
+prevailed among the subjects of the empire.{emdash}G.]
 
 
 
@@ -2018,8 +2018,8 @@ p. 189.]
 horror than the punishment, the rigor of penal law is obliged to give
 way to the common feelings of mankind. The most odious parts of this
 edict were softened or repealed in the subsequent reigns; footnote:[His son very fairly assigns the true reason of the repeal:
-"Na sub specie atrocioris judicii aliqua in ulciscendo crimine dilatio
-nae ceretur." Cod. Theod. tom. iii. p. 193]
+{ldquo}Na sub specie atrocioris judicii aliqua in ulciscendo crimine dilatio
+nae ceretur.{rdquo} Cod. Theod. tom. iii. p. 193]
  and even
 Constantine himself very frequently alleviated, by partial acts of
 mercy, the stern temper of his general institutions. Such, indeed, was
@@ -2055,7 +2055,7 @@ the Alemanni is expressed on some medals. * Note: Other medals are
 extant, the legends of which commemorate the success of Constantine over
 the Sarmatians and other barbarous nations, Sarmatia Devicta. Victoria
 Gothica. Debellatori Gentium Barbarorum. Exuperator Omnium Gentium. St.
-Martin, note on Le Beau, i. 148.--M.]
+Martin, note on Le Beau, i. 148.{emdash}M.]
  The emperor himself had assumed the more difficult and important
 province of the Danube. The Goths, who in the time of Claudius and
 Aurelian had felt the weight of the Roman arms, respected the power
@@ -2106,7 +2106,7 @@ of Constantine, and not from any particular account of the Gothic war.]
 
 
 [Footnote 981]: Campona, Old Buda in Hungary; Margus, Benonia, Widdin, in
-Maesia--G and M.]
+Maesia{emdash}G and M.]
 
 
 
@@ -2159,7 +2159,7 @@ But the naval preparations of Constantine were in every respect much
 inferior to those of Licinius. The maritime cities of Greece sent their
 respective quotas of men and ships to the celebrated harbor of Piraeus,
 and their united forces consisted of no more than two hundred small
-vessels--a very feeble armament, if it is compared with those formidable
+vessels{emdash}a very feeble armament, if it is compared with those formidable
 fleets which were equipped and maintained by the republic of Athens
 during the Peloponnesian war. footnote:[Whilst the Athenians maintained the empire of the sea,
 their fleet consisted of three, and afterwards of four, hundred galleys
@@ -2175,7 +2175,7 @@ were supported by commerce rather than by war, it was natural that they
 should the most abound in the industrious provinces of Egypt and Asia.
 It is only surprising that the eastern emperor, who possessed so great a
 superiority at sea, should have neglected the opportunity of carrying an
-offensive war into the centre of his rival's dominions.
+offensive war into the centre of his rival{apos}s dominions.
 
 
 
@@ -2223,7 +2223,7 @@ retired to the mountains, surrendered themselves the next day to the
 discretion of the conqueror; and his rival, who could no longer keep the
 field, confined himself within the walls of Byzantium. footnote:[Zosimus, l. ii. p. 95, 96. This great battle is described
 in the Valesian fragment, (p. 714,) in a clear though concise manner.
-"Licinius vero circum Hadrianopolin maximo exercitu latera ardui montis
+{ldquo}Licinius vero circum Hadrianopolin maximo exercitu latera ardui montis
 impleverat; illuc toto agmine Constantinus inflexit. Cum bellum
 terra marique traheretur, quamvis per arduum suis nitentibus, attamen
 disciplina militari et felicitate, Constantinus Licinu confusum et sine
@@ -2242,7 +2242,7 @@ commanders of Constantine were summoned to his camp, and received his
 positive orders to force the passage of the Hellespont, as the fleet
 of Licinius, instead of seeking and destroying their feeble enemy,
 continued inactive in those narrow straits, where its superiority of
-numbers was of little use or advantage. Crispus, the emperor's eldest
+numbers was of little use or advantage. Crispus, the emperor{apos}s eldest
 son, was intrusted with the execution of this daring enterprise, which
 he performed with so much courage and success, that he deserved the
 esteem, and most probably excited the jealousy, of his father. The
@@ -2252,7 +2252,7 @@ their respective harbors of Europe and Asia. The second day, about noon,
 a strong south wind footnote:[Zosimus, l. ii. p. 97, 98. The current always sets out
 of the Hellespont; and when it is assisted by a north wind, no vessel
 can attempt the passage. A south wind renders the force of the current
-almost imperceptible. See Tournefort's Voyage au Levant, Let. xi.]
+almost imperceptible. See Tournefort{apos}s Voyage au Levant, Let. xi.]
  sprang up, which carried the vessels of Crispus
 against the enemy; and as the casual advantage was improved by his
 skilful intrepidity, he soon obtained a complete victory. A hundred

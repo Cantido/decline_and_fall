@@ -3,8 +3,8 @@
 
 === Part I
 
-     The Cruelty, Follies, And Murder Of Commodus--Election Of
-     Pertinax--His Attempts To Reform The State--His
+     The Cruelty, Follies, And Murder Of Commodus{emdash}Election Of
+     Pertinax{emdash}His Attempts To Reform The State{emdash}His
      Assassination By The Praetorian Guards.
 
 The mildness of Marcus, which the rigid discipline of the Stoics was
@@ -18,7 +18,7 @@ honors by affecting to despise them. footnote:[See the complaints of Avidius Cas
 exaggerates, rather than invents.]
  His excessive indulgence to
 his brother, footnote:[His brother by adoption, and his colleague, L. Verus.
-Marcus Aurelius had no other brother.--W.]
+Marcus Aurelius had no other brother.{emdash}W.]
  his wife, and his son, exceeded the bounds of private
 virtue, and became a public injury, by the example and consequences of
 their vices.
@@ -64,11 +64,11 @@ of their chaste patroness. footnote:[Dion Cassius, l. lxxi. (c. 31,]
 
  p. 1195. Hist. August.
 p. 33. Commentaire de Spanheim sur les Caesars de Julien, p. 289. The
-deification of Faustina is the only defect which Julian's criticism is
+deification of Faustina is the only defect which Julian{apos}s criticism is
 able to discover in the all-accomplished character of Marcus.]
 
 The monstrous vices of the son have cast a shade on the purity of the
-father's virtues. It has been objected to Marcus, that he sacrificed the
+father{apos}s virtues. It has been objected to Marcus, that he sacrificed the
 happiness of millions to a fond partiality for a worthless boy; and that
 he chose a successor in his own family, rather than in the republic.
 Nothing however, was neglected by the anxious father, and by the men of
@@ -101,7 +101,7 @@ blood; but these motives will not account for the unprovoked cruelties
 of Commodus, who had nothing to wish and every thing to enjoy. The
 beloved son of Marcus succeeded to his father, amidst the acclamations
 of the senate and armies; footnote:[Commodus was the first Porphyrogenitus, (born since his
-father's accession to the throne.) By a new strain of flattery,
+father{apos}s accession to the throne.) By a new strain of flattery,
 the Egyptian medals date by the years of his life; as if they were
 synonymous to those of his reign. Tillemont, Hist. des Empereurs, tom.
 ii. p. 752.]
@@ -146,7 +146,7 @@ with the tumult of a Pannonian camp, which afforded neither leisure nor
 materials for luxury. footnote:[Herodian, l. i. p. 12.]
  Commodus listened to the pleasing advice; but
 whilst he hesitated between his own inclination and the awe which he
-still retained for his father's counsellors, the summer insensibly
+still retained for his father{apos}s counsellors, the summer insensibly
 elapsed, and his triumphal entry into the capital was deferred till the
 autumn. His graceful person, footnote:[Herodian, l. i. p. 16.]
  popular address, and imagined virtues,
@@ -184,13 +184,13 @@ character.
 One evening, as the emperor was returning to the palace, through a dark
 and narrow portico in the amphitheatre, footnote:[See Maffei degli Amphitheatri, p. 126.]
  an assassin, who waited his
-passage, rushed upon him with a drawn sword, loudly exclaiming, "The
-senate sends you this." The menace prevented the deed; the assassin
+passage, rushed upon him with a drawn sword, loudly exclaiming, {ldquo}The
+senate sends you this.{rdquo} The menace prevented the deed; the assassin
 was seized by the guards, and immediately revealed the authors of the
 conspiracy. It had been formed, not in the state, but within the walls
-of the palace. Lucilla, the emperor's sister, and widow of Lucius Verus,
+of the palace. Lucilla, the emperor{apos}s sister, and widow of Lucius Verus,
 impatient of the second rank, and jealous of the reigning empress, had
-armed the murderer against her brother's life. She had not ventured to
+armed the murderer against her brother{apos}s life. She had not ventured to
 communicate the black design to her second husband, Claudius Pompeiarus,
 a senator of distinguished merit and unshaken loyalty; but among the
 crowd of her lovers (for she imitated the manners of Faustina) she found
@@ -208,7 +208,7 @@ p. 46.]
 But the words of the assassin sunk deep into the mind of Commodus, and
 left an indelible impression of fear and hatred against the whole body
 of the senate. footnote:[The conspirators were senators, even the assassin
-himself. Herod. 81.--G.]
+himself. Herod. 81.{emdash}G.]
  Those whom he had dreaded as importunate ministers,
 he now suspected as secret enemies. The Delators, a race of men
 discouraged, and almost extinguished, under the former reigns, again
@@ -236,7 +236,7 @@ and their pleasures, were still the same. In the enjoyment of a great
 estate, they never admitted the idea of a separate interest: some
 fragments are now extant of a treatise which they composed in common;
 footnote:[This work was on agriculture, and is often quoted by later
-writers. See P. Needham, Proleg. ad Geoponic. Camb. 1704.--W.]
+writers. See P. Needham, Proleg. ad Geoponic. Camb. 1704.{emdash}W.]
  and in every action of life it was observed that their two bodies
 were animated by one soul. The Antonines, who valued their virtues, and
 delighted in their union, raised them, in the same year, to the
@@ -252,7 +252,7 @@ See p. 96 of his learned commentary.]
 
 
 
-The tyrant's rage, after having shed the noblest blood of the senate,
+The tyrant{apos}s rage, after having shed the noblest blood of the senate,
 at length recoiled on the principal instrument of his cruelty. Whilst
 Commodus was immersed in blood and luxury, he devolved the detail of the
 public business on Perennis, a servile and ambitious minister, who had
@@ -273,7 +273,7 @@ select men, with instructions to march to Rome, and lay their complaints
 before the emperor. These military petitioners, by their own determined
 behaviour, by inflaming the divisions of the guards, by exaggerating
 the strength of the British army, and by alarming the fears of Commodus,
-exacted and obtained the minister's death, as the only redress of their
+exacted and obtained the minister{apos}s death, as the only redress of their
 grievances. footnote:[Dion, l. lxxii. p. 1210. Herodian, l. i. p. 22. Hist.
 August. p. 48. Dion gives a much less odious character of Perennis, than
 the other historians. His moderation is almost a pledge of his veracity.
@@ -283,7 +283,7 @@ Lampridius. Dion speaks of Perennis not only with moderation, but with
 admiration; he represents him as a great man, virtuous in his life, and
 blameless in his death: perhaps he may be suspected of partiality; but
 it is singular that Gibbon, having adopted, from Herodian and
-Lampridius, their judgment on this minister, follows Dion's improbable
+Lampridius, their judgment on this minister, follows Dion{apos}s improbable
 account of his death. What likelihood, in fact, that fifteen hundred men
 should have traversed Gaul and Italy, and have arrived at Rome without
 any understanding with the Praetorians, or without detection or
@@ -294,10 +294,10 @@ did not reach Rome, but that the emperor went out to meet them: he even
 reproaches him for not having opposed them with the guards, who were
 superior in number. Herodian relates that Commodus, having learned, from
 a soldier, the ambitious designs of Perennis and his son, caused them to
-be attacked and massacred by night.--G. from W. Dion's narrative is
+be attacked and massacred by night.{emdash}G. from W. Dion{apos}s narrative is
 remarkably circumstantial, and his authority higher than either of the
 other writers. He hints that Cleander, a new favorite, had already
-undermined the influence of Perennis.--M.]
+undermined the influence of Perennis.{emdash}M.]
  This presumption of a distant army, and their discovery
 of the weakness of government, was a sure presage of the most dreadful
 convulsions.
@@ -345,7 +345,7 @@ a nation over whose stubborn, but servile temper, blows only could
 prevail. footnote:[Cicero pro Flacco, c. 27.]
  He had been sent from his native country to Rome, in the
 capacity of a slave. As a slave he entered the Imperial palace, rendered
-himself useful to his master's passions, and rapidly ascended to the
+himself useful to his master{apos}s passions, and rapidly ascended to the
 most exalted station which a subject could enjoy. His influence over
 the mind of Commodus was much greater than that of his predecessor; for
 Cleander was devoid of any ability or virtue which could inspire the
@@ -375,7 +375,7 @@ pounds; Ter millies.]
 
 Commodus was perfectly satisfied with the magnificent presents which
 the artful courtier laid at his feet in the most seasonable moments.
-To divert the public envy, Cleander, under the emperor's name, erected
+To divert the public envy, Cleander, under the emperor{apos}s name, erected
 baths, porticos, and places of exercise, for the use of the people.
 footnote:[Dion, l. lxxii. p. 12, 13. Herodian, l. i. p. 29. Hist.
 August. p. 52. These baths were situated near the Porta Capena. See
@@ -396,7 +396,7 @@ time, assumed the appearance of a return to virtue. He repealed the most
 odious of his acts; loaded his memory with the public execration, and
 ascribed to the pernicious counsels of that wicked minister all the
 errors of his inexperienced youth. But his repentance lasted only thirty
-days; and, under Cleander's tyranny, the administration of Perennis was
+days; and, under Cleander{apos}s tyranny, the administration of Perennis was
 often regretted.
 
 
@@ -423,17 +423,17 @@ and power of the minister, was considered as the immediate cause of
 the second. The popular discontent, after it had long circulated in
 whispers, broke out in the assembled circus. The people quitted their
 favorite amusements for the more delicious pleasure of revenge,
-rushed in crowds towards a palace in the suburbs, one of the emperor's
+rushed in crowds towards a palace in the suburbs, one of the emperor{apos}s
 retirements, and demanded, with angry clamors, the head of the public
 enemy. Cleander, who commanded the Praetorian guards, footnote:[Tuneque primum tres praefecti praetorio fuere: inter quos
 libertinus. From some remains of modesty, Cleander declined the title,
 whilst he assumed the powers, of Praetorian praefect. As the other
 freedmen were styled, from their several departments, a rationibus,
 ab epistolis, Cleander called himself a pugione, as intrusted with the
-defence of his master's person. Salmasius and Casaubon seem to have
+defence of his master{apos}s person. Salmasius and Casaubon seem to have
 talked very idly upon this passage. * Note: M. Guizot denies that
 Lampridius means Cleander as praefect a pugione. The Libertinus seems to
-me to mean him.--M.]
+me to mean him.{emdash}M.]
  ordered a body
 of cavalry to sally forth, and disperse the seditious multitude. The
 multitude fled with precipitation towards the city; several were slain,
@@ -508,7 +508,7 @@ the steadiness of the eye and the dexterity of the hand.
 
 
 
-The servile crowd, whose fortune depended on their master's vices,
+The servile crowd, whose fortune depended on their master{apos}s vices,
 applauded these ignoble pursuits. The perfidious voice of flattery
 reminded him, that by exploits of the same nature, by the defeat of the
 Nemaean lion, and the slaughter of the wild boar of Erymanthus, the
@@ -537,8 +537,8 @@ Hercules with the inscription, Lucius Commodus Hercules. The wits of
 Rome, according to a new fragment of Dion, published an epigram, of
 which, like many other ancient jests, the point is not very clear.
 It seems to be a protest of the god against being confounded with the
-emperor. Mai Fragm. Vatican. ii. 225.--M.]
- The club and the lion's hide were
+emperor. Mai Fragm. Vatican. ii. 225.{emdash}M.]
+ The club and the lion{apos}s hide were
 placed by the side of the throne, amongst the ensigns of sovereignty;
 and statues were erected, in which Commodus was represented in the
 character, and with the attributes, of the god, whose valor and
@@ -565,7 +565,7 @@ skill of the Imperial performer. Whether he aimed at the head or heart
 of the animal, the wound was alike certain and mortal. With arrows whose
 point was shaped into the form of crescent, Commodus often intercepted
 the rapid career, and cut asunder the long, bony neck of the ostrich.
-footnote:[The ostrich's neck is three feet long, and composed of
+footnote:[The ostrich{apos}s neck is three feet long, and composed of
 seventeen vertebrae. See Buffon, Hist. Naturelle.]
  A panther was let loose; and the archer waited till he had leaped
 upon a trembling malefactor. In the same instant the shaft flew, the
@@ -586,12 +586,12 @@ Note: The naturalists of our days have been more fortunate. London
 probably now contains more specimens of this animal than have been seen
 in Europe since the fall of the Roman empire, unless in the pleasure
 gardens of the emperor Frederic II., in Sicily, which possessed several.
-Frederic's collections of wild beasts were exhibited, for the popular
+Frederic{apos}s collections of wild beasts were exhibited, for the popular
 amusement, in many parts of Italy. Raumer, Geschichte der Hohenstaufen,
 v. iii. p. 571. Gibbon, moreover, is mistaken; as a giraffe was
 presented to Lorenzo de Medici, either by the sultan of Egypt or the
 king of Tunis. Contemporary authorities are quoted in the old work,
-Gesner de Quadrupedibum p. 162.--M.]
+Gesner de Quadrupedibum p. 162.{emdash}M.]
  In all these
 exhibitions, the securest precautions were used to protect the person of
 the Roman Hercules from the desperate spring of any savage, who might
@@ -651,14 +651,14 @@ danger.]
 Pompeianus, the virtuous husband of Lucilla, was the only senator who
 asserted the honor of his rank. As a father, he permitted his sons to
 consult their safety by attending the amphitheatre. As a Roman, he
-declared, that his own life was in the emperor's hands, but that he
+declared, that his own life was in the emperor{apos}s hands, but that he
 would never behold the son of Marcus prostituting his person and
 dignity. Notwithstanding his manly resolution Pompeianus escaped the
 resentment of the tyrant, and, with his honor, had the good fortune to
 preserve his life. footnote:[He mixed, however, some prudence with his courage, and
 passed the greatest part of his time in a country retirement; alleging
-his advanced age, and the weakness of his eyes. "I never saw him in the
-senate," says Dion, "except during the short reign of Pertinax." All his
+his advanced age, and the weakness of his eyes. {ldquo}I never saw him in the
+senate,{rdquo} says Dion, {ldquo}except during the short reign of Pertinax.{rdquo} All his
 infirmities had suddenly left him, and they returned as suddenly upon
 the murder of that excellent prince. Dion, l. lxxiii. p. 1227.]
 
@@ -698,7 +698,7 @@ Praetorian praefect, alarmed by the fate of their companions and
 predecessors, resolved to prevent the destruction which every hour hung
 over their heads, either from the mad caprice of the tyrant, footnote:[Commodus had already resolved to massacre them the
 following night they determined o anticipate his design. Herod. i.
-17.--W.]
+17.{emdash}W.]
  or
 the sudden indignation of the people. Marcia seized the occasion of
 presenting a draught of wine to her lover, after he had fatigued himself
@@ -707,7 +707,7 @@ was laboring with the effects of poison and drunkenness, a robust youth,
 by profession a wrestler, entered his chamber, and strangled him without
 resistance. The body was secretly conveyed out of the palace, before the
 least suspicion was entertained in the city, or even in the court, of
-the emperor's death. Such was the fate of the son of Marcus, and so
+the emperor{apos}s death. Such was the fate of the son of Marcus, and so
 easy was it to destroy a hated tyrant, who, by the artificial powers of
 government, had oppressed, during thirteen years, so many millions of
 subjects, each of whom was equal to their master in personal strength
@@ -753,7 +753,7 @@ by bribery and corruption.]
 ministers of Marcus; and when, at a late hour of the night, he was
 awakened with the news, that the chamberlain and the praefect were at
 his door, he received them with intrepid resignation, and desired they
-would execute their master's orders. Instead of death, they offered him
+would execute their master{apos}s orders. Instead of death, they offered him
 the throne of the Roman world. During some moments he distrusted their
 intentions and assurances. Convinced at length of the death of Commodus,
 he accepted the purple with a sincere reluctance, the natural effect of
@@ -783,10 +783,10 @@ year, the senators expected a summons to attend an ignominious ceremony.
 footnote:[The senate always assembled at the beginning of the year,
 on the night of the 1st January, (see Savaron on Sid. Apoll. viii. 6,)
 and this happened the present year, as usual, without any particular
-order.--G from W.]
+order.{emdash}G from W.]
  In spite of all remonstrances, even of those of his creatures who
 yet preserved any regard for prudence or decency, Commodus had resolved
-to pass the night in the gladiators' school, and from thence to take
+to pass the night in the gladiators{rsquo} school, and from thence to take
 possession of the consulship, in the habit and with the attendance of
 that infamous crew. On a sudden, before the break of day, the senate was
 called together in the temple of Concord, to meet the guards, and to
@@ -817,9 +817,9 @@ inconsistent it may appear with the solemnity of a religious assembly,
 the early Christians adopted and introduced it into their synods,
 notwithstanding the opposition of some of the Fathers, particularly of
 St. Chrysostom. See the Coll. of Franc. Bern. Ferrarius de veterum
-acclamatione in Graevii Thesaur. Antiq. Rom. i. 6.--W. This note is
+acclamatione in Graevii Thesaur. Antiq. Rom. i. 6.{emdash}W. This note is
 rather hypercritical, as regards Gibbon, but appears to be worthy of
-preservation.--M.]
+preservation.{emdash}M.]
  that his honors
 should be reversed, his titles erased from the public monuments, his
 statues thrown down, his body dragged with a hook into the stripping
@@ -859,14 +859,14 @@ infer, from the passage of Suetonius, that the senate, according to its
 ancient right, punished Nero with death. The words, however, more
 majerum refer not to the decree of the senate, but to the kind of death,
 which was taken from an old law of Romulus. (See Victor. Epit. Ed.
-Artzen p. 484, n. 7.)--W.]
+Artzen p. 484, n. 7.){emdash}W.]
 
 
 
 
 
 
-Pertinax found a nobler way of condemning his predecessor's memory; by
+Pertinax found a nobler way of condemning his predecessor{apos}s memory; by
 the contrast of his own virtues with the vices of Commodus. On the day
 of his accession, he resigned over to his wife and son his whole private
 fortune; that they might have no pretence to solicit favors at the
@@ -918,7 +918,7 @@ a liberal donative, which the new emperor had been obliged to promise
 to the Praetorian guards. Yet under these distressed circumstances,
 Pertinax had the generous firmness to remit all the oppressive taxes
 invented by Commodus, and to cancel all the unjust claims of the
-treasury; declaring, in a decree of the senate, "that he was better
+treasury; declaring, in a decree of the senate, {ldquo}that he was better
 satisfied to administer a poor republic with innocence, than to acquire
 riches by the ways of tyranny and dishonor. Economy and industry he
 considered as the pure and genuine sources of wealth; and from them he

@@ -10,7 +10,7 @@ Whenever Tacitus indulges himself in those beautiful episodes, in which
 he relates some domestic transaction of the Germans or of the Parthians,
 his principal object is to relieve the attention of the reader from a
 uniform scene of vice and misery. From the reign of Augustus to the time
-of Alexander Severus, the enemies of Rome were in her bosom--the tyrants
+of Alexander Severus, the enemies of Rome were in her bosom{emdash}the tyrants
 and the soldiers; and her prosperity had a very distant and feeble
 interest in the revolutions that might happen beyond the Rhine and the
 Euphrates. But when the military order had levelled, in wild anarchy,
@@ -51,10 +51,10 @@ usurped and lost the Macedonian command over the East. About the same
 time, that, by an ignominious treaty, they resigned to the Romans the
 country on this side Mount Tarus, they were driven by the Parthians,
 footnote:[Zeruane Akerene, so translated by Anquetil and Kleuker.
-There is a dissertation of Foucher on this subject, Mem. de l'Acad. des
+There is a dissertation of Foucher on this subject, Mem. de l{apos}Acad. des
 Inscr. t. xxix. According to Bohlen (das alte Indien) it is the Sanskrit
 Sarvan Akaranam, the Uncreated Whole; or, according to Fred. Schlegel,
-Sarvan Akharyam the Uncreate Indivisible.--M.]
+Sarvan Akharyam the Uncreate Indivisible.{emdash}M.]
  an obscure horde of Scythian origin, from all the provinces of Upper
 Asia. The formidable power of the Parthians, which spread from India
 to the frontiers of Syria, was in its turn subverted by Ardshir, or
@@ -81,11 +81,11 @@ p. 27. Whatever may be the case as to the latter assertion, for which
 there appears little foundation, it is unquestionable that the Sadder is
 of much later date. The Abbe Foucher does not even believe it to be an
 extract from the works of Zoroaster. See his Diss. before quoted. Mem.
-de l'Acad. des Ins. t. xxvii.--G. Perhaps it is rash to speak of any
+de l{apos}Acad. des Ins. t. xxvii.{emdash}G. Perhaps it is rash to speak of any
 part of the Zendavesta as the writing of Zoroaster, though it may be
 a genuine representation of his. As to the Sadder, Hyde (in Praef.)
 considered it not above 200 years old. It is manifestly post-Mahometan.
-See Art. xxv. on fasting.--M.]
+See Art. xxv. on fasting.{emdash}M.]
 
 
 
@@ -102,34 +102,34 @@ exile and rebellion by royal ingratitude, the customary reward for
 superior merit. His birth was obscure, and the obscurity equally
 gave room to the aspersions of his enemies, and the flattery of his
 adherents. If we credit the scandal of the former, Artaxerxes sprang
-from the illegitimate commerce of a tanner's wife with a common soldier.
-footnote:[The tanner's name was Babec; the soldier's, Sassan: from
+from the illegitimate commerce of a tanner{apos}s wife with a common soldier.
+footnote:[The tanner{apos}s name was Babec; the soldier{apos}s, Sassan: from
 the former Artaxerxes obtained the surname of Babegan, from the latter
 all his descendants have been styled Sassanides.]
  The latter represent him as descended from a branch of the ancient
 kings of Persian, though time and misfortune had gradually reduced his
-ancestors to the humble station of private citizens. footnote:[D'Herbelot, Bibliotheque Orientale, Ardshir.]
+ancestors to the humble station of private citizens. footnote:[D{apos}Herbelot, Bibliotheque Orientale, Ardshir.]
  As the
 lineal heir of the monarchy, he asserted his right to the throne, and
 challenged the noble task of delivering the Persians from the oppression
 under which they groaned above five centuries since the death of Darius.
 The Parthians were defeated in three great battles. footnote:[In the plain of Hoormuz, the son of Babek was hailed in
-the field with the proud title of Shahan Shah, king of kings--a name
-ever since assumed by the sovereigns of Persia. Malcolm, i. 71.--M.]
+the field with the proud title of Shahan Shah, king of kings{emdash}a name
+ever since assumed by the sovereigns of Persia. Malcolm, i. 71.{emdash}M.]
  In the last of
 these their king Artaban was slain, and the spirit of the nation was
 forever broken. footnote:[Dion Cassius, l. lxxx. Herodian, l. vi. p. 207.
 Abulpharagins Dynast. p. 80.]
  The authority of Artaxerxes was solemnly acknowledged
 in a great assembly held at Balch in Khorasan. footnote:[See the Persian account of the rise of Ardeschir Babegan
-in Malcolm l 69.--M.]
+in Malcolm l 69.{emdash}M.]
  Two younger branches
 of the royal house of Arsaces were confounded among the prostrate
 satraps. A third, more mindful of ancient grandeur than of present
 necessity, attempted to retire, with a numerous train of vessels,
 towards their kinsman, the king of Armenia; but this little army
 of deserters was intercepted, and cut off, by the vigilance of the
-conqueror, footnote:[See Moses Chorenensis, l. ii. c. 65--71.]
+conqueror, footnote:[See Moses Chorenensis, l. ii. c. 65{endash}71.]
  who boldly assumed the double diadem, and the title of
 King of Kings, which had been enjoyed by his predecessor. But these
 pompous titles, instead of gratifying the vanity of the Persian, served
@@ -152,10 +152,10 @@ empire of Cyrus.
 
 I. During the long servitude of Persia under the Macedonian and the
 Parthian yoke, the nations of Europe and Asia had mutually adopted and
-corrupted each other's superstitions. The Arsacides, indeed, practised
+corrupted each other{apos}s superstitions. The Arsacides, indeed, practised
 the worship of the Magi; but they disgraced and polluted it with a
 various mixture of foreign idolatry. footnote:[Silvestre de Sacy (Antiquites de la Perse) had proved
-the neglect of the Zoroastrian religion under the Parthian kings.--M.]
+the neglect of the Zoroastrian religion under the Parthian kings.{emdash}M.]
  The memory of Zoroaster, the
 ancient prophet and philosopher of the Persians, footnote:[Hyde and Prideaux, working up the Persian legends and their
 own conjectures into a very agreeable story, represent Zoroaster as a
@@ -166,23 +166,23 @@ before their own time. The judicious criticisms of Mr. Moyle perceived,
 and maintained against his uncle, Dr. Prideaux, the antiquity of the
 Persian prophet. See his work, vol. ii. * Note: There are three leading
 theories concerning the age of Zoroaster: 1. That which assigns him to
-an age of great and almost indefinite antiquity--it is that of Moyle,
-adopted by Gibbon, Volney, Recherches sur l'Histoire, ii. 2. Rhode,
+an age of great and almost indefinite antiquity{emdash}it is that of Moyle,
+adopted by Gibbon, Volney, Recherches sur l{apos}Histoire, ii. 2. Rhode,
 also, (die Heilige Sage, &c.,) in a very ingenious and ably-developed
 theory, throws the Bactrian prophet far back into antiquity 2. Foucher,
-(Mem. de l'Acad. xxvii. 253,) Tychsen, (in Com. Soc. Gott. ii. 112),
+(Mem. de l{apos}Acad. xxvii. 253,) Tychsen, (in Com. Soc. Gott. ii. 112),
 Heeren, (ldeen. i. 459,) and recently Holty, identify the Gushtasp of
 the Persian mythological history with Cyaxares the First, the king of
 the Medes, and consider the religion to be Median in its origin. M.
 Guizot considers this opinion most probable, note in loc. 3. Hyde,
 Prideaux, Anquetil du Perron, Kleuker, Herder, Goerres,
 (Mythen-Geschichte,) Von Hammer. (Wien. Jahrbuch, vol. ix.,) Malcolm,
-(i. 528,) De Guigniaut, (Relig. de l'Antiq. 2d part, vol. iii.,)
-Klaproth, (Tableaux de l'Asie, p. 21,) make Gushtasp Darius Hystaspes,
+(i. 528,) De Guigniaut, (Relig. de l{apos}Antiq. 2d part, vol. iii.,)
+Klaproth, (Tableaux de l{apos}Asie, p. 21,) make Gushtasp Darius Hystaspes,
 and Zoroaster his contemporary. The silence of Herodotus appears the
 great objection to this theory. Some writers, as M. Foucher (resting, as
 M. Guizot observes, on the doubtful authority of Pliny,) make more than
-one Zoroaster, and so attempt to reconcile the conflicting theories.--
+one Zoroaster, and so attempt to reconcile the conflicting theories.{emdash}
 M.]
  was still revered
 in the East; but the obsolete and mysterious language, in which the
@@ -190,7 +190,7 @@ Zendavesta was composed, footnote:[That ancient idiom was called the Zend. The l
 commentary, the Pehlvi, though much more modern, has ceased many ages
 ago to be a living tongue. This fact alone (if it is allowed as
 authentic) sufficiently warrants the antiquity of those writings which M
-d'Anquetil has brought into Europe, and translated into French. * Note:
+d{apos}Anquetil has brought into Europe, and translated into French. * Note:
 Zend signifies life, living. The word means, either the collection of
 the canonical books of the followers of Zoroaster, or the language
 itself in which they are written. They are the books that contain the
@@ -208,7 +208,7 @@ these books. The former pretended that Zend had never been a written or
 spoken language, but had been invented in the later times by the Magi,
 for the purposes of their art; but Kleuker, in the dissertations which
 he added to those of Anquetil and the Abbe Foucher, has proved that the
-Zend was a living and spoken language.--G. Sir W. Jones appears to have
+Zend was a living and spoken language.{emdash}G. Sir W. Jones appears to have
 abandoned his doubts, on discovering the affinity between the Zend and
 the Sanskrit. Since the time of Kleuker, this question has been
 investigated by many learned scholars. Sir W. Jones, Leyden, (Asiat.
@@ -218,17 +218,17 @@ likewise been asserted by Rask, the great Danish linguist, who,
 according to Malcolm, brought back from the East fresh transcripts and
 additions to those published by Anquetil. According to Rask, the Zend
 and Sanskrit are sister dialects; the one the parent of the Persian, the
-other of the Indian family of languages.--G. and M.----But the subject
-is more satisfactorily illustrated in Bopp's comparative Grammar of the
+other of the Indian family of languages.{emdash}G. and M.{emdash}{emdash}But the subject
+is more satisfactorily illustrated in Bopp{apos}s comparative Grammar of the
 Sanscrit, Zend, Greek, Latin, Lithuanian, Gothic, and German languages.
-Berlin. 1833-5. According to Bopp, the Zend is, in some respects, of a
+Berlin. 1833{endash}5. According to Bopp, the Zend is, in some respects, of a
 more remarkable structure than the Sanskrit. Parts of the Zendavesta
 have been published in the original, by M. Bournouf, at Paris, and M.
-Ol. shausen, in Hamburg.--M.----The Pehlvi was the language of the
+Ol. shausen, in Hamburg.{emdash}M.{emdash}{emdash}The Pehlvi was the language of the
 countries bordering on Assyria, and probably of Assyria itself. Pehlvi
 signifies valor, heroism; the Pehlvi, therefore, was the language of the
 ancient heroes and kings of Persia, the valiant. (Mr. Erskine prefers
-the derivation from Pehla, a border.--M.) It contains a number of
+the derivation from Pehla, a border.{emdash}M.) It contains a number of
 Aramaic roots. Anquetil considered it formed from the Zend. Kleuker does
 not adopt this opinion. The Pehlvi, he says, is much more flowing, and
 less overcharged with vowels, than the Zend. The books of Zoroaster,
@@ -236,9 +236,9 @@ first written in Zend, were afterwards translated into Pehlvi and Parsi.
 The Pehlvi had fallen into disuse under the dynasty of the Sassanides,
 but the learned still wrote it. The Parsi, the dialect of Pars or
 Farristan, was then prevailing dialect. Kleuker, Anhang zum Zend Avesta,
-2, ii. part i. p. 158, part ii. 31.--G.----Mr. Erskine (Bombay
+2, ii. part i. p. 158, part ii. 31.{emdash}G.{emdash}{emdash}Mr. Erskine (Bombay
 Transactions) considers the existing Zendavesta to have been compiled in
-the time of Ardeschir Babegan.--M.]
+the time of Ardeschir Babegan.{emdash}M.]
  opened a field of dispute to seventy sects,
 who variously explained the fundamental doctrines of their religion, and
 were all indifferently devided by a crowd of infidels, who rejected the
@@ -265,12 +265,12 @@ that celebrated system will be found useful, not only to display the
 character of the Persian nation, but to illustrate many of their most
 important transactions, both in peace and war, with the Roman empire.
 footnote:[I have principally drawn this account from the Zendavesta
-of M. d'Anquetil, and the Sadder, subjoined to Dr. Hyde's treatise. It
+of M. d{apos}Anquetil, and the Sadder, subjoined to Dr. Hyde{apos}s treatise. It
 must, however, be confessed, that the studied obscurity of a prophet,
 the figurative style of the East, and the deceitful medium of a French
 or Latin version may have betrayed us into error and heresy, in this
 abridgment of Persian theology. * Note: It is to be regretted that
-Gibbon followed the post-Mahometan Sadder of Hyde.--M.]
+Gibbon followed the post-Mahometan Sadder of Hyde.{emdash}M.]
 
 
 
@@ -289,10 +289,10 @@ Eastern philosophy to reconcile the existence of moral and physical evil
 with the attributes of a beneficent Creator and Governor of the world.
 The first and original Being, in whom, or by whom, the universe exists,
 is denominated in the writings of Zoroaster, Time without bounds; footnote:[Zeruane Akerene, so translated by Anquetil and Kleuker.
-There is a dissertation of Foucher on this subject, Mem. de l'Acad. des
+There is a dissertation of Foucher on this subject, Mem. de l{apos}Acad. des
 Inscr. t. xxix. According to Bohlen (das alte Indien) it is the Sanskrit
 Sarvan Akaranam, the Uncreated Whole; or, according to Fred. Schlegel,
-Sarvan Akharyam the Uncreate Indivisible.--M.]
+Sarvan Akharyam the Uncreate Indivisible.{emdash}M.]
 
 but it must be confessed, that this infinite substance seems rather a
 metaphysical, abstraction of the mind, than a real object endowed with
@@ -308,14 +308,14 @@ Izeschne) that he was born good, that in his origin he was light; envy
 rendered him evil; he became jealous of the power and attributes
 of Ormuzd; then light was changed into darkness, and Ahriman was
 precipitated into the abyss. See the Abridgment of the Doctrine of the
-Ancient Persians, by Anquetil, c. ii Section 2.--G.]
+Ancient Persians, by Anquetil, c. ii Section 2.{emdash}G.]
  The principle of good is eternally aborbed in
 light; the principle of evil eternally buried in darkness. The wise
 benevolence of Ormusd formed man capable of virtue, and abundantly
 provided his fair habitation with the materials of happiness. By
 his vigilant providence, the motion of the planets, the order of the
 seasons, and the temperate mixture of the elements, are preserved. But
-the malice of Ahriman has long since pierced Ormusd's egg; or, in other
+the malice of Ahriman has long since pierced Ormusd{apos}s egg; or, in other
 words, has violated the harmony of his works. Since that fatal eruption,
 the most minute articles of good and evil are intimately intermingled
 and agitated together; the rankest poisons spring up amidst the most
@@ -341,13 +341,13 @@ destroyed, his kingdom overthrown to its foundations, he will himself be
 purified in torrents of melting metal; he will change his heart and his
 will, become holy, heavenly establish in his dominions the law and word
 of Ormuzd, unite himself with him in everlasting friendship, and
-both will sing hymns in honor of the Great Eternal. See Anquetil's
+both will sing hymns in honor of the Great Eternal. See Anquetil{apos}s
 Abridgment. Kleuker, Anhang part iii. p 85, 36; and the Izeschne, one of
 the books of the Zendavesta. According to the Sadder Bun-Dehesch, a more
 modern work, Ahriman is to be annihilated: but this is contrary to the
 text itself of the Zendavesta, and to the idea its author gives of the
 kingdom of Eternity, after the twelve thousand years assigned to the
-contest between Good and Evil.--G.]
+contest between Good and Evil.{emdash}G.]
 
 
 
@@ -369,19 +369,19 @@ Chapter VIII: State Of Persia And Restoration Of The Monarchy.
 The theology of Zoroaster was darkly comprehended by foreigners, and
 even by the far greater number of his disciples; but the most careless
 observers were struck with the philosophic simplicity of the Persian
-worship. "That people," said Herodotus, footnote:[Herodotus, l. i. c. 131. But Dr. Prideaux
+worship. {ldquo}That people,{rdquo} said Herodotus, footnote:[Herodotus, l. i. c. 131. But Dr. Prideaux
 thinks, with reason, that the use of temples was afterwards permitted
 in the Magian religion. Note: The Pyraea, or fire temples of the
 Zoroastrians, (observes Kleuker, Persica, p. 16,) were only to be
 found in Media or Aderbidjan, provinces into which Herodotus did not
-penetrate.--M.]
- "rejects the use of temples,
+penetrate.{emdash}M.]
+ {ldquo}rejects the use of temples,
 of altars, and of statues, and smiles at the folly of those nations who
 imagine that the gods are sprung from, or bear any affinity with, the
 human nature. The tops of the highest mountains are the places chosen
 for sacrifices. Hymns and prayers are the principal worship; the Supreme
 God, who fills the wide circle of heaven, is the object to whom they are
-addressed." Yet, at the same time, in the true spirit of a polytheist,
+addressed.{rdquo} Yet, at the same time, in the true spirit of a polytheist,
 he accuseth them of adoring Earth, Water, Fire, the Winds, and the Sun
 and Moon. But the Persians of every age have denied the charge, and
 explained the equivocal conduct, which might appear to give a color to
@@ -404,17 +404,17 @@ his kamkars; thus the hymn or iescht of Mithra is recited on the day of
 the sun, (Khor,) and vice versa. It is probably this which has sometimes
 caused them to be confounded; but Anquetil had himself exposed this
 error, which Kleuker, and all who have studied the Zendavesta, have
-noticed. See viii. Diss. of Anquetil. Kleuker's Anhang, part iii. p.
-132.--G. M. Guizot is unquestionably right, according to the pure
+noticed. See viii. Diss. of Anquetil. Kleuker{apos}s Anhang, part iii. p.
+132.{emdash}G. M. Guizot is unquestionably right, according to the pure
 and original doctrine of the Zend. The Mithriac worship, which was so
 extensively propagated in the West, and in which Mithra and the sun
 were perpetually confounded, seems to have been formed from a fusion
 of Zoroastrianism and Chaldaism, or the Syrian worship of the sun. An
 excellent abstract of the question, with references to the works of
 the chief modern writers on his curious subject, De Sacy, Kleuker, Von
-Hammer, &c., may be found in De Guigniaut's translation of Kreuzer.
-Relig. d'Antiquite, notes viii. ix. to book ii. vol. i. 2d part, page
-728.--M.]
+Hammer, &c., may be found in De Guigniaut{apos}s translation of Kreuzer.
+Relig. d{apos}Antiquite, notes viii. ix. to book ii. vol. i. 2d part, page
+728.{emdash}M.]
  were the objects of their religious reverence,
 because they considered them as the purest symbols, the noblest
 productions, and the most powerful agents of the Divine Power and
@@ -458,7 +458,7 @@ of the Zendavesta, on the relative merit of sowing the earth and of
 prayers, quoted below by Gibbon, proves that Zoroaster did not attach
 too much importance to these observances. Thus it is not from the
 Zendavesta that Gibbon derives the proof of his allegation, but from the
-Sadder, a much later work.--G]
+Sadder, a much later work.{emdash}G]
 
 
 
@@ -472,13 +472,13 @@ a criminal rejection of the best gifts of Providence. The saint, in the
 Magian religion, is obliged to beget children, to plant useful trees, to
 destroy noxious animals, to convey water to the dry lands of Persia, and
 to work out his salvation by pursuing all the labors of agriculture.
-footnote:[See, on Zoroaster's encouragement of agriculture, the
+footnote:[See, on Zoroaster{apos}s encouragement of agriculture, the
 ingenious remarks of Heeren, Ideen, vol. i. p. 449, &c., and Rhode,
-Heilige Sage, p. 517--M.]
+Heilige Sage, p. 517{emdash}M.]
  We may quote from the Zendavesta a wise and benevolent maxim, which
-compensates for many an absurdity. "He who sows the ground with care and
+compensates for many an absurdity. {ldquo}He who sows the ground with care and
 diligence acquires a greater stock of religious merit than he could gain
-by the repetition of ten thousand prayers." footnote:[Zendavesta, tom. i. p. 224, and Precis du Systeme de
+by the repetition of ten thousand prayers.{rdquo} footnote:[Zendavesta, tom. i. p. 224, and Precis du Systeme de
 Zoroastre, tom. iii.]
  In the spring of every
 year a festival was celebrated, destined to represent the primitive
@@ -488,11 +488,11 @@ mingled with the humblest but most useful of their subjects. On that day
 the husbandmen were admitted, without distinction, to the table of the
 king and his satraps. The monarch accepted their petitions, inquired
 into their grievances, and conversed with them on the most equal terms.
-"From your labors," was he accustomed to say, (and to say with truth, if
-not with sincerity,) "from your labors we receive our subsistence; you
+{ldquo}From your labors,{rdquo} was he accustomed to say, (and to say with truth, if
+not with sincerity,) {ldquo}from your labors we receive our subsistence; you
 derive your tranquillity from our vigilance: since, therefore, we are
 mutually necessary to each other, let us live together like brothers in
-concord and love." footnote:[Hyde de Religione Persarum, c. 19.]
+concord and love.{rdquo} footnote:[Hyde de Religione Persarum, c. 19.]
  Such a festival must indeed have degenerated, in
 a wealthy and despotic empire, into a theatrical representation; but it
 was at least a comedy well worthy of a royal audience, and which might
@@ -532,8 +532,8 @@ instance of conformity between the law of Zoroaster and that of Moses.
 Those who cannot otherwise account for it, may suppose, if they please
 that the Magi of the latter times inserted so useful an interpolation
 into the writings of their prophet.]
- "Though your good works," says the interested prophet,
-"exceed in number the leaves of the trees, the drops of rain, the
+ {ldquo}Though your good works,{rdquo} says the interested prophet,
+{ldquo}exceed in number the leaves of the trees, the drops of rain, the
 stars in the heaven, or the sands on the sea-shore, they will all be
 unprofitable to you, unless they are accepted by the destour, or
 priest. To obtain the acceptation of this guide to salvation, you must
@@ -541,7 +541,7 @@ faithfully pay him tithes of all you possess, of your goods, of your
 lands, and of your money. If the destour be satisfied, your soul will
 escape hell tortures; you will secure praise in this world and happiness
 in the next. For the destours are the teachers of religion; they know
-all things, and they deliver all men." footnote:[Sadder, Art. viii.]
+all things, and they deliver all men.{rdquo} footnote:[Sadder, Art. viii.]
  footnote:[The passage quoted by Gibbon is not taken from the writings
 of Zoroaster, but from the Sadder, a work, as has been before said, much
 later than the books which form the Zendavesta. and written by a Magus
@@ -553,11 +553,11 @@ p. 27. Whatever may be the case as to the latter assertion, for which
 there appears little foundation, it is unquestionable that the Sadder is
 of much later date. The Abbe Foucher does not even believe it to be an
 extract from the works of Zoroaster. See his Diss. before quoted. Mem.
-de l'Acad. des Ins. t. xxvii.--G. Perhaps it is rash to speak of any
+de l{apos}Acad. des Ins. t. xxvii.{emdash}G. Perhaps it is rash to speak of any
 part of the Zendavesta as the writing of Zoroaster, though it may be
 a genuine representation of his. As to the Sadder, Hyde (in Praef.)
 considered it not above 200 years old. It is manifestly post-Mahometan.
-See Art. xxv. on fasting.--M.]
+See Art. xxv. on fasting.{emdash}M.]
 
 
 
@@ -598,15 +598,15 @@ footnote:[Agathias, l. iv. p. 134.]
 The first counsel of the Magi was agreeable to the unsociable genius of
 their faith, footnote:[Mr. Hume, in the Natural History of Religion, sagaciously
 remarks, that the most refined and philosophic sects are constantly the
-most intolerant. * Note: Hume's comparison is rather between theism and polytheism. In
+most intolerant. * Note: Hume{apos}s comparison is rather between theism and polytheism. In
 India, in Greece, and in modern Europe, philosophic religion has
 looked down with contemptuous toleration on the superstitions of the
-vulgar.--M.]
+vulgar.{emdash}M.]
  to the practice of ancient kings, footnote:[Cicero de Legibus, ii. 10. Xerxes, by the advice of the
 Magi, destroyed the temples of Greece.]
  and even to
 the example of their legislator, who had a victim to a religious war,
-excited by his own intolerant zeal. footnote:[Hyde de Relig. Persar. c. 23, 24. D'Herbelot, Bibliotheque
+excited by his own intolerant zeal. footnote:[Hyde de Relig. Persar. c. 23, 24. D{apos}Herbelot, Bibliotheque
 Orientale, Zurdusht. Life of Zoroaster in tom. ii. of the Zendavesta.]
  By an edict of Artaxerxes,
 the exercise of every worship, except that of Zoroaster, was severely
@@ -633,7 +633,7 @@ xv. 5, with Basnage. Sapor was forced by the people to temporary
 severities; but their real persecution did not begin till the reigns of
 Yezdigerd and Kobad. Hist. of Jews, iii. 236. According to Sozomen, i.
 viii., Sapor first persecuted the Christians. Manes was put to death by
-Varanes the First, A. D. 277. Beausobre, Hist. de Man. i. 209.--M.]
+Varanes the First, A. D. 277. Beausobre, Hist. de Man. i. 209.{emdash}M.]
  This spirit of
 persecution reflects dishonor on the religion of Zoroaster; but as it
 was not productive of any civil commotion, it served to strengthen the
@@ -642,7 +642,7 @@ bands of religious zeal. footnote:[In the testament of Ardischer in Ferdusi, the
 these sentiments to the dying king, as he addresses his son: Never
 forget that as a king, you are at once the protector of religion and
 of your country. Consider the altar and the throne as inseparable; they
-must always sustain each other. Malcolm's Persia. i. 74--M]
+must always sustain each other. Malcolm{apos}s Persia. i. 74{emdash}M]
 
 
 
@@ -679,8 +679,8 @@ founded thirty-nine cities, all named from himself, or some of his
 relations, (see Appian in Syriac. p. 124.) The aera of Seleucus (still
 in use among the eastern Christians) appears as late as the year 508,
 of Christ 196, on the medals of the Greek cities within the Parthian
-empire. See Moyle's works, vol. i. p. 273, &c., and M. Freret, Mem. de
-l'Academie, tom. xix.]
+empire. See Moyle{apos}s works, vol. i. p. 273, &c., and M. Freret, Mem. de
+l{apos}Academie, tom. xix.]
  within their walls, scarcely acknowledged, or seldom
 obeyed. any superior; and the Parthian empire exhibited, under other
 names, a lively image of the feudal system footnote:[The modern Persians distinguish that period as the dynasty
@@ -709,9 +709,9 @@ Alexander, and probably many ages afterwards, it was thinly inhabited
 by a savage people of Icthyophagi, or Fishermen, who knew no arts, who
 acknowledged no master, and who were divided by in-hospitable deserts
 from the rest of the world. (See Arrian de Reb. Indicis.) In the twelfth
-century, the little town of Taiz (supposed by M. d'Anville to be the
+century, the little town of Taiz (supposed by M. d{apos}Anville to be the
 Teza of Ptolemy) was peopled and enriched by the resort of the Arabian
-merchants. (See Geographia Nubiens, p. 58, and d'Anville, Geographie
+merchants. (See Geographia Nubiens, p. 58, and d{apos}Anville, Geographie
 Ancienne, tom. ii. p. 283.) In the last age, the whole country was
 divided between three princes, one Mahometan and two Idolaters, who
 maintained their independence against the successors of Shah Abbas.
@@ -753,7 +753,7 @@ who, during the long slumber of his predecessors, had insulted Persia
 with impunity. He obtained some easy victories over the wild Scythians
 and the effeminate Indians; but the Romans were an enemy, who, by their
 past injuries and present power, deserved the utmost efforts of his
-arms. A forty years' tranquillity, the fruit of valor and moderation,
+arms. A forty years{rsquo} tranquillity, the fruit of valor and moderation,
 had succeeded the victories of Trajan. During the period that elapsed
 from the accession of Marcus to the reign of Alexander, the Roman and
 the Parthian empires were twice engaged in war; and although the whole
@@ -775,7 +775,7 @@ Seleucia, on the western bank of the Tigris, about forty-five miles
 to the north of ancient Babylon, was the capital of the Macedonian
 conquests in Upper Asia. footnote:[For the precise situation of Babylon, Seleucia, Ctesiphon,
 Moiain, and Bagdad, cities often confounded with each other, see an
-excellent Geographical Tract of M. d'Anville, in Mem. de l'Academie,
+excellent Geographical Tract of M. d{apos}Anville, in Mem. de l{apos}Academie,
 tom. xxx.]
  Many ages after the fall of their empire,
 Seleucia retained the genuine characters of a Grecian colony, arts,
@@ -945,7 +945,7 @@ most esteemed, eighteen elephants are allowed as a sufficient proportion
 for each of the nine brigades into which a just army is divided. The
 whole number, of one hundred and sixty-two elephants of war, may
 sometimes be doubled. Hist. des Voyages, tom. ix. p. 260. * Note:
-Compare Gibbon's note 10 to ch. lvii--M.]
+Compare Gibbon{apos}s note 10 to ch. lvii{emdash}M.]
  was discomfited in a
 great battle, in which the Roman Alexander proved himself an intrepid
 soldier and a skilful general. The Great King fled before his valor;
@@ -954,9 +954,9 @@ fruits of this signal victory. Such are the circumstances of this
 ostentatious and improbable relation, dictated, as it too plainly
 appears, by the vanity of the monarch, adorned by the unblushing
 servility of his flatterers, and received without contradiction by a
-distant and obsequious senate. footnote:[Hist. August. p. 133. * Note: See M. Guizot's note, p.
+distant and obsequious senate. footnote:[Hist. August. p. 133. * Note: See M. Guizot{apos}s note, p.
 267. According to the Persian authorities Ardeschir extended his
-conquests to the Euphrates. Malcolm i. 71.--M.]
+conquests to the Euphrates. Malcolm i. 71.{emdash}M.]
  Far from being inclined to believe
 that the arms of Alexander obtained any memorable advantage over the
 Persians, we are induced to suspect that all this blaze of imaginary
@@ -974,7 +974,7 @@ to invade Persia at the same time, and by different roads. But the
 operations of the campaign, though wisely concerted, were not executed
 either with ability or success. The first of these armies, as soon as it
 had entered the marshy plains of Babylon, towards the artificial conflux
-of the Euphrates and the Tigris, footnote:[M. de Tillemont has already observed, that Herodian's
+of the Euphrates and the Tigris, footnote:[M. de Tillemont has already observed, that Herodian{apos}s
 geography is somewhat confused.]
  was encompassed by the superior
 numbers, and destroyed by the arrows of the enemy. The alliance of
@@ -988,14 +988,14 @@ country, in which the Persian cavalry was of little service, opened
 a secure entrance into the heart of Media, to the second of the Roman
 armies. These brave troops laid waste the adjacent provinces, and by
 several successful actions against Artaxerxes, gave a faint color to the
-emperor's vanity. But the retreat of this victorious army was imprudent,
+emperor{apos}s vanity. But the retreat of this victorious army was imprudent,
 or at least unfortunate. In repassing the mountains, great numbers of
 soldiers perished by the badness of the roads, and the severity of
 the winter season. It had been resolved, that whilst these two great
 detachments penetrated into the opposite extremes of the Persian
 dominions, the main body, under the command of Alexander himself, should
 support their attack, by invading the centre of the kingdom. But the
-unexperienced youth, influenced by his mother's counsels, and perhaps by
+unexperienced youth, influenced by his mother{apos}s counsels, and perhaps by
 his own fears, deserted the bravest troops, and the fairest prospect of
 victory; and after consuming in Mesopotamia an inactive and inglorious
 summer, he led back to Antioch an army diminished by sickness, and
@@ -1007,7 +1007,7 @@ resolution. But in several obstinate engagements against the veteran
 legions of Rome, the Persian monarch had lost the flower of his troops.
 Even his victories had weakened his power. The favorable opportunities
 of the absence of Alexander, and of the confusions that followed that
-emperor's death, presented themselves in vain to his ambition. Instead
+emperor{apos}s death, presented themselves in vain to his ambition. Instead
 of expelling the Romans, as he pretended, from the continent of Asia,
 he found himself unable to wrest from their hands the little province
 of Mesopotamia. footnote:[For the account of this war, see Herodian, l. vi. p. 209,
@@ -1032,15 +1032,15 @@ Chosroes Noushirwan sent the code of Artaxerxes to all his satraps, as
 the invariable rule of their conduct.]
  Several of his
 sayings are preserved. One of them in particular discovers a deep
-insight into the constitution of government. "The authority of the
-prince," said Artaxerxes, "must be defended by a military force; that
+insight into the constitution of government. {ldquo}The authority of the
+prince,{rdquo} said Artaxerxes, {ldquo}must be defended by a military force; that
 force can only be maintained by taxes; all taxes must, at last, fall
 upon agriculture; and agriculture can never flourish except under the
-protection of justice and moderation." footnote:[D'Herbelot, Bibliotheque Orientale, au mot Ardshir.
+protection of justice and moderation.{rdquo} footnote:[D{apos}Herbelot, Bibliotheque Orientale, au mot Ardshir.
 We may observe, that after an ancient period of fables, and a long
 interval of darkness, the modern histories of Persia begin to assume
 an air of truth with the dynasty of Sassanides. Compare Malcolm, i.
-79.--M.]
+79.{emdash}M.]
  Artaxerxes bequeathed his new
 empire, and his ambitious designs against the Romans, to Sapor, a son
 not unworthy of his great father; but those designs were too extensive
@@ -1081,12 +1081,12 @@ the bow, and to ride; and it was universally confessed, that in the two
 last of these arts, they had made a more than common proficiency. footnote:[The Persians are still the most skilful horsemen, and
 their horses the finest in the East.]
 
-The most distinguished youth were educated under the monarch's eye,
+The most distinguished youth were educated under the monarch{apos}s eye,
 practised their exercises in the gate of his palace, and were severely
 trained up to the habits of temperance and obedience, in their long and
 laborious parties of hunting. In every province, the satrap maintained
 a like school of military virtue. The Persian nobles (so natural is
-the idea of feudal tenures) received from the king's bounty lands and
+the idea of feudal tenures) received from the king{apos}s bounty lands and
 houses, on the condition of their service in war. They were ready on the
 first summons to mount on horseback, with a martial and splendid train
 of followers, and to join the numerous bodies of guards, who were

@@ -4,9 +4,9 @@
 === Part I
 
      The Reign Of Diocletian And His Three Associates, Maximian,
-     Galerius, And Constantius.--General Reestablishment Of
-     Order And Tranquillity.--The Persian War, Victory, And
-     Triumph.--The New Form Of Administration.--Abdication And
+     Galerius, And Constantius.{emdash}General Reestablishment Of
+     Order And Tranquillity.{emdash}The Persian War, Victory, And
+     Triumph.{emdash}The New Form Of Administration.{emdash}Abdication And
      Retirement Of Diocletian And Maximian.
 
 As the reign of Diocletian was more illustrious than that of any of
@@ -27,7 +27,7 @@ is usually given him by Aurelius Victor.]
  It is, however, probable that his father obtained the
 freedom of the family, and that he soon acquired an office of scribe,
 which was commonly exercised by persons of his condition. footnote:[See Dacier on the sixth satire of the second book of Horace
-Cornel. Nepos, 'n Vit. Eumen. c. l.]
+Cornel. Nepos, {lsquo}n Vit. Eumen. c. l.]
  Favorable
 oracles, or rather the consciousness of superior merit, prompted his
 aspiring son to pursue the profession of arms and the hopes of fortune;
@@ -43,7 +43,7 @@ whilst it arraigns the savage fierceness of his colleague Maximian,
 has affected to cast suspicions on the personal courage of the emperor
 Diocletian. footnote:[Lactantius (or whoever was the author of the little
 treatise De Mortibus Persecutorum) accuses Diocletian of timidity in
-two places, c. 7. 8. In chap. 9 he says of him, "erat in omni tumultu
+two places, c. 7. 8. In chap. 9 he says of him, {ldquo}erat in omni tumultu
 meticulosu et animi disjectus."]
  It would not be easy to persuade us of the cowardice of a
 soldier of fortune, who acquired and preserved the esteem of the legions
@@ -97,8 +97,8 @@ successor. Such a conduct, however, displayed to the Roman world the
 fairest prospect of the new reign, and the emperor affected to confirm
 this favorable prepossession, by declaring, that, among all the virtues
 of his predecessors, he was the most ambitious of imitating the humane
-philosophy of Marcus Antoninus. footnote:[Aurelius Victor styles Diocletian, "Parentum potius quam
-Dominum." See Hist. August. p. 30.]
+philosophy of Marcus Antoninus. footnote:[Aurelius Victor styles Diocletian, {ldquo}Parentum potius quam
+Dominum.{rdquo} See Hist. August. p. 30.]
 
 
 
@@ -111,9 +111,9 @@ gave himself a colleague in the person of Maximian, on whom he bestowed
 at first the title of Caesar, and afterwards that of Augustus. footnote:[The question of the time when Maximian received the honors
 of Caesar and Augustus has divided modern critics, and given occasion
 to a great deal of learned wrangling. I have followed M. de Tillemont,
-(Histoire des Empereurs, tom. iv. p. 500-505,) who has weighed the
+(Histoire des Empereurs, tom. iv. p. 500{endash}505,) who has weighed the
 several reasons and difficulties with his scrupulous accuracy.  *
-Note: Eckbel concurs in this view, viii p. 15.--M.]
+Note: Eckbel concurs in this view, viii p. 15.{emdash}M.]
  But
 the motives of his conduct, as well as the object of his choice, were
 of a very different nature from those of his admired predecessor. By
@@ -180,8 +180,8 @@ Diocletian discovered that the empire, assailed on every side by the
 barbarians, required on every side the presence of a great army, and of
 an emperor. With this view, he resolved once more to divide his unwieldy
 power, and with the inferior title of Caesars, footnote:[On the relative power of the Augusti and the Caesars,
-consult a dissertation at the end of Manso's Leben Constantius des
-Grossen--M.]
+consult a dissertation at the end of Manso{apos}s Leben Constantius des
+Grossen{emdash}M.]
  to confer on two
 generals of approved merit an unequal share of the sovereign authority.
 footnote:[Aurelius Victor. Victor in Epitome. Eutrop. ix. 22.
@@ -219,7 +219,7 @@ yet there is some reason to doubt whether Spain was not a province of
 Maximian. See Tillemont, tom. iv. p. 517. * Note: According to Aurelius
 Victor and other authorities, Thrace belonged to the division of
 Galerius. See Tillemont, iv. 36. But the laws of Diocletian are in
-general dated in Illyria or Thrace.--M.]
+general dated in Illyria or Thrace.{emdash}M.]
 
 and Britain, was intrusted to Constantius: Galerius was stationed on the
 banks of the Danube, as the safeguard of the Illyrian provinces. Italy
@@ -234,7 +234,7 @@ their gratitude and obedience, the common parent of their fortunes. The
 suspicious jealousy of power found not any place among them; and the
 singular happiness of their union has been compared to a chorus of
 music, whose harmony was regulated and maintained by the skilful hand of
-the first artist. footnote:[Julian in Caesarib. p. 315. Spanheim's notes to the French
+the first artist. footnote:[Julian in Caesarib. p. 315. Spanheim{apos}s notes to the French
 translation, p. 122.]
 
 
@@ -256,7 +256,7 @@ This important measure was not carried into execution till about six
 years after the association of Maximian, and that interval of time had
 not been destitute of memorable incidents. But we have preferred, for
 the sake of perspicuity, first to describe the more perfect form of
-Diocletian's government, and afterwards to relate the actions of his
+Diocletian{apos}s government, and afterwards to relate the actions of his
 reign, following rather the natural order of the events, than the dates
 of a very doubtful chronology.
 
@@ -266,7 +266,7 @@ in a history of human manners. He suppressed the peasants of Gaul,
 who, under the appellation of Bagaudae, footnote:[The general name of Bagaudae (in the signification of
 rebels) continued till the fifth century in Gaul. Some critics derive it
 from a Celtic word Bagad, a tumultuous assembly. Scaliger ad Euseb. Du
-Cange Glossar. (Compare S. Turner, Anglo-Sax. History, i. 214.--M.)]
+Cange Glossar. (Compare S. Turner, Anglo-Sax. History, i. 214.{emdash}M.)]
  had risen in a general
 insurrection; very similar to those which in the fourteenth century
 successively afflicted both France and England. footnote:[Chronique de Froissart, vol. i. c. 182, ii. 73, 79. The
@@ -357,13 +357,13 @@ vigor. Gessoriacum, or Boulogne, in the straits of the British Channel,
 was chosen by the emperor for the station of the Roman fleet; and the
 command of it was intrusted to Carausius, a Menapian of the meanest
 origin, footnote:[The three expressions of Eutropius, Aurelius Victor, and
-Eumenius, "vilissime natus," "Bataviae alumnus," and "Menapiae civis,"
+Eumenius, {ldquo}vilissime natus,{rdquo} {ldquo}Bataviae alumnus,{rdquo} and {ldquo}Menapiae civis,{rdquo}
 give us a very doubtful account of the birth of Carausius. Dr. Stukely,
 however, (Hist. of Carausius, p. 62,) chooses to make him a native of
-St. David's and a prince of the blood royal of Britain. The former idea
+St. David{apos}s and a prince of the blood royal of Britain. The former idea
 he had found in Richard of Cirencester, p. 44. * Note: The Menapians
 were settled between the Scheldt and the Meuse, is the northern part of
-Brabant. D'Anville, Geogr. Anc. i. 93.--G.]
+Brabant. D{apos}Anville, Geogr. Anc. i. 93.{emdash}G.]
  but who had long signalized his skill as a pilot, and his
 valor as a soldier. The integrity of the new admiral corresponded
 not with his abilities. When the German pirates sailed from their own
@@ -466,7 +466,7 @@ assistance of those powerful allies.
 
 
 Before the preparations were finished, Constantius received the
-intelligence of the tyrant's death, and it was considered as a sure
+intelligence of the tyrant{apos}s death, and it was considered as a sure
 presage of the approaching victory. The servants of Carausius imitated
 the example of treason which he had given. He was murdered by his first
 minister, Allectus, and the assassin succeeded to his power and to his
@@ -540,13 +540,13 @@ constructed: the strictest vigilance was introduced among the garrisons
 of the frontier, and every expedient was practised that could render
 the long chain of fortifications firm and impenetrable. footnote:[Zosim. l. i. p. 3. That partial historian seems to
 celebrate the vigilance of Diocletian with a design of exposing the
-negligence of Constantine; we may, however, listen to an orator: "Nam
+negligence of Constantine; we may, however, listen to an orator: {ldquo}Nam
 quid ego alarum et cohortium castra percenseam, toto Rheni et Istri et
-Euphraus limite restituta." Panegyr. Vet. iv. 18.]
+Euphraus limite restituta.{rdquo} Panegyr. Vet. iv. 18.]
  A barrier so
 respectable was seldom violated, and the barbarians often turned against
 each other their disappointed rage. The Goths, the Vandals, the
-Gepidae, the Burgundians, the Alemanni, wasted each other's strength by
+Gepidae, the Burgundians, the Alemanni, wasted each other{apos}s strength by
 destructive hostilities: and whosoever vanquished, they vanquished
 the enemies of Rome. The subjects of Diocletian enjoyed the bloody
 spectacle, and congratulated each other, that the mischiefs of civil war
@@ -581,8 +581,8 @@ themselves, retiring to a less laborious scene of action, devolved
 on their adopted sons the defence of the Danube and of the Rhine. The
 vigilant Galerius was never reduced to the necessity of vanquishing
 an army of barbarians on the Roman territory. footnote:[He complained, though not with the strictest truth,
-"Jam fluxisse annos quindecim in quibus, in Illyrico, ad ripam Danubii
-relegatus cum gentibus barbaris luctaret." Lactant. de M. P. c. 18.]
+{ldquo}Jam fluxisse annos quindecim in quibus, in Illyrico, ad ripam Danubii
+relegatus cum gentibus barbaris luctaret.{rdquo} Lactant. de M. P. c. 18.]
  The brave and active
 Constantius delivered Gaul from a very furious inroad of the Alemanni;
 and his victories of Langres and Vindonissa appear to have been actions
@@ -621,7 +621,7 @@ several colonies of the Carpi, the Bastarnae, and the Sarmatians; and,
 by a dangerous indulgence, permitted them in some measure to retain
 their national manners and independence. footnote:[There was a settlement of the Sarmatians in the
 neighborhood of Treves, which seems to have been deserted by those lazy
-barbarians. Ausonius speaks of them in his Mosella:---- "Unde iter
+barbarians. Ausonius speaks of them in his Mosella:{emdash}{emdash} {ldquo}Unde iter
 ingrediens nemorosa per avia solum, Et nulla humani spectans vestigia
 cultus; ........ Arvaque Sauromatum nuper metata colonis."]
  Among the provincials, it
@@ -693,7 +693,7 @@ incessantly relapsing into rebellion, had embraced the alliance of the
 savages of Aethiopia. The number of the Blemmyes, scattered between
 the Island of Meroe and the Red Sea, was very inconsiderable, their
 disposition was unwarlike, their weapons rude and inoffensive. footnote:[Strabo, l. xvii. p. 172. Pomponius Mela, l. i. c. 4.
-His words are curious: "Intra, si credere libet vix, homines magisque
+His words are curious: {ldquo}Intra, si credere libet vix, homines magisque
 semiferi Aegipanes, et Blemmyes, et Satyri."]
  Yet
 in the public disorders, these barbarians, whom antiquity, shocked
@@ -718,8 +718,8 @@ the Isle of Philae, (Elephantine,) which subsisted till the edict of
 Theodosius, in the sixth century, a dissertation of M. Letronne,
 on certain Greek inscriptions. The dissertation contains some very
 interesting observations on the conduct and policy of Diocletian
-in Egypt. Mater pour l'Hist. du Christianisme en Egypte, Nubie et
-Abyssinie, Paris 1817--M.]
+in Egypt. Mater pour l{apos}Hist. du Christianisme en Egypte, Nubie et
+Abyssinie, Paris 1817{emdash}M.]
 
 
 
@@ -749,11 +749,11 @@ quarters. Chron. Paschal. p. 276 Procop. Hist. Arcan. c. 26.]
  One very remarkable edict which he published, instead of
 being condemned as the effect of jealous tyranny, deserves to be
 applauded as an act of prudence and humanity. He caused a diligent
-inquiry to be made "for all the ancient books which treated of the
+inquiry to be made {ldquo}for all the ancient books which treated of the
 admirable art of making gold and silver, and without pity, committed
 them to the flames; apprehensive, as we are assumed, lest the opulence
 of the Egyptians should inspire them with confidence to rebel against
-the empire." footnote:[John Antioch, in Excerp. Valesian. p. 834. Suidas in
+the empire.{rdquo} footnote:[John Antioch, in Excerp. Valesian. p. 834. Suidas in
 Diocletian.]
  But if Diocletian had been convinced of the reality of
 that valuable art, far from extinguishing the memory, he would have
@@ -777,7 +777,7 @@ suggested more specious arts of deception. Philosophy, with the aid of
 experience, has at length banished the study of alchemy; and the present
 age, however desirous of riches, is content to seek them by the humbler
 means of commerce and industry. footnote:[See a short history and confutation of Alchemy, in the
-works of that philosophical compiler, La Mothe le Vayer, tom. i. p. 32--353.]
+works of that philosophical compiler, La Mothe le Vayer, tom. i. p. 32{endash}353.]
 
 
 
@@ -819,7 +819,7 @@ arm of the Armenian prince. The gratitude of Tiridates contributed soon
 afterwards to his restoration. Licinius was in every station the friend
 and companion of Galerius, and the merit of Galerius, long before he
 was raised to the dignity of Caesar, had been known and esteemed by
-Diocletian. In the third year of that emperor's reign Tiridates was
+Diocletian. In the third year of that emperor{apos}s reign Tiridates was
 invested with the kingdom of Armenia. The justice of the measure was
 not less evident than its expediency. It was time to rescue from the
 usurpation of the Persian monarch an important territory, which, since
@@ -874,7 +874,7 @@ like other women. (Hist. Armen. l. ii. c. 79.) I do not understand the
 expression. * Note: Os patulum signifies merely a large and widely
 opening mouth. Ovid (Metam. xv. 513) says, speaking of the monster who
 attacked Hippolytus, patulo partem maris evomit ore. Probably a wide
-mouth was a common defect among the Armenian women.--G.]
+mouth was a common defect among the Armenian women.{emdash}G.]
  and a
 considerable treasure, both of which, in a sequestered fortress, Otas
 had preserved from violation. Among the Armenian nobles appeared an
@@ -885,17 +885,17 @@ China for four hundred years. Dethroned by the usurping race of Wei,
 Mamgo found a hospitable reception in Persia in the reign of Ardeschir.
 The emperor of china having demanded the surrender of the fugitive and
 his partisans, Sapor, then king, threatened with war both by Rome and
-China, counselled Mamgo to retire into Armenia. "I have expelled him
+China, counselled Mamgo to retire into Armenia. {ldquo}I have expelled him
 from my dominions, (he answered the Chinese ambassador;) I have banished
 him to the extremity of the earth, where the sun sets; I have dismissed
-him to certain death." Compare Mem. sur l'Armenie, ii. 25.--M.]
+him to certain death.{rdquo} Compare Mem. sur l{apos}Armenie, ii. 25.{emdash}M.]
  his origin was Scythian, and the horde which acknowledge his
 authority had encamped a very few years before on the skirts of the
 Chinese empire, footnote:[In the Armenian history, (l. ii. 78,) as well as in
 the Geography, (p. 367,) China is called Zenia, or Zenastan. It is
 characterized by the production of silk, by the opulence of the natives,
 and by their love of peace, above all the other nations of the earth. *
-Note: See St. Martin, Mem. sur l'Armenie, i. 304.]
+Note: See St. Martin, Mem. sur l{apos}Armenie, i. 304.]
  which at that time extended as far as the
 neighborhood of Sogdiana. footnote:[Vou-ti, the first emperor of the seventh dynasty, who then
 reigned in China, had political transactions with Fergana, a province
@@ -909,8 +909,8 @@ The Chinese Annals mention, under the ninth year of Yan-hi, which
 corresponds with the year 166 J. C., an embassy which arrived from
 Tathsin, and was sent by a prince called An-thun, who can be no other
 than Marcus Aurelius Antoninus, who then ruled over the Romans. St.
-Martin, Mem. sur l'Armaenic. ii. 30. See also Klaproth, Tableaux
-Historiques de l'Asie, p. 69. The embassy came by Jy-nan, Tonquin.--M.]
+Martin, Mem. sur l{apos}Armaenic. ii. 30. See also Klaproth, Tableaux
+Historiques de l{apos}Asie, p. 69. The embassy came by Jy-nan, Tonquin.{emdash}M.]
  Having incurred the displeasure of his
 master, Mamgo, with his followers, retired to the banks of the Oxus, and
 implored the protection of Sapor. The emperor of China claimed the
@@ -965,7 +965,7 @@ Gellis, petit frater Ormies. Panegyric. Vet. iii. 1. The Saccae were a
 nation of wandering Scythians, who encamped towards the sources of the
 Oxus and the Jaxartes. The Gelli where the inhabitants of Ghilan, along
 the Caspian Sea, and who so long, under the name of Dilemines, infested
-the Persian monarchy. See d'Herbelot, Bibliotheque]
+the Persian monarchy. See d{apos}Herbelot, Bibliotheque]
  The
 civil war was, however, soon terminated, either by a victor or by a
 reconciliation; and Narses, who was universally acknowledged as king of
@@ -974,17 +974,17 @@ then became too unequal; nor was the valor of the hero able to withstand
 the power of the monarch, Tiridates, a second time expelled from the
 throne of Armenia, once more took refuge in the court of the emperors.
 footnote:[M St. Martin represents this differently. Le roi de Perse
-* * * profits d'un voyage que Tiridate avoit fait a Rome pour attaquer
+* * * profits d{apos}un voyage que Tiridate avoit fait a Rome pour attaquer
 ce royaume. This reads like the evasion of the national historians to
-disguise the fact discreditable to their hero. See Mem. sur l'Armenie,
-i. 304.--M.]
+disguise the fact discreditable to their hero. See Mem. sur l{apos}Armenie,
+i. 304.{emdash}M.]
  Narses soon reestablished his authority over the revolted province;
 and loudly complaining of the protection afforded by the Romans to
 rebels and fugitives, aspired to the conquest of the East. footnote:[Moses of Chorene takes no notice of this second
 revolution, which I have been obliged to collect from a passage of
 Ammianus Marcellinus, (l. xxiii. c. 5.) Lactantius speaks of the
-ambition of Narses: "Concitatus domesticis exemplis avi sui Saporis ad
-occupandum orientem magnis copiis inhiabat." De Mort. Persecut. c. 9.]
+ambition of Narses: {ldquo}Concitatus domesticis exemplis avi sui Saporis ad
+occupandum orientem magnis copiis inhiabat.{rdquo} De Mort. Persecut. c. 9.]
 
 
 
@@ -1035,7 +1035,7 @@ Euphrates; his horse was wounded, and it appeared impossible for him to
 escape the victorious enemy. In this extremity Tiridates embraced the
 only refuge which appeared before him: he dismounted and plunged into
 the stream. His armor was heavy, the river very deep, and at those
-parts at least half a mile in breadth; footnote:[See Foster's Dissertation in the second volume of the
+parts at least half a mile in breadth; footnote:[See Foster{apos}s Dissertation in the second volume of the
 translation of the Anabasis by Spelman; which I will venture to
 recommend as one of the best versions extant.]
  yet such was his strength and
@@ -1047,7 +1047,7 @@ escape; but when he returned to Antioch, Diocletian received him, not
 with the tenderness of a friend and colleague, but with the indignation
 of an offended sovereign. The haughtiest of men, clothed in his purple,
 but humbled by the sense of his fault and misfortune, was obliged to
-follow the emperor's chariot above a mile on foot, and to exhibit,
+follow the emperor{apos}s chariot above a mile on foot, and to exhibit,
 before the whole court, the spectacle of his disgrace. footnote:[Ammian. Marcellin. l. xiv. The mile, in the hands of
 Eutropoius, (ix. 24,) of Festus (c. 25,) and of Orosius, (vii 25),
 easily increased to several miles]
@@ -1078,8 +1078,8 @@ Galerius again passed the Euphrates; but, instead of exposing his
 legions in the open plains of Mesopotamia he advanced through the
 mountains of Armenia, where he found the inhabitants devoted to his
 cause, and the country as favorable to the operations of infantry as it
-was inconvenient for the motions of cavalry. footnote:[Aurelius Victor says, "Per Armeniam in hostes contendit,
-quae fermo sola, seu facilior vincendi via est." He followed the conduct
+was inconvenient for the motions of cavalry. footnote:[Aurelius Victor says, {ldquo}Per Armeniam in hostes contendit,
+quae fermo sola, seu facilior vincendi via est.{rdquo} He followed the conduct
 of Trajan, and the idea of Julius Caesar.]
  Adversity had confirmed
 the Roman discipline, while the barbarians, elated by success, were
@@ -1087,10 +1087,10 @@ become so negligent and remiss, that in the moment when they least
 expected it, they were surprised by the active conduct of Galerius, who,
 attended only by two horsemen, had with his own eyes secretly examined
 the state and position of their camp. A surprise, especially in the
-night time, was for the most part fatal to a Persian army. "Their horses
+night time, was for the most part fatal to a Persian army. {ldquo}Their horses
 were tied, and generally shackled, to prevent their running away; and
 if an alarm happened, a Persian had his housing to fix, his horse to
-bridle, and his corselet to put on, before he could mount." footnote:[Xenophon's Anabasis, l. iii. For that reason the Persian
+bridle, and his corselet to put on, before he could mount.{rdquo} footnote:[Xenophon{apos}s Anabasis, l. iii. For that reason the Persian
 cavalry encamped sixty stadia from the enemy.]
  On this
 occasion, the impetuous attack of Galerius spread disorder and dismay
@@ -1157,7 +1157,7 @@ he considered an immediate peace as the only means that could stop
 the progress of the Roman arms. He despatched Apharban, a servant who
 possessed his favor and confidence, with a commission to negotiate a
 treaty, or rather to receive whatever conditions the conqueror should
-impose. Apharban opened the conference by expressing his master's
+impose. Apharban opened the conference by expressing his master{apos}s
 gratitude for the generous treatment of his family, and by soliciting
 the liberty of those illustrious captives. He celebrated the valor of
 Galerius, without degrading the reputation of Narses, and thought it
@@ -1174,14 +1174,14 @@ put out.
 
 
 
-"It well becomes the Persians," replied Galerius, with a transport of
-fury, which seemed to convulse his whole frame, "it well becomes the
+{ldquo}It well becomes the Persians,{rdquo} replied Galerius, with a transport of
+fury, which seemed to convulse his whole frame, {ldquo}it well becomes the
 Persians to expatiate on the vicissitudes of fortune, and calmly to read
 us lectures on the virtues of moderation. Let them remember their own
 moderation, towards the unhappy Valerian. They vanquished him by fraud,
 they treated him with indignity. They detained him till the last moment
 of his life in shameful captivity, and after his death they exposed
-his body to perpetual ignominy." Softening, however, his tone, Galerius
+his body to perpetual ignominy.{rdquo} Softening, however, his tone, Galerius
 insinuated to the ambassador, that it had never been the practice of the
 Romans to trample on a prostrate enemy; and that, on this occasion,
 they should consult their own dignity rather than the Persian merit.
@@ -1216,7 +1216,7 @@ minister Apharban, the praefect of the guards, and an officer who had
 commanded on the Armenian frontier. footnote:[He had been governor of Sumium, (Pot. Patricius in
 Excerpt. Legat. p. 30.) This province seems to be mentioned by Moses of
 Chorene, (Geograph. p. 360,) and lay to the east of Mount Ararat. *
-Note: The Siounikh of the Armenian writers St. Martin i. 142.--M.]
+Note: The Siounikh of the Armenian writers St. Martin i. 142.{emdash}M.]
  The first condition proposed by
 the ambassador is not at present of a very intelligible nature; that the
 city of Nisibis might be established for the place of mutual exchange,
@@ -1257,13 +1257,13 @@ the Mygdonius, or Saocoras, about thirty-three leagues below Nisibis. at
 a town now called Al Nahraim; it does not pass under the walls of
 Singara; it is the Saocoras that washes the walls of that town: the
 latter river has its source near Nisibis. at five leagues from the
-Tigris. See D'Anv. l'Euphrate et le Tigre, 46, 49, 50, and the map.----
+Tigris. See D{apos}Anv. l{apos}Euphrate et le Tigre, 46, 49, 50, and the map.{emdash}{emdash}
 To the east of the Tigris is another less considerable river, named also
-the Chaboras, which D'Anville calls the Centrites, Khabour, Nicephorius,
+the Chaboras, which D{apos}Anville calls the Centrites, Khabour, Nicephorius,
 without quoting the authorities on which he gives those names. Gibbon
 did not mean to speak of this river, which does not pass by Singara, and
 does not fall into the Euphrates. See Michaelis, Supp. ad Lex. Hebraica.
-3d part, p. 664, 665.--G.]
+3d part, p. 664, 665.{emdash}G.]
  That
 river, which rose near the Tigris, was increased, a few miles below
 Nisibis, by the little stream of the Mygdonius, passed under the walls
@@ -1279,7 +1279,7 @@ Excerpt. Leg. p. 30) inserts Rehimene and Sophene. I have preferred
 Ammianus, (l. xxv. 7,) because it might be proved that Sophene was never
 in the hands of the Persians, either before the reign of Diocletian, or
 after that of Jovian. For want of correct maps, like those of M.
-d'Anville, almost all the moderns, with Tillemont and Valesius at their
+d{apos}Anville, almost all the moderns, with Tillemont and Valesius at their
 head, have imagined, that it was in respect to Persia, and not to Rome,
 that the five provinces were situate beyond the Tigris.]
  Their situation formed a very useful barrier, and their
@@ -1294,7 +1294,7 @@ not appear to have made an integral part of the Roman empire; Roman
 garrisons replaced those of Persia, but the sovereignty remained in the
 hands of the feudatory princes of Armenia. A prince of Carduene, ally or
 dependent on the empire, with the Roman name of Jovianus, occurs in the
-reign of Julian.--M.]
+reign of Julian.{emdash}M.]
  but on the east of the Tigris, the empire acquired the large and
 mountainous territory of Carduene, the ancient seat of the Carduchians,
 who preserved for many ages their manly freedom in the heart of the
@@ -1302,7 +1302,7 @@ despotic monarchies of Asia. The ten thousand Greeks traversed their
 country, after a painful march, or rather engagement, of seven days;
 and it is confessed by their leader, in his incomparable relation of
 the retreat, that they suffered more from the arrows of the Carduchians,
-than from the power of the Great King. footnote:[Xenophon's Anabasis, l. iv. Their bows were three cubits
+than from the power of the Great King. footnote:[Xenophon{apos}s Anabasis, l. iv. Their bows were three cubits
 in length, their arrows two; they rolled down stones that were each a
 wagon load. The Greeks found a great many villages in that rude
 country.]
@@ -1310,7 +1310,7 @@ country.]
 with very little alteration either of name or manners, footnote:[I travelled through this country in 1810, and should
 judge, from what I have read and seen of its inhabitants, that they have
 remained unchanged in their appearance and character for more than
-twenty centuries Malcolm, note to Hist. of Persia, vol. i. p. 82.--M.]
+twenty centuries Malcolm, note to Hist. of Persia, vol. i. p. 82.{emdash}M.]
  acknowledged
 the nominal sovereignty of the Turkish sultan. III. It is almost
 needless to observe, that Tiridates, the faithful ally of Rome, was
@@ -1414,7 +1414,7 @@ The spot on which Rome was founded had been consecrated by ancient
 ceremonies and imaginary miracles. The presence of some god, or the
 memory of some hero, seemed to animate every part of the city, and the
 empire of the world had been promised to the Capitol. footnote:[Livy gives us a speech of Camillus on that subject, (v.
-51--55,) full of eloquence and sensibility, in opposition to a design
+51{endash}55,) full of eloquence and sensibility, in opposition to a design
 of removing the seat of government from Rome to the neighboring city of
 Veii.]
  The native
@@ -1452,7 +1452,7 @@ their founder Maximian; porticos adorned with statues, and a double
 circumference of walls, contributed to the beauty of the new capital;
 nor did it seem oppressed even by the proximity of Rome. footnote:[See Aurelius Victor, who likewise mentions the buildings
 erected by Maximian at Carthage, probably during the Moorish war. We
-shall insert some verses of Ausonius de Clar. Urb. v.---- Et Mediolani
+shall insert some verses of Ausonius de Clar. Urb. v.{emdash}{emdash} Et Mediolani
 miraeomnia: copia rerum; Innumerae cultaeque domus; facunda virorum
 Ingenia, et mores laeti: tum duplice muro Amplificata loci species;
 populique voluptas Circus; et inclusi moles cuneata Theatri; Templa,
@@ -1552,7 +1552,7 @@ the exercise of the legislative as well as the executive power, the
 sovereign advised with his ministers, instead of consulting the great
 council of the nation. The name of the senate was mentioned with honor
 till the last period of the empire; the vanity of its members was still
-flattered with honorary distinctions; footnote:[See the Theodosian Code, l. vi. tit. ii. with Godefroy's
+flattered with honorary distinctions; footnote:[See the Theodosian Code, l. vi. tit. ii. with Godefroy{apos}s
 commentary.]
  but the assembly which had
 so long been the source, and so long the instrument of power, was
@@ -1581,7 +1581,7 @@ When the Roman princes had lost sight of the senate and of their ancient
 capital, they easily forgot the origin and nature of their legal power.
 The civil offices of consul, of proconsul, of censor, and of tribune,
 by the union of which it had been formed, betrayed to the people its
-republican extraction. Those modest titles were laid aside; footnote:[See the 12th dissertation in Spanheim's excellent work de
+republican extraction. Those modest titles were laid aside; footnote:[See the 12th dissertation in Spanheim{apos}s excellent work de
 Usu Numismatum. From medals, inscriptions, and historians, he examines
 every title separately, and traces it from Augustus to the moment of its
 disappearing.]
@@ -1651,8 +1651,8 @@ to his new court, attached less honor and distinction to rank than to
 services performed towards the members of the Imperial family.
 Hegewisch, Essai, Hist. sur les Finances Romains. Few historians have
 characterized, in a more philosophic manner, the influence of a new
-institution.--G.----It is singular that the son of a slave reduced the
-haughty aristocracy of Home to the offices of servitude.--M.]
+institution.{emdash}G.{emdash}{emdash}It is singular that the son of a slave reduced the
+haughty aristocracy of Home to the offices of servitude.{emdash}M.]
  Such extravagant compliments, however, soon
 lose their impiety by losing their meaning; and when the ear is once
 accustomed to the sound, they are heard with indifference, as vague
@@ -1679,7 +1679,7 @@ footnote:[See Spanheim de Usu Numismat. Dissert. xii.]
 Romans as the odious ensign of royalty, and the use of which had been
 considered as the most desperate act of the madness of Caligula. It was
 no more than a broad white fillet set with pearls, which encircled the
-emperor's head. The sumptuous robes of Diocletian and his successors
+emperor{apos}s head. The sumptuous robes of Diocletian and his successors
 were of silk and gold; and it is remarked with indignation, that even
 their shoes were studded with the most precious gems. The access
 to their sacred person was every day rendered more difficult by the
@@ -1769,9 +1769,9 @@ and with the Persian monarch for the vain superiority of pomp and
 luxury. The number of ministers, of magistrates, of officers, and
 of servants, who filled the different departments of the state, was
 multiplied beyond the example of former times; and (if we may borrow
-the warm expression of a contemporary) "when the proportion of those
+the warm expression of a contemporary) {ldquo}when the proportion of those
 who received, exceeded the proportion of those who contributed, the
-provinces were oppressed by the weight of tributes." footnote:[Lactant. de M. P. c. 7.]
+provinces were oppressed by the weight of tributes.{rdquo} footnote:[Lactant. de M. P. c. 7.]
  From this
 period to the extinction of the empire, it would be easy to deduce
 an uninterrupted series of clamors and complaints. According to his
@@ -1785,7 +1785,7 @@ from satire, as well as from panegyric, will be inclined to divide the
 blame among the princes whom they accuse, and to ascribe their exactions
 much less to their personal vices, than to the uniform system of their
 administration. footnote:[The most curious document which has come to light since
-the publication of Gibbon's History, is the edict of Diocletian,
+the publication of Gibbon{apos}s History, is the edict of Diocletian,
 published from an inscription found at Eskihissar, (Stratoniccia,) by
 Col. Leake. This inscription was first copied by Sherard, afterwards
 much more completely by Mr. Bankes. It is confirmed and illustrated by a
@@ -1799,14 +1799,14 @@ venders and merchants. Quis enim adeo obtunisi (obtusi) pectores (is) et
 a sensu inhumanitatis extorris est qui ignorare potest immo non senserit
 in venalibus rebus quaevel in mercimoniis aguntur vel diurna urbium
 conversatione tractantur, in tantum se licen liam defusisse, ut
-effraenata libido rapien--rum copia nec annorum ubertatibus mitigaretur.
+effraenata libido rapien{emdash}rum copia nec annorum ubertatibus mitigaretur.
 The edict, as Col. Leake clearly shows, was issued A. C. 303. Among the
 articles of which the maximum value is assessed, are oil, salt, honey,
-butchers' meat, poultry, game, fish, vegetables, fruit the wages of
+butchers{rsquo} meat, poultry, game, fish, vegetables, fruit the wages of
 laborers and artisans, schoolmasters and skins, boots and shoes,
 harness, timber, corn, wine, and beer, (zythus.) The depreciation in the
 value of money, or the rise in the price of commodities, had been so
-great during the past century, that butchers' meat, which, in the second
+great during the past century, that butchers{rsquo} meat, which, in the second
 century of the empire, was in Rome about two denaril the pound, was now
 fixed at a maximum of eight. Col. Leake supposes the average price could
 not be less than four: at the same time the maximum of the wages of the
@@ -1817,7 +1817,7 @@ government. See an Edict of Diocletian, by Col. Leake, London, 1826.
 Col. Leake has not observed that this Edict is expressly named in the
 treatise de Mort. Persecut. ch. vii. Idem cum variis iniquitatibus
 immensam faceret caritatem, legem pretiis rerum venalium statuere
-conatus.--M]
+conatus.{emdash}M]
  The emperor Diocletian was indeed the author of that
 system; but during his reign, the growing evil was confined within
 the bounds of modesty and discretion, and he deserves the reproach of
@@ -1899,7 +1899,7 @@ administration of a great empire. He resolved to pass the remainder of
 his days in honorable repose, to place his glory beyond the reach of
 fortune, and to relinquish the theatre of the world to his younger and
 more active associates. footnote:[Aurelius Victor ascribes the abdication, which had been
-so variously accounted for, to two causes: 1st, Diocletian's contempt of
+so variously accounted for, to two causes: 1st, Diocletian{apos}s contempt of
 ambition; and 2dly, His apprehension of impending troubles. One of the
 panegyrists (vi. 9) mentions the age and infirmities of Diocletian as a
 very natural reason for his retirement. * Note: Constantine (Orat. ad
@@ -1909,7 +1909,7 @@ cause of his abdication. But Heinichen. in a very sensible note on this
 passage in Eusebius, while he admits that his long illness might produce
 a temporary depression of spirits, triumphantly appeals to the
 philosophical conduct of Diocletian in his retreat, and the influence
-which he still retained on public affairs.--M.]
+which he still retained on public affairs.{emdash}M.]
 
 
 
@@ -1923,7 +1923,7 @@ from the gazing multitude; and traversing the city in a covered chariot,
 proceeded, without delay, to the favorite retirement which he had chosen
 in his native country of Dalmatia. On the same day, which was the first
 of May, footnote:[The difficulties as well as mistakes attending the dates
-both of the year and of the day of Diocletian's abdication are perfectly
+both of the year and of the day of Diocletian{apos}s abdication are perfectly
 cleared up by Tillemont, Hist. des Empereurs, tom. iv. p 525, note 19,
 and by Pagi ad annum.]
  Maximian, as it had been previously concerted, made his
@@ -1954,11 +1954,11 @@ Diocletian, who, from a servile origin, had raised himself to the
 throne, passed the nine last years of his life in a private condition.
 Reason had dictated, and content seems to have accompanied, his retreat,
 in which he enjoyed, for a long time, the respect of those princes to
-whom he had resigned the possession of the world. footnote:[Eumenius pays him a very fine compliment: "At enim
+whom he had resigned the possession of the world. footnote:[Eumenius pays him a very fine compliment: {ldquo}At enim
 divinum illum virum, qui primus imperium et participavit et posuit,
 consilii et fact isui non poenitet; nec amisisse se putat quod sponte
 transcripsit. Felix beatusque vere quem vestra, tantorum principum,
-colunt privatum." Panegyr. Vet. vii. 15.]
+colunt privatum.{rdquo} Panegyr. Vet. vii. 15.]
  It is seldom that
 minds long exercised in business have formed the habits of conversing
 with themselves, and in the loss of power they principally regret the
@@ -1978,15 +1978,15 @@ item. Eutropius mentions the thing in a more general manner.]
  In his conversations with his friends, he frequently
 acknowledged, that of all arts, the most difficult was the art of
 reigning; and he expressed himself on that favorite topic with a degree
-of warmth which could be the result only of experience. "How often," was
-he accustomed to say, "is it the interest of four or five ministers to
+of warmth which could be the result only of experience. {ldquo}How often,{rdquo} was
+he accustomed to say, {ldquo}is it the interest of four or five ministers to
 combine together to deceive their sovereign! Secluded from mankind by
 his exalted dignity, the truth is concealed from his knowledge; he can
 see only with their eyes, he hears nothing but their misrepresentations.
 He confers the most important offices upon vice and weakness, and
 disgraces the most virtuous and deserving among his subjects. By such
-infamous arts," added Diocletian, "the best and wisest princes are sold
-to the venal corruption of their courtiers." footnote:[Hist. August. p. 223, 224. Vopiscus had learned this
+infamous arts,{rdquo} added Diocletian, {ldquo}the best and wisest princes are sold
+to the venal corruption of their courtiers.{rdquo} footnote:[Hist. August. p. 223, 224. Vopiscus had learned this
 conversation from his father.]
  A just estimate of
 greatness, and the assurance of immortal fame, improve our relish
@@ -2036,7 +2036,7 @@ Giambattista Giustiniani about the middle of the xvith century.]
 magnificent palace, and we may infer, from the greatness of the work,
 how long he had meditated his design of abdicating the empire. The
 choice of a spot which united all that could contribute either to health
-or to luxury, did not require the partiality of a native. "The soil was
+or to luxury, did not require the partiality of a native. {ldquo}The soil was
 dry and fertile, the air is pure and wholesome, and though extremely
 hot during the summer months, this country seldom feels those sultry and
 noxious winds, to which the coasts of Istria and some parts of Italy are
@@ -2050,7 +2050,7 @@ sight, forms a proper contrast to that more extensive prospect of water,
 which the Adriatic presents both to the south and to the east. Towards
 the north, the view is terminated by high and irregular mountains,
 situated at a proper distance, and in many places covered with villages,
-woods, and vineyards." footnote:[Adam's Antiquities of Diocletian's Palace at Spalatro,
+woods, and vineyards.{rdquo} footnote:[Adam{apos}s Antiquities of Diocletian{apos}s Palace at Spalatro,
 p. 6. We may add a circumstance or two from the Abate Fortis: the little
 stream of the Hyader, mentioned by Lucan, produces most exquisite trout,
 which a sagacious writer, perhaps a monk, supposes to have been one of
@@ -2109,7 +2109,7 @@ were added to those of the prospect.
 
 Had this magnificent edifice remained in a solitary country, it would
 have been exposed to the ravages of time; but it might, perhaps, have
-escaped the rapacious industry of man. The village of Aspalathus, footnote:[D'Anville, Geographie Ancienne, tom. i. p. 162.]
+escaped the rapacious industry of man. The village of Aspalathus, footnote:[D{apos}Anville, Geographie Ancienne, tom. i. p. 162.]
 
 and, long afterwards, the provincial town of Spalatro, have grown out of
 its ruins. The Golden Gate now opens into the market-place. St. John the
@@ -2117,7 +2117,7 @@ Baptist has usurped the honors of Aesculapius; and the temple of
 Jupiter, under the protection of the Virgin, is converted into the
 cathedral church.
 
-For this account of Diocletian's palace we are principally indebted to
+For this account of Diocletian{apos}s palace we are principally indebted to
 an ingenious artist of our own time and country, whom a very liberal
 curiosity carried into the heart of Dalmatia. footnote:[Messieurs Adam and Clerisseau, attended by two
 draughtsmen visited Spalatro in the month of July, 1757. The magnificent
@@ -2129,11 +2129,11 @@ flattered the objects which it was their purpose to represent. We are
 informed by a more recent and very judicious traveller, that the awful
 ruins of Spalatro are not less expressive of the decline of the art than
 of the greatness of the Roman empire in the time of Diocletian. footnote:[I shall quote the words of the Abate Fortis.
-"E'bastevolmente agli amatori dell' Architettura, e dell' Antichita,
-l'opera del Signor Adams, che a donato molto a que' superbi vestigi
-coll'abituale eleganza del suo toccalapis e del bulino. In generale la
-rozzezza del scalpello, e'l cattivo gusto del secolo vi gareggiano colla
-magnificenz del fabricato." See Viaggio in Dalmazia, p. 40.]
+{ldquo}E{apos}bastevolmente agli amatori dell{rsquo} Architettura, e dell{rsquo} Antichita,
+l{apos}opera del Signor Adams, che a donato molto a que{rsquo} superbi vestigi
+coll{apos}abituale eleganza del suo toccalapis e del bulino. In generale la
+rozzezza del scalpello, e{apos}l cattivo gusto del secolo vi gareggiano colla
+magnificenz del fabricato.{rdquo} See Viaggio in Dalmazia, p. 40.]
 
 If such was indeed the state of architecture, we must naturally believe
 that painting and sculpture had experienced a still more sensible decay.
@@ -2184,11 +2184,11 @@ silenced those of Athens; and the ancient sects enrolled themselves
 under the banners of the more fashionable teachers, who recommended
 their system by the novelty of their method, and the austerity of their
 manners. Several of these masters, Ammonius, Plotinus, Amelius, and
-Porphyry, footnote:[Porphyry died about the time of Diocletian's abdication.
+Porphyry, footnote:[Porphyry died about the time of Diocletian{apos}s abdication.
 The life of his master Plotinus, which he composed, will give us the
 most complete idea of the genius of the sect, and the manners of its
 professors. This very curious piece is inserted in Fabricius Bibliotheca
-Graeca tom. iv. p. 88--148.]
+Graeca tom. iv. p. 88{endash}148.]
  were men of profound thought and intense application;
 but by mistaking the true object of philosophy, their labors contributed
 much less to improve than to corrupt the human understanding. The

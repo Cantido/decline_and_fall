@@ -4,7 +4,7 @@
 === Part I
 
      Conduct Of The Army And Senate After The Death Of Aurelian.
-     --Reigns Of Tacitus, Probus, Carus, And His Sons.
+     {emdash}Reigns Of Tacitus, Probus, Carus, And His Sons.
 
 Such was the unhappy condition of the Roman emperors, that, whatever
 might be their conduct, their fate was commonly the same. A life of
@@ -18,13 +18,13 @@ his perfidious secretary was discovered and punished.
 The deluded conspirators attended the funeral of their injured
 sovereign, with sincere or well-feigned contrition, and submitted to the
 unanimous resolution of the military order, which was signified by the
-following epistle: "The brave and fortunate armies to the senate and
-people of Rome.--The crime of one man, and the error of many, have
+following epistle: {ldquo}The brave and fortunate armies to the senate and
+people of Rome.{emdash}The crime of one man, and the error of many, have
 deprived us of the late emperor Aurelian. May it please you, venerable
 lords and fathers! to place him in the number of the gods, and to
 appoint a successor whom your judgment shall declare worthy of
 the Imperial purple! None of those whose guilt or misfortune have
-contributed to our loss, shall ever reign over us." footnote:[Vopiscus in Hist. August. p. 222. Aurelius Victor mentions
+contributed to our loss, shall ever reign over us.{rdquo} footnote:[Vopiscus in Hist. August. p. 222. Aurelius Victor mentions
 a formal deputation from the troops to the senate.]
  The Roman
 senators heard, without surprise, that another emperor had been
@@ -68,7 +68,7 @@ of the other, eight months insensibly elapsed; an amazing period of
 tranquil anarchy, during which the Roman world remained without a
 sovereign, without a usurper, and without a sedition. footnote:[The interregnum could not be more than seven months;
 Aurelian was assassinated in the middle of March, the year of Rome 1028.
-Tacitus was elected the 25th September in the same year.--G.]
+Tacitus was elected the 25th September in the same year.{emdash}G.]
  The generals
 and magistrates appointed by Aurelian continued to execute their
 ordinary functions; and it is observed, that a proconsul of Asia was the
@@ -121,8 +121,8 @@ the Persian king kept the East in perpetual alarms; Egypt, Africa, and
 Illyricum, were exposed to foreign and domestic arms, and the levity of
 Syria would prefer even a female sceptre to the sanctity of the Roman
 laws. The consul, then addressing himself to Tacitus, the first of the
-senators, footnote:[Vopiscus (in Hist. August p. 227) calls him "primae
-sententia consularis;" and soon afterwards Princeps senatus. It is
+senators, footnote:[Vopiscus (in Hist. August p. 227) calls him {ldquo}primae
+sententia consularis;{rdquo} and soon afterwards Princeps senatus. It is
 natural to suppose, that the monarchs of Rome, disdaining that humble
 title, resigned it to the most ancient of the senators.]
  required his opinion on the important subject of a proper
@@ -180,13 +180,13 @@ counsels on this important occasion.
 
 
 He arose to speak, when from every quarter of the house, he was saluted
-with the names of Augustus and emperor. "Tacitus Augustus, the gods
+with the names of Augustus and emperor. {ldquo}Tacitus Augustus, the gods
 preserve thee! we choose thee for our sovereign; to thy care we intrust
 the republic and the world. Accept the empire from the authority of the
-senate. It is due to thy rank, to thy conduct, to thy manners." As soon
+senate. It is due to thy rank, to thy conduct, to thy manners.{rdquo} As soon
 as the tumult of acclamations subsided, Tacitus attempted to decline the
 dangerous honor, and to express his wonder, that they should elect his
-age and infirmities to succeed the martial vigor of Aurelian. "Are these
+age and infirmities to succeed the martial vigor of Aurelian. {ldquo}Are these
 limbs, conscript fathers! fitted to sustain the weight of armor, or to
 practise the exercises of the camp? The variety of climates, and the
 hardships of a military life, would soon oppress a feeble constitution,
@@ -195,7 +195,7 @@ scarcely enables me to discharge the duty of a senator; how insufficient
 would it prove to the arduous labors of war and government! Can you
 hope, that the legions will respect a weak old man, whose days have been
 spent in the shade of peace and retirement? Can you desire that I should
-ever find reason to regret the favorable opinion of the senate?" footnote:[Vopiscus in Hist. August. p. 227.]
+ever find reason to regret the favorable opinion of the senate?{rdquo} footnote:[Vopiscus in Hist. August. p. 227.]
 
 
 
@@ -249,14 +249,14 @@ successive pairs, each, during the space of two months, filled the year,
 and represented the dignity of that ancient office. The authority of
 the senate, in the nomination of the consuls, was exercised with such
 independent freedom, that no regard was paid to an irregular request of
-the emperor in favor of his brother Florianus. "The senate," exclaimed
-Tacitus, with the honest transport of a patriot, "understand the
-character of a prince whom they have chosen." 3. To appoint the
+the emperor in favor of his brother Florianus. {ldquo}The senate,{rdquo} exclaimed
+Tacitus, with the honest transport of a patriot, {ldquo}understand the
+character of a prince whom they have chosen.{rdquo} 3. To appoint the
 proconsuls and presidents of the provinces, and to confer on all the
 magistrates their civil jurisdiction. 4. To receive appeals through the
 intermediate office of the praefect of the city from all the tribunals
 of the empire. 5. To give force and validity, by their decrees, to such
-as they should approve of the emperor's edicts. 6. To these several
+as they should approve of the emperor{apos}s edicts. 6. To these several
 branches of authority we may add some inspection over the finances,
 since, even in the stern reign of Aurelian, it was in their power to
 divert a part of the revenue from the public service. footnote:[Vopiscus in Hist. August. p. 216. The passage is perfectly
@@ -276,14 +276,14 @@ inform them of the happy revolution, which had restored the Roman senate
 to its ancient dignity. Two of these epistles are still extant.
 We likewise possess two very singular fragments of the private
 correspondence of the senators on this occasion. They discover the most
-excessive joy, and the most unbounded hopes. "Cast away your indolence,"
-it is thus that one of the senators addresses his friend, "emerge from
+excessive joy, and the most unbounded hopes. {ldquo}Cast away your indolence,{rdquo}
+it is thus that one of the senators addresses his friend, {ldquo}emerge from
 your retirements of Baiae and Puteoli. Give yourself to the city, to the
 senate. Rome flourishes, the whole republic flourishes. Thanks to the
 Roman army, to an army truly Roman; at length we have recovered our
 just authority, the end of all our desires. We hear appeals, we appoint
-proconsuls, we create emperors; perhaps too we may restrain them--to the
-wise a word is sufficient." footnote:[Vopiscus in Hist. August. p. 230, 232, 233. The senators
+proconsuls, we create emperors; perhaps too we may restrain them{emdash}to the
+wise a word is sufficient.{rdquo} footnote:[Vopiscus in Hist. August. p. 230, 232, 233. The senators
 celebrated the happy restoration with hecatombs and public rejoicings.]
  These lofty expectations were, however,
 soon disappointed; nor, indeed, was it possible that the armies and the
@@ -312,7 +312,7 @@ the brave Aurelian. footnote:[Hist. August. p. 228.]
 
 
 Whilst the deceased emperor was making preparations for a second
-expedition into the East, he had negotiated with the Alani, footnote:[On the Alani, see ch. xxvi. note 55.--M.]
+expedition into the East, he had negotiated with the Alani, footnote:[On the Alani, see ch. xxvi. note 55.{emdash}M.]
  a
 Scythian people, who pitched their tents in the neighborhood of the
 Lake Moeotis. Those barbarians, allured by presents and subsidies, had
@@ -434,13 +434,13 @@ thousand years, to expose or justify the prediction.]
 The peasants of Illyricum, who had already given Claudius and Aurelian
 to the sinking empire, had an equal right to glory in the elevation of
 Probus. footnote:[For the private life of Probus, see Vopiscus in Hist.
-August p. 234--237]
+August p. 234{endash}237]
  Above twenty years before, the emperor Valerian, with his
 usual penetration, had discovered the rising merit of the young soldier,
 on whom he conferred the rank of tribune, long before the age prescribed
 by the military regulations. The tribune soon justified his choice, by a
 victory over a great body of Sarmatians, in which he saved the life of
-a near relation of Valerian; and deserved to receive from the emperor's
+a near relation of Valerian; and deserved to receive from the emperor{apos}s
 hand the collars, bracelets, spears, and banners, the mural and the
 civic crown, and all the honorable rewards reserved by ancient Rome
 for successful valor. The third, and afterwards the tenth, legion were
@@ -467,15 +467,15 @@ and body.
 His acknowledge merit, and the success of his arms against Florianus,
 left him without an enemy or a competitor. Yet, if we may credit his own
 professions, very far from being desirous of the empire, he had accepted
-it with the most sincere reluctance. "But it is no longer in my power,"
-says Probus, in a private letter, "to lay down a title so full of envy
+it with the most sincere reluctance. {ldquo}But it is no longer in my power,{rdquo}
+says Probus, in a private letter, {ldquo}to lay down a title so full of envy
 and of danger. I must continue to personate the character which the
-soldiers have imposed upon me." footnote:[This letter was addressed to the Praetorian praefect, whom
+soldiers have imposed upon me.{rdquo} footnote:[This letter was addressed to the Praetorian praefect, whom
 (on condition of his good behavior) he promised to continue in his great
 office. See Hist. August. p. 237.]
  His dutiful address to the senate
 displayed the sentiments, or at least the language, of a Roman patriot:
-"When you elected one of your order, conscript fathers! to succeed the
+{ldquo}When you elected one of your order, conscript fathers! to succeed the
 emperor Aurelian, you acted in a manner suitable to your justice and
 wisdom. For you are the legal sovereigns of the world, and the power
 which you derive from your ancestors will descend to your posterity.
@@ -484,7 +484,7 @@ of his brother, like a private inheritance, had expected what your
 majesty might determine, either in his favor, or in that of other
 person. The prudent soldiers have punished his rashness. To me they
 have offered the title of Augustus. But I submit to your clemency my
-pretensions and my merits." footnote:[Vopiscus in Hist. August. p. 237. The date of the letter
+pretensions and my merits.{rdquo} footnote:[Vopiscus in Hist. August. p. 237. The date of the letter
 is assuredly faulty. Instead of Nen. Februar. we may read Non August.]
  When this respectful epistle was read
 by the consul, the senators were unable to disguise their satisfaction,
@@ -537,7 +537,7 @@ After his death they seemed to revive with an increase of fury and of
 numbers. They were again vanquished by the active vigor of Probus, who,
 in a short reign of about six years, footnote:[The date and duration of the reign of Probus are very
 correctly ascertained by Cardinal Noris in his learned work, De Epochis
-Syro-Macedonum, p. 96--105. A passage of Eusebius connects the second
+Syro-Macedonum, p. 96{endash}105. A passage of Eusebius connects the second
 year of Probus with the aeras of several of the Syrian cities.]
  equalled the fame of ancient
 heroes, and restored peace and order to every province of the Roman
@@ -548,7 +548,7 @@ barbarians to relinquish their spoil. The Gothic nation courted the
 alliance of so warlike an emperor. footnote:[Vopiscus in Hist. August. p. 239.]
  He attacked the Isaurians in
 their mountains, besieged and took several of their strongest castles,
-footnote:[Zosimus (l. i. p. 62--65) tells us a very long and
+footnote:[Zosimus (l. i. p. 62{endash}65) tells us a very long and
 trifling story of Lycius, the Isaurian robber.]
  and flattered himself that he had forever suppressed a domestic
 foe, whose independence so deeply wounded the majesty of the empire. The
@@ -604,9 +604,9 @@ of Gaul; under the reign of Probus, they did no more than pass the river
 which separated them from the Roman Empire: they were repelled. Gatterer
 presumes that this river was the Danube; a passage in Zosimus appears to
 me rather to indicate the Rhine. Zos. l. i. p. 37, edit H. Etienne,
-1581.--G. On the origin of the Burgundians may be consulted Malte Brun,
+1581.{emdash}G. On the origin of the Burgundians may be consulted Malte Brun,
 Geogr vi. p. 396, (edit. 1831,) who observes that all the remains of the
-Burgundian language indicate that they spoke a Gothic dialect.--M.]
+Burgundian language indicate that they spoke a Gothic dialect.{emdash}M.]
  They had
 wandered in quest of booty from the banks of the Oder to those of the
 Seine. They esteemed themselves sufficiently fortunate to purchase, by
@@ -622,18 +622,18 @@ their country the city of Calisia, probably Calish in Silesia. *
 Note: Luden (vol ii. 501) supposes that these have been erroneously
 identified with the Lygii of Tacitus. Perhaps one fertile source
 of mistakes has been, that the Romans have turned appellations into
-national names. Malte Brun observes of the Lygii, "that their name
-appears Sclavonian, and signifies 'inhabitants of plains;' they are
+national names. Malte Brun observes of the Lygii, {ldquo}that their name
+appears Sclavonian, and signifies {lsquo}inhabitants of plains;{rsquo} they are
 probably the Lieches of the middle ages, and the ancestors of the Poles.
 We find among the Arii the worship of the two twin gods known in the
-Sclavian mythology." Malte Brun, vol. i. p. 278, (edit. 1831.)--M.
+Sclavian mythology.{rdquo} Malte Brun, vol. i. p. 278, (edit. 1831.){emdash}M.
 But compare Schafarik, Slawische Alterthumer, 1, p. 406. They were of
 German or Keltish descent, occupying the Wendish (or Slavian) district,
-Luhy.--M. 1845.]
+Luhy.{emdash}M. 1845.]
 
 In the Lygian nation, the Arii held the first rank by their numbers and
-fierceness. "The Arii" (it is thus that they are described by the energy
-of Tacitus) "study to improve by art and circumstances the innate
+fierceness. {ldquo}The Arii{rdquo} (it is thus that they are described by the energy
+of Tacitus) {ldquo}study to improve by art and circumstances the innate
 terrors of their barbarism. Their shields are black, their bodies are
 painted black. They choose for the combat the darkest hour of the night.
 Their host advances, covered as it were with a funeral shade; footnote:[Feralis umbra, is the expression of Tacitus: it is surely
@@ -641,7 +641,7 @@ a very bold one.]
  nor do
 they often find an enemy capable of sustaining so strange and infernal
 an aspect. Of all our senses, the eyes are the first vanquished
-in battle." footnote:[Tacit. Germania, (c. 43.)]
+in battle.{rdquo} footnote:[Tacit. Germania, (c. 43.)]
  Yet the arms and discipline of the Romans easily
 discomfited these horrid phantoms. The Lygii were defeated in a general
 engagement, and Semno, the most renowned of their chiefs, fell alive
@@ -730,7 +730,7 @@ by towers at convenient distances. From the neighborhood of Newstadt and
 Ratisbon on the Danube, it stretched across hills, valleys, rivers, and
 morasses, as far as Wimpfen on the Necker, and at length terminated
 on the banks of the Rhine, after a winding course of near two hundred
-miles. footnote:[See notes de l'Abbe de la Bleterie a la Germanie de
+miles. footnote:[See notes de l{apos}Abbe de la Bleterie a la Germanie de
 Tacite, p. 183. His account of the wall is chiefly borrowed (as he says
 himself) from the Alsatia Illustrata of Schoepflin.]
  This important barrier, uniting the two mighty streams that
@@ -739,7 +739,7 @@ through which the barbarians, and particularly the Alemanni, could
 penetrate with the greatest facility into the heart of the empire. But
 the experience of the world, from China to Britain, has exposed the
 vain attempt of fortifying any extensive tract of country. footnote:[See Recherches sur les Chinois et les Egyptiens, tom. ii.
-p. 81--102. The anonymous author is well acquainted with the globe in
+p. 81{endash}102. The anonymous author is well acquainted with the globe in
 general, and with Germany in particular: with regard to the latter,
 he quotes a work of M. Hanselman; but he seems to confound the wall of
 Probus, designed against the Alemanni, with the fortification of the
@@ -747,15 +747,15 @@ Mattiaci, constructed in the neighborhood of Frankfort against the
 Catti. * Note: De Pauw is well known to have been the author of this
 work, as of the Recherches sur les Americains before quoted. The
 judgment of M. Remusat on this writer is in a very different, I fear a
-juster tone. Quand au lieu de rechercher, d'examiner, d'etudier, on se
+juster tone. Quand au lieu de rechercher, d{apos}examiner, d{apos}etudier, on se
 borne, comme cet ecrivain, a juger a prononcer, a decider, sans
-connoitre ni l'histoire. ni les langues, sans recourir aux sources, sans
+connoitre ni l{apos}histoire. ni les langues, sans recourir aux sources, sans
 meme se douter de leur existence, on peut en imposer pendant quelque
 temps a des lecteurs prevenus ou peu instruits; mais le mepris qui ne
 manque guere de succeder a cet engouement fait bientot justice de ces
-assertions hazardees, et elles retombent dans l'oubli d'autant plus
-promptement, qu'elles ont ete posees avec plus de confiance. Sur les l
-angues Tartares, p. 231.--M.]
+assertions hazardees, et elles retombent dans l{apos}oubli d{apos}autant plus
+promptement, qu{apos}elles ont ete posees avec plus de confiance. Sur les l
+angues Tartares, p. 231.{emdash}M.]
  An active
 enemy, who can select and vary his points of attack, must, in the end,
 discover some feeble spot, on some unguarded moment. The strength, as
@@ -797,7 +797,7 @@ beneficial plan of replenishing the exhausted frontiers, by new colonies
 of captive or fugitive barbarians, on whom he bestowed lands, cattle,
 instruments of husbandry, and every encouragement that might engage
 them to educate a race of soldiers for the service of the republic. Into
-Britain, and most probably into Cambridgeshire, footnote:[Camden's Britannia, Introduction, p. 136; but he speaks
+Britain, and most probably into Cambridgeshire, footnote:[Camden{apos}s Britannia, Introduction, p. 136; but he speaks
 from a very doubtful conjecture.]
  he transported a
 considerable body of Vandals. The impossibility of an escape reconciled
@@ -868,16 +868,16 @@ Saturninus. That general, a man of merit and experience, was driven into
 rebellion by the absence of his sovereign, the levity of the Alexandrian
 people, the pressing instances of his friends, and his own fears; but
 from the moment of his elevation, he never entertained a hope of empire,
-or even of life. "Alas!" he said, "the republic has lost a useful
+or even of life. {ldquo}Alas!{rdquo} he said, {ldquo}the republic has lost a useful
 servant, and the rashness of an hour has destroyed the services of many
-years. You know not," continued he, "the misery of sovereign power; a
+years. You know not,{rdquo} continued he, {ldquo}the misery of sovereign power; a
 sword is perpetually suspended over our head. We dread our very guards,
 we distrust our companions. The choice of action or of repose is no
 longer in our disposition, nor is there any age, or character, or
 conduct, that can protect us from the censure of envy. In thus exalting
 me to the throne, you have doomed me to a life of cares, and to an
 untimely fate. The only consolation which remains is, the assurance that
-I shall not fall alone." footnote:[Vopiscus in Hist. August. p. 245, 246. The unfortunate
+I shall not fall alone.{rdquo} footnote:[Vopiscus in Hist. August. p. 245, 246. The unfortunate
 orator had studied rhetoric at Carthage; and was therefore more probably
 a Moor (Zosim. l. i. p. 60) than a Gaul, as Vopiscus calls him.]
  But as the former part of his prediction
@@ -903,8 +903,8 @@ Proculus, in Gaul. The most distinguished merit of those two officers
 was their respective prowess, of the one in the combats of Bacchus, of
 the other in those of Venus, footnote:[A very surprising instance is recorded of the prowess of
 Proculus. He had taken one hundred Sarmatian virgins. The rest of the
-story he must relate in his own language: "Ex his una necte decem inivi;
-omnes tamen, quod in me erat, mulieres intra dies quindecim reddidi."
+story he must relate in his own language: {ldquo}Ex his una necte decem inivi;
+omnes tamen, quod in me erat, mulieres intra dies quindecim reddidi.{rdquo}
 Vopiscus in Hist. August. p. 246.]
  yet neither of them was destitute
 of courage and capacity, and both sustained, with honor, the august
@@ -1093,7 +1093,7 @@ of so great a prince. Faunus hails the approach of that hero, who,
 receiving on his shoulders the sinking weight of the Roman world, shall
 extinguish war and faction, and once again restore the innocence and
 security of the golden age. footnote:[See the first eclogue of Calphurnius. The design of it
-is preferes by Fontenelle to that of Virgil's Pollio. See tom. iii. p.
+is preferes by Fontenelle to that of Virgil{apos}s Pollio. See tom. iii. p.
 148.]
 
 
@@ -1126,15 +1126,15 @@ invade.
 
 
 The successor of Artaxerxes, footnote:[Three monarchs had intervened, Sapor, (Shahpour,)
-Hormisdas, (Hormooz,) Varanes; Baharam the First.--M.]
+Hormisdas, (Hormooz,) Varanes; Baharam the First.{emdash}M.]
  Varanes, or Bahram, though he had subdued
 the Segestans, one of the most warlike nations of Upper Asia, footnote:[Agathias, l. iv. p. 135. We find one of his sayings in
-the Bibliotheque Orientale of M. d'Herbelot. "The definition of humanity
+the Bibliotheque Orientale of M. d{apos}Herbelot. {ldquo}The definition of humanity
 includes all other virtues."]
  was
 alarmed at the approach of the Romans, and endeavored to retard their
 progress by a negotiation of peace. footnote:[The manner in which his life was saved by the Chief Pontiff
-from a conspiracy of his nobles, is as remarkable as his saying. "By the
+from a conspiracy of his nobles, is as remarkable as his saying. {ldquo}By the
 advice (of the Pontiff) all the nobles absented themselves from court.
 The king wandered through his palace alone. He saw no one; all was
 silence around. He became alarmed and distressed. At last the Chief
@@ -1149,7 +1149,7 @@ which all the nobles and attendants were in an instant, as if by magic,
 in their usual places. The monarch now perceived that only one opinion
 prevailed on his past conduct. He repeated therefore to his nobles all
 he had said to the Chief Pontiff, and his future reign was unstained by
-cruelty or oppression." Malcolm's Persia,--M.]
+cruelty or oppression.{rdquo} Malcolm{apos}s Persia,{emdash}M.]
 
 
 His ambassadors entered the camp about sunset, at the time when the
@@ -1212,13 +1212,13 @@ in the Island of Crete. But neither is the language of Niebuhr quite
 accurate, nor his reference to the Acroases of Theodosius satisfactory.
 When, then, could this occurrence take place? Why not in the devastation
 of the island by the Gothic pirates, during the reign of Claudius. Hist.
-Aug. in Claud. p. 814. edit. Var. Lugd. Bat 1661.--M.]
+Aug. in Claud. p. 814. edit. Var. Lugd. Bat 1661.{emdash}M.]
  But the reign
 of Carus was destined to expose the vanity of predictions. They were
 scarcely uttered before they were contradicted by his death; an event
 attended with such ambiguous circumstances, that it may be related in a
-letter from his own secretary to the praefect of the city. "Carus," says
-he, "our dearest emperor, was confined by sickness to his bed, when a
+letter from his own secretary to the praefect of the city. {ldquo}Carus,{rdquo} says
+he, {ldquo}our dearest emperor, was confined by sickness to his bed, when a
 furious tempest arose in the camp. The darkness which overspread the sky
 was so thick, that we could no longer distinguish each other; and the
 incessant flashes of lightning took from us the knowledge of all that
@@ -1227,7 +1227,7 @@ of thunder, we heard a sudden cry that the emperor was dead; and it soon
 appeared, that his chamberlains, in a rage of grief, had set fire to the
 royal pavilion; a circumstance which gave rise to the report that Carus
 was killed by lightning. But, as far as we have been able to investigate
-the truth, his death was the natural effect of his disorder." footnote:[Hist. August. p. 250. Yet Eutropius, Festus, Rufus, the
+the truth, his death was the natural effect of his disorder.{rdquo} footnote:[Hist. August. p. 250. Yet Eutropius, Festus, Rufus, the
 two Victors, Jerome, Sidonius Apollinaris, Syncellus, and Zonaras, all
 ascribe the death of Carus to lightning.]
 
@@ -1252,13 +1252,13 @@ and young Numerian, with his absent brother Carinus, were unanimously
 acknowledged as Roman emperors.
 
 The public expected that the successor of Carus would pursue his
-father's footsteps, and, without allowing the Persians to recover from
+father{apos}s footsteps, and, without allowing the Persians to recover from
 their consternation, would advance sword in hand to the palaces of
 Susa and Ecbatana. footnote:[See Nemesian. Cynegeticon, v. 71, &c.]
  But the legions, however strong in numbers
 and discipline, were dismayed by the most abject superstition.
 Notwithstanding all the arts that were practised to disguise the manner
-of the late emperor's death, it was found impossible to remove the
+of the late emperor{apos}s death, it was found impossible to remove the
 opinion of the multitude, and the power of opinion is irresistible.
 Places or persons struck with lightning were considered by the ancients
 with pious horror, as singularly devoted to the wrath of Heaven. footnote:[See Festus and his commentators on the word Scribonianum.
@@ -1342,7 +1342,7 @@ concealed his resolution of satisfying the republic by a severe act of
 justice, and of adopting, in the place of an unworthy son, the brave and
 virtuous Constantius, who at that time was governor of Dalmatia. But the
 elevation of Constantius was for a while deferred; and as soon as the
-father's death had released Carinus from the control of fear or decency,
+father{apos}s death had released Carinus from the control of fear or decency,
 he displayed to the Romans the extravagancies of Elagabalus, aggravated
 by the cruelty of Domitian. footnote:[Vopiscus in Hist. August. p. 253, 254. Eutropius, x.
 19. Vic to Junior. The reign of Diocletian indeed was so long and
@@ -1354,7 +1354,7 @@ Carinus.]
 
 The only merit of the administration of Carinus that history could
 record, or poetry celebrate, was the uncommon splendor with which, in
-his own and his brother's name, he exhibited the Roman games of the
+his own and his brother{apos}s name, he exhibited the Roman games of the
 theatre, the circus, and the amphitheatre. More than twenty years
 afterwards, when the courtiers of Diocletian represented to their frugal
 sovereign the fame and popularity of his munificent predecessor, he
@@ -1470,7 +1470,7 @@ vomitories (for by that name the doors were very aptly distinguished)
 poured forth the immense multitude; and the entrances, passages, and
 staircases were contrived with such exquisite skill, that each person,
 whether of the senatorial, the equestrian, or the plebeian order,
-arrived at his destined place without trouble or confusion. footnote:[See Maffei, l. ii. c. 5--12. He treats the very difficult
+arrived at his destined place without trouble or confusion. footnote:[See Maffei, l. ii. c. 5{endash}12. He treats the very difficult
 subject with all possible clearness, and like an architect, as well as
 an antiquarian.]
  Nothing
@@ -1539,7 +1539,7 @@ deal of trouble to perplex a very clear subject.]
 
 
 
-The sons of Carus never saw each other after their father's death. The
+The sons of Carus never saw each other after their father{apos}s death. The
 arrangements which their new situation required were probably deferred
 till the return of the younger brother to Rome, where a triumph was
 decreed to the young emperors for the glorious success of the Persian
@@ -1562,15 +1562,15 @@ of his contemporaries, and still remained the friend of his rivals;
 a circumstance which evinces either the goodness of his heart, or the
 superiority of his genius. footnote:[He won all the crowns from Nemesianus, with whom he vied
 in didactic poetry. The senate erected a statue to the son of Carus,
-with a very ambiguous inscription, "To the most powerful of orators."
+with a very ambiguous inscription, {ldquo}To the most powerful of orators.{rdquo}
 See Vopiscus in Hist. August. p. 251.]
  But the talents of Numerian were
-rather of the contemplative than of the active kind. When his father's
+rather of the contemplative than of the active kind. When his father{apos}s
 elevation reluctantly forced him from the shade of retirement, neither
 his temper nor his pursuits had qualified him for the command of armies.
 His constitution was destroyed by the hardships of the Persian war; and
 he had contracted, from the heat of the climate, footnote:[A more natural cause, at least, than that assigned by
-Vopiscus, (Hist. August. p. 251,) incessantly weeping for his father's
+Vopiscus, (Hist. August. p. 251,) incessantly weeping for his father{apos}s
 death.]
  such a weakness
 in his eyes, as obliged him, in the course of a long retreat, to confine
@@ -1602,7 +1602,7 @@ the knowledge of the time and place where Diocletian was elected
 emperor.]
  But a report soon circulated through the camp,
 at first in secret whispers, and at length in loud clamors, of the
-emperor's death, and of the presumption of his ambitious minister, who
+emperor{apos}s death, and of the presumption of his ambitious minister, who
 still exercised the sovereign power in the name of a prince who was no
 more. The impatience of the soldiers could not long support a state of
 suspense. With rude curiosity they broke into the Imperial tent, and
@@ -1631,8 +1631,8 @@ eyes towards the Sun, made a solemn profession of his own innocence, in
 the presence of that all-seeing Deity. footnote:[Aurel. Victor. Eutropius, ix. 20. Hieronym. in Chron.]
  Then, assuming the tone of
 a sovereign and a judge, he commanded that Aper should be brought
-in chains to the foot of the tribunal. "This man," said he, "is the
-murderer of Numerian;" and without giving him time to enter on a
+in chains to the foot of the tribunal. {ldquo}This man,{rdquo} said he, {ldquo}is the
+murderer of Numerian;{rdquo} and without giving him time to enter on a
 dangerous justification, drew his sword, and buried it in the breast of
 the unfortunate praefect. A charge supported by such decisive proof
 was admitted without contradiction, and the legions, with repeated
@@ -1663,9 +1663,9 @@ intrigues, and open preparations for a civil war. In the spring, the
 forces of the East and of the West encountered each other in the plains
 of Margus, a small city of Maesia, in the neighborhood of the Danube.
 footnote:[Eutropius marks its situation very accurately; it
-was between the Mons Aureus and Viminiacum. M. d'Anville (Geographic
+was between the Mons Aureus and Viminiacum. M. d{apos}Anville (Geographic
 Ancienne, tom. i. p. 304) places Margus at Kastolatz in Servia, a little
-below Belgrade and Semendria. * Note: Kullieza--Eton Atlas--M.]
+below Belgrade and Semendria. * Note: Kullieza{emdash}Eton Atlas{emdash}M.]
  The troops, so lately returned from the Persian war, had acquired
 their glory at the expense of health and numbers; nor were they in a
 condition to contend with the unexhausted strength of the legions of

@@ -3,7 +3,7 @@
 
 === Part I
 
-     Reign Of Claudius.--Defeat Of The Goths.--Victories,
+     Reign Of Claudius.{emdash}Defeat Of The Goths.{emdash}Victories,
      Triumph, And Death Of Aurelian.
 
 Under the deplorable reigns of Valerian and Gallienus, the empire was
@@ -38,7 +38,7 @@ from Milan. See Cluver. Italia, Antiq. tom. i. p. 245. Near this place,
 in the year 1703, the obstinate battle of Cassano was fought between the
 French and Austrians. The excellent relation of the Chevalier de Folard,
 who was present, gives a very distinct idea of the ground. See Polybe de
-Folard, tom. iii. p. 233-248.]
+Folard, tom. iii. p. 233{endash}248.]
  still preserves the memory of a bridge
 over the Adda, which, during the action, must have proved an object
 of the utmost importance to both armies. The Rhaetian usurper, after
@@ -60,7 +60,7 @@ Praetorian praefect, by Marcian, a general of rank and reputation, and
 by Cecrops, who commanded a numerous body of Dalmatian guards. The death
 of Gallienus was resolved; and notwithstanding their desire of first
 terminating the siege of Milan, the extreme danger which accompanied
-every moment's delay obliged them to hasten the execution of their
+every moment{apos}s delay obliged them to hasten the execution of their
 daring purpose. At a late hour of the night, but while the emperor still
 protracted the pleasures of the table, an alarm was suddenly given, that
 Aureolus, at the head of all his forces, had made a desperate sally
@@ -76,7 +76,7 @@ that the Imperial ornaments should be delivered to Claudius, who then
 commanded a detached army in the neighborhood of Pavia. The report at
 least was diligently propagated, and the order cheerfully obeyed by the
 conspirators, who had already agreed to place Claudius on the throne.
-On the first news of the emperor's death, the troops expressed some
+On the first news of the emperor{apos}s death, the troops expressed some
 suspicion and resentment, till the one was removed, and the other
 assuaged, by a donative of twenty pieces of gold to each soldier. They
 then ratified the election, and acknowledged the merit of their new
@@ -110,9 +110,9 @@ deserved from the senate the honor of a statue, and excited the jealous
 apprehensions of Gallienus. It was impossible that a soldier could
 esteem so dissolute a sovereign, nor is it easy to conceal a just
 contempt. Some unguarded expressions which dropped from Claudius were
-officiously transmitted to the royal ear. The emperor's answer to an
+officiously transmitted to the royal ear. The emperor{apos}s answer to an
 officer of confidence describes in very lively colors his own character,
-and that of the times. "There is not any thing capable of giving me more
+and that of the times. {ldquo}There is not any thing capable of giving me more
 serious concern, than the intelligence contained in your last despatch;
 footnote:[Notoria, a periodical and official despatch which the
 emperor received from the frumentarii, or agents dispersed through the
@@ -124,7 +124,7 @@ secrecy; let it not reach the knowledge of the Dacian troops; they are
 already provoked, and it might inflame their fury. I myself have sent
 him some presents: be it your care that he accept them with pleasure.
 Above all, let him not suspect that I am made acquainted with his
-imprudence. The fear of my anger might urge him to desperate counsels."
+imprudence. The fear of my anger might urge him to desperate counsels.{rdquo}
 footnote:[Hist. August. p. 208. Gallienus describes the plate,
 vestments, etc., like a man who loved and understood those splendid
 trifles.]
@@ -155,10 +155,10 @@ he was about fifty-four years of age.
 The siege of Milan was still continued, and Aureolus soon discovered
 that the success of his artifices had only raised up a more determined
 adversary. He attempted to negotiate with Claudius a treaty of alliance
-and partition. "Tell him," replied the intrepid emperor, "that such
+and partition. {ldquo}Tell him,{rdquo} replied the intrepid emperor, {ldquo}that such
 proposals should have been made to Gallienus; he, perhaps, might have
 listened to them with patience, and accepted a colleague as despicable
-as himself." footnote:[Hist. August. p. 203. There are some trifling differences
+as himself.{rdquo} footnote:[Hist. August. p. 203. There are some trifling differences
 concerning the circumstances of the last defeat and death of Aureolus]
  This stern refusal, and a last unsuccessful effort,
 obliged Aureolus to yield the city and himself to the discretion of the
@@ -175,8 +175,8 @@ by his intercession a general act of indemnity. footnote:[Aurelius Victor in Gal
 the damnation of Gallienus. The senate decreed that his relations and
 servants should be thrown down headlong from the Gemonian stairs. An
 obnoxious officer of the revenue had his eyes torn out whilst under
-examination. Note: The expression is curious, "terram matrem deosque
-inferos impias uti Gallieno darent."--M.]
+examination. Note: The expression is curious, {ldquo}terram matrem deosque
+inferos impias uti Gallieno darent."{emdash}M.]
 
 
 
@@ -266,8 +266,8 @@ engage the last defence of Italy.
 
 
 We still posses an original letter addressed by Claudius to the senate
-and people on this memorable occasion. "Conscript fathers," says the
-emperor, "know that three hundred and twenty thousand Goths have invaded
+and people on this memorable occasion. {ldquo}Conscript fathers,{rdquo} says the
+emperor, {ldquo}know that three hundred and twenty thousand Goths have invaded
 the Roman territory. If I vanquish them, your gratitude will reward my
 services. Should I fall, remember that I am the successor of Gallienus.
 The whole republic is fatigued and exhausted. We shall fight after
@@ -277,7 +277,7 @@ rebellion. We are in want of darts, of spears, and of shields. The
 strength of the empire, Gaul, and Spain, are usurped by Tetricus, and we
 blush to acknowledge that the archers of the East serve under the
 banners of Zenobia. Whatever we shall perform will be sufficiently
-great." footnote:[Trebell. Pollio in Hist. August. p. 204.]
+great.{rdquo} footnote:[Trebell. Pollio in Hist. August. p. 204.]
  The melancholy firmness of this epistle announces a hero
 careless of his fate, conscious of his danger, but still deriving a
 well-grounded hope from the resources of his own mind.
@@ -289,7 +289,7 @@ the most signal victories he delivered the empire from this host of
 barbarians, and was distinguished by posterity under the glorious
 appellation of the Gothic Claudius. The imperfect historians of
 an irregular war footnote:[Hist. August. in Claud. Aurelian. et Prob. Zosimus, l.
-i. p. 38-42. Zonaras, l. xii. p. 638. Aurel. Victor in Epitom. Victor
+i. p. 38{endash}42. Zonaras, l. xii. p. 638. Aurel. Victor in Epitom. Victor
 Junior in Caesar. Eutrop. ix ll. Euseb. in Chron.]
  do not enable as to describe the order and
 circumstances of his exploits; but, if we could be indulged in the
@@ -333,7 +333,7 @@ distributed with skill, supported with firmness, and gradually closing
 towards a common centre, forced the barbarians into the most
 inaccessible parts of Mount Haemus, where they found a safe refuge, but
 a very scanty subsistence. During the course of a rigorous winter in
-which they were besieged by the emperor's troops, famine and pestilence,
+which they were besieged by the emperor{apos}s troops, famine and pestilence,
 desertion and the sword, continually diminished the imprisoned
 multitude. On the return of spring, nothing appeared in arms except a
 hardy and desperate band, the remnant of that mighty host which had
@@ -379,7 +379,7 @@ assumed the purple at Aquileia, where he commanded a considerable force;
 and though his reign lasted only seventeen days, footnote:[Such is the narrative of the greater part of the older
 historians; but the number and the variety of his medals seem to require
 more time, and give probability to the report of Zosimus, who makes him
-reign some months.--G.]
+reign some months.{emdash}G.]
  he had time to
 obtain the sanction of the senate, and to experience a mutiny of the
 troops.
@@ -446,10 +446,10 @@ should be constantly kept bright, their weapons sharp, their clothing
 and horses ready for immediate service; that they should live in their
 quarters with chastity and sobriety, without damaging the cornfields,
 without stealing even a sheep, a fowl, or a bunch of grapes, without
-exacting from their landlords, either salt, or oil, or wood. "The public
-allowance," continues the emperor, "is sufficient for their support;
+exacting from their landlords, either salt, or oil, or wood. {ldquo}The public
+allowance,{rdquo} continues the emperor, {ldquo}is sufficient for their support;
 their wealth should be collected from the spoils of the enemy, not
-from the tears of the provincials." footnote:[Hist. August, p. 211 This laconic epistle is truly the
+from the tears of the provincials.{rdquo} footnote:[Hist. August, p. 211 This laconic epistle is truly the
 work of a soldier; it abounds with military phrases and words, some of
 which cannot be understood without difficulty. Ferramenta samiata is
 well explained by Salmasius. The former of the words means all weapons
@@ -485,20 +485,20 @@ destroying host of their countrymen. Their united numbers were at length
 encountered by Aurelian, and the bloody and doubtful conflict ended only
 with the approach of night. footnote:[Zosimus, l. i. p. 45.]
  Exhausted by so many calamities, which
-they had mutually endured and inflicted during a twenty years' war, the
+they had mutually endured and inflicted during a twenty years{rsquo} war, the
 Goths and the Romans consented to a lasting and beneficial treaty. It
 was earnestly solicited by the barbarians, and cheerfully ratified by
 the legions, to whose suffrage the prudence of Aurelian referred the
 decision of that important question. The Gothic nation engaged to supply
 the armies of Rome with a body of two thousand auxiliaries, consisting
 entirely of cavalry, and stipulated in return an undisturbed retreat,
-with a regular market as far as the Danube, provided by the emperor's
+with a regular market as far as the Danube, provided by the emperor{apos}s
 care, but at their own expense. The treaty was observed with such
 religious fidelity, that when a party of five hundred men straggled
 from the camp in quest of plunder, the king or general of the barbarians
 commanded that the guilty leader should be apprehended and shot to death
 with darts, as a victim devoted to the sanctity of their engagements.
-footnote:[The five hundred stragglers were all slain.--M.]
+footnote:[The five hundred stragglers were all slain.{emdash}M.]
  It is, however, not unlikely, that the precaution of Aurelian, who
 had exacted as hostages the sons and daughters of the Gothic chiefs,
 contributed something to this pacific temper. The youths he trained in
@@ -529,12 +529,12 @@ possessions which they were unable to cultivate or defend, added
 strength and populousness to the southern side of the Danube. A fertile
 territory, which the repetition of barbarous inroads had changed into a
 desert, was yielded to their industry, and a new province of Dacia still
-preserved the memory of Trajan's conquests. The old country of that name
+preserved the memory of Trajan{apos}s conquests. The old country of that name
 detained, however, a considerable number of its inhabitants, who dreaded
 exile more than a Gothic master. footnote:[The Walachians still preserve many traces of the Latin
 language and have boasted, in every age, of their Roman descent. They
 are surrounded by, but not mixed with, the barbarians. See a Memoir
-of M. d'Anville on ancient Dacia, in the Academy of Inscriptions, tom.
+of M. d{apos}Anville on ancient Dacia, in the Academy of Inscriptions, tom.
 xxx.]
  These degenerate Romans continued
 to serve the empire, whose allegiance they had renounced, by introducing
@@ -551,7 +551,7 @@ still acknowledged the superior renown and authority of the Gothic
 tribe, and claimed the fancied honor of a Scandinavian origin. At the
 same time, the lucky though accidental resemblance of the name of Getae,
 footnote:[The connection between the Getae and the Goths is still in
-my opinion incorrectly maintained by some learned writers--M.]
+my opinion incorrectly maintained by some learned writers{emdash}M.]
  infused among the credulous Goths a vain persuasion, that in a
 remote age, their own ancestors, already seated in the Dacian provinces,
 had received the instructions of Zamolxis, and checked the victorious
@@ -569,7 +569,7 @@ Crissia, (Maros and Keres,) which fell into the Teiss.]
 
 
 While the vigorous and moderate conduct of Aurelian restored the
-Illyrian frontier, the nation of the Alemanni footnote:[Dexippus, p. 7--12. Zosimus, l. i. p. 43. Vopiscus in
+Illyrian frontier, the nation of the Alemanni footnote:[Dexippus, p. 7{endash}12. Zosimus, l. i. p. 43. Vopiscus in
 Aurelian in Hist. August. However these historians differ in names,
 (Alemanni Juthungi, and Marcomanni,) it is evident that they mean the
 same people, and the same war; but it requires some care to conciliate
@@ -657,7 +657,7 @@ formidable power kept Italy itself in perpetual alarms.
 
 
 Immediately after this conference, it should seem that some unexpected
-emergency required the emperor's presence in Pannonia.
+emergency required the emperor{apos}s presence in Pannonia.
 
 He devolved on his lieutenants the care of finishing the destruction of
 the Alemanni, either by the sword, or by the surer operation of famine.
@@ -784,14 +784,14 @@ estimation to near fifty, footnote:[Hist. August. p. 222. Both Lipsius and Isaac
 eagerly embraced this measure.]
  but is reduced by accurate measurement to
 about twenty-one miles. footnote:[See Nardini, Roman Antica, l. i. c. 8. * Note: But compare
-Gibbon, ch. xli. note 77.--M.]
+Gibbon, ch. xli. note 77.{emdash}M.]
  It was a great but a melancholy labor, since
 the defence of the capital betrayed the decline of the monarchy. The
 Romans of a more prosperous age, who trusted to the arms of the legions
 the safety of the frontier camps, footnote:[Tacit. Hist. iv. 23.]
  were very far from entertaining
 a suspicion, that it would ever become necessary to fortify the seat of
-empire against the inroads of the barbarians. footnote:[For Aurelian's walls, see Vopiscus in Hist. August. p.
+empire against the inroads of the barbarians. footnote:[For Aurelian{apos}s walls, see Vopiscus in Hist. August. p.
 216, 222. Zosimus, l. i. p. 43. Eutropius, ix. 15. Aurel. Victor in
 Aurelian Victor Junior in Aurelian. Euseb. Hieronym. et Idatius in
 Chronic]
@@ -831,7 +831,7 @@ these names mean the same person. See Tillemont, tom. iii. p. 1177.
 Note: The medals which bear the name of Lollianus are considered
 forgeries except one in the museum of the Prince of Waldeck there are
 many extent bearing the name of Laelianus, which appears to have been
-that of the competitor of Posthumus. Eckhel. Doct. Num. t. vi. 149--G.]
+that of the competitor of Posthumus. Eckhel. Doct. Num. t. vi. 149{emdash}G.]
  The death of Victorinus, his friend
 and associate, was occasioned by a less worthy cause. The shining
 accomplishments footnote:[The character of this prince by Julius Aterianus (ap.
@@ -935,9 +935,9 @@ and Zenobia is taken from their lives in the Augustan History, by
 Trebeljus Pollio; see p. 192, 198.]
  She claimed her descent
 from the Macedonian kings of Egypt, footnote:[According to some Christian writers, Zenobia was a Jewess.
-(Jost Geschichte der Israel. iv. 16. Hist. of Jews, iii. 175.)--M.]
+(Jost Geschichte der Israel. iv. 16. Hist. of Jews, iii. 175.){emdash}M.]
  equalled in beauty her ancestor
-Cleopatra, and far surpassed that princess in chastity footnote:[She never admitted her husband's embraces but for the
+Cleopatra, and far surpassed that princess in chastity footnote:[She never admitted her husband{apos}s embraces but for the
 sake of posterity. If her hopes were baffled, in the ensuing month she
 reiterated the experiment.]
  and valor.
@@ -960,7 +960,7 @@ beauties of Homer and Plato under the tuition of the sublime Longinus.
 
 This accomplished woman gave her hand to Odenathus, footnote:[According to Zosimus, Odenathus was of a noble family in
 Palmyra and according to Procopius, he was prince of the Saracens, who
-inhabit the ranks of the Euphrates. Echhel. Doct. Num. vii. 489.--G.]
+inhabit the ranks of the Euphrates. Echhel. Doct. Num. vii. 489.{emdash}G.]
  who, from a
 private station, raised himself to the dominion of the East. She soon
 became the friend and companion of a hero. In the intervals of war,
@@ -1013,7 +1013,7 @@ infinite delight.]
 father. But Maeonius obtained only the pleasure of revenge by this
 bloody deed. He had scarcely time to assume the title of Augustus,
 before he was sacrificed by Zenobia to the memory of her husband. footnote:[Some very unjust suspicions have been cast on Zenobia, as
-if she was accessory to her husband's death.]
+if she was accessory to her husband{apos}s death.]
 
 
 
@@ -1040,7 +1040,7 @@ neighboring states of Arabia, Armenia, and Persia, dreaded her enmity,
 and solicited her alliance. To the dominions of Odenathus, which
 extended from the Euphrates to the frontiers of Bithynia, his widow
 added the inheritance of her ancestors, the populous and fertile kingdom
-of Egypt. footnote:[See, in Hist. August. p. 198, Aurelian's testimony to
+of Egypt. footnote:[See, in Hist. August. p. 198, Aurelian{apos}s testimony to
 her merit; and for the conquest of Egypt, Zosimus, l. i. p. 39, 40.]
  footnote:[This seems very doubtful. Claudius, during all his reign,
 is represented as emperor on the medals of Alexandria, which are very
@@ -1048,7 +1048,7 @@ numerous. If Zenobia possessed any power in Egypt, it could only have
 been at the beginning of the reign of Aurelian. The same circumstance
 throws great improbability on her conquests in Galatia. Perhaps Zenobia
 administered Egypt in the name of Claudius, and emboldened by the death
-of that prince, subjected it to her own power.--G.]
+of that prince, subjected it to her own power.{emdash}G.]
  The emperor Claudius acknowledged her merit, and was
 content, that, while he pursued the Gothic war, she should assert the
 dignity of the empire in the East. footnote:[Timolaus, Herennianus, and Vaballathus. It is supposed
@@ -1129,7 +1129,7 @@ they had exhausted their quivers, remaining without protection against
 a closer onset, exposed their naked sides to the swords of the legions.
 Aurelian had chosen these veteran troops, who were usually stationed
 on the Upper Danube, and whose valor had been severely tried in
-the Alemannic war. footnote:[Zosimus, l. i. p. 44--48. His account of the two
+the Alemannic war. footnote:[Zosimus, l. i. p. 44{endash}48. His account of the two
 battles is clear and circumstantial.]
  After the defeat of Emesa, Zenobia found it
 impossible to collect a third army. As far as the frontier of Egypt, the
@@ -1161,7 +1161,7 @@ an excellent description of Palmyra. * Note: Talmor, or Palmyra, was
 probably at a very early period the connecting link between the commerce
 of Tyre and Babylon. Heeren, Ideen, v. i. p. ii. p. 125. Tadmor was
 probably built by Solomon as a commercial station. Hist. of Jews, v. p.
-271--M.]
+271{emdash}M.]
  between the Gulf of Persia and the
 Mediterranean, was soon frequented by the caravans which conveyed to the
 nations of Europe a considerable part of the rich commodities of India.
@@ -1182,7 +1182,7 @@ to a moment of glory. footnote:[Some English travellers from Aleppo discovered t
 of Palmyra about the end of the last century. Our curiosity has since
 been gratified in a more splendid manner by Messieurs Wood and Dawkins.
 For the history of Palmyra, we may consult the masterly dissertation
-of Dr. Halley in the Philosophical Transactions: Lowthorp's Abridgment,
+of Dr. Halley in the Philosophical Transactions: Lowthorp{apos}s Abridgment,
 vol. iii. p. 518.]
 
 
@@ -1197,7 +1197,7 @@ troops of active and daring robbers, who watched the moment of surprise,
 and eluded the slow pursuit of the legions. The siege of Palmyra was an
 object far more difficult and important, and the emperor, who, with
 incessant vigor, pressed the attacks in person, was himself wounded with
-a dart. "The Roman people," says Aurelian, in an original letter, "speak
+a dart. {ldquo}The Roman people,{rdquo} says Aurelian, in an original letter, {ldquo}speak
 with contempt of the war which I am waging against a woman. They are
 ignorant both of the character and of the power of Zenobia. It is
 impossible to enumerate her warlike preparations, of stones, of arrows,
@@ -1205,7 +1205,7 @@ and of every species of missile weapons. Every part of the walls is
 provided with two or three balistae and artificial fires are thrown from
 her military engines. The fear of punishment has armed her with a
 desperate courage. Yet still I trust in the protecting deities of Rome,
-who have hitherto been favorable to all my undertakings." footnote:[Vopiscus in Hist. August. p. 218.]
+who have hitherto been favorable to all my undertakings.{rdquo} footnote:[Vopiscus in Hist. August. p. 218.]
  Doubtful,
 however, of the protection of the gods, and of the event of the siege,
 Aurelian judged it more prudent to offer terms of an advantageous
@@ -1235,10 +1235,10 @@ same or of a kindred species, is used by the natives of Asia and Africa
 on all occasions which require celerity. The Arabs affirm, that he will
 run over as much ground in one day as their fleetest horses can perform
 in eight or ten. See Buffon, Hist. Naturelle, tom. xi. p. 222, and
-Shaw's Travels p. 167]
+Shaw{apos}s Travels p. 167]
  and had already reached the banks of
 the Euphrates, about sixty miles from Palmyra, when she was overtaken
-by the pursuit of Aurelian's light horse, seized, and brought back
+by the pursuit of Aurelian{apos}s light horse, seized, and brought back
 a captive to the feet of the emperor. Her capital soon afterwards
 surrendered, and was treated with unexpected lenity. The arms, horses,
 and camels, with an immense treasure of gold, silver, silk, and precious
@@ -1255,9 +1255,9 @@ that had renounced their allegiance since the captivity of Valerian.
 When the Syrian queen was brought into the presence of Aurelian, he
 sternly asked her, How she had presumed to rise in arms against the
 emperors of Rome! The answer of Zenobia was a prudent mixture of respect
-and firmness. "Because I disdained to consider as Roman emperors an
+and firmness. {ldquo}Because I disdained to consider as Roman emperors an
 Aureolus or a Gallienus. You alone I acknowledge as my conqueror and my
-sovereign." footnote:[Pollio in Hist. August. p. 199.]
+sovereign.{rdquo} footnote:[Pollio in Hist. August. p. 199.]
  But as female fortitude is commonly artificial, so it
 is seldom steady or consistent. The courage of Zenobia deserted her in
 the hour of trial; she trembled at the angry clamors of the soldiers,
@@ -1284,7 +1284,7 @@ Returning from the conquest of the East, Aurelian had already crossed
 the Straits which divided Europe from Asia, when he was provoked by
 the intelligence that the Palmyrenians had massacred the governor and
 garrison which he had left among them, and again erected the standard
-of revolt. Without a moment's deliberation, he once more turned his
+of revolt. Without a moment{apos}s deliberation, he once more turned his
 face towards Syria. Antioch was alarmed by his rapid approach, and the
 helpless city of Palmyra felt the irresistible weight of his resentment.
 We have a letter of Aurelian himself, in which he acknowledges, footnote:[Hist. August. p. 219.]
@@ -1357,12 +1357,12 @@ bestowed on ten martial heroines of the Gothic nation who had been taken
 in arms. footnote:[Among barbarous nations, women have often combated by the
 side of their husbands. But it is almost impossible that a society of
 Amazons should ever have existed either in the old or new world. *
-Note: Klaproth's theory on the origin of such traditions is at least
+Note: Klaproth{apos}s theory on the origin of such traditions is at least
 recommended by its ingenuity. The males of a tribe having gone out on a
 marauding expedition, and having been cut off to a man, the females may
 have endeavored, for a time, to maintain their independence in their
 camp village, till their children grew up. Travels, ch. xxx. Eng.
-Trans--M.]
+Trans{emdash}M.]
  But every eye, disregarding the crowd of captives, was
 fixed on the emperor Tetricus and the queen of the East. The former,
 as well as his son, whom he had created Augustus, was dressed in Gallic
@@ -1445,7 +1445,7 @@ his successors. footnote:[Hist. August. p. 197.]
 
 
 
-So long and so various was the pomp of Aurelian's triumph, that although
+So long and so various was the pomp of Aurelian{apos}s triumph, that although
 it opened with the dawn of day, the slow majesty of the procession
 ascended not the Capitol before the ninth hour; and it was already dark
 when the emperor returned to the palace. The festival was protracted by
@@ -1489,18 +1489,18 @@ years abandoned to public disorders exceeded the months allotted to the
 martial reign of Aurelian, we must confess that a few short intervals of
 peace were insufficient for the arduous work of reformation. Even his
 attempt to restore the integrity of the coin was opposed by a formidable
-insurrection. The emperor's vexation breaks out in one of his private
-letters. "Surely," says he, "the gods have decreed that my life should
+insurrection. The emperor{apos}s vexation breaks out in one of his private
+letters. {ldquo}Surely,{rdquo} says he, {ldquo}the gods have decreed that my life should
 be a perpetual warfare. A sedition within the walls has just now given
 birth to a very serious civil war. The workmen of the mint, at the
 instigation of Felicissimus, a slave to whom I had intrusted an
 employment in the finances, have risen in rebellion. They are at length
 suppressed; but seven thousand of my soldiers have been slain in the
 contest, of those troops whose ordinary station is in Dacia, and the
-camps along the Danube." footnote:[Hist. August. p. 222. Aurelian calls these soldiers Hiberi
+camps along the Danube.{rdquo} footnote:[Hist. August. p. 222. Aurelian calls these soldiers Hiberi
 Riporiences Castriani, and Dacisci.]
  Other writers, who confirm the same fact,
-add likewise, that it happened soon after Aurelian's triumph; that the
+add likewise, that it happened soon after Aurelian{apos}s triumph; that the
 decisive engagement was fought on the Caelian hill; that the workmen of
 the mint had adulterated the coin; and that the emperor restored the
 public credit, by delivering out good money in exchange for the bad,
@@ -1525,7 +1525,7 @@ We might naturally expect that such miscreants should have shared
 the public detestation with the informers and the other ministers of
 oppression; and that the reformation of the coin should have been an
 action equally popular with the destruction of those obsolete accounts,
-which by the emperor's order were burnt in the forum of Trajan. footnote:[Hist. August. p. 222. Aurel Victor.]
+which by the emperor{apos}s order were burnt in the forum of Trajan. footnote:[Hist. August. p. 222. Aurel Victor.]
  In
 an age when the principles of commerce were so imperfectly understood,
 the most desirable end might perhaps be effected by harsh and
@@ -1545,7 +1545,7 @@ could furnish only a faint pretence to a party already powerful and
 discontented. Rome, though deprived of freedom, was distracted by
 faction. The people, towards whom the emperor, himself a plebeian,
 always expressed a peculiar fondness, lived in perpetual dissension with
-the senate, the equestrian order, and the Praetorian guards. footnote:[It already raged before Aurelian's return from Egypt. See
+the senate, the equestrian order, and the Praetorian guards. footnote:[It already raged before Aurelian{apos}s return from Egypt. See
 Vipiscus, who quotes an original letter. Hist. August. p. 244.]
  Nothing
 less than the firm though secret conspiracy of those orders, of the
@@ -1616,7 +1616,7 @@ secretaries who was accused of extortion; and it was known that
 he seldom threatened in vain. The last hope which remained for the
 criminal, was to involve some of the principal officers of the army
 in his danger, or at least in his fears. Artfully counterfeiting his
-master's hand, he showed them, in a long and bloody list, their own
+master{apos}s hand, he showed them, in a long and bloody list, their own
 names devoted to death. Without suspecting or examining the fraud, they
 resolved to secure their lives by the murder of the emperor. On his
 march, between Byzanthium and Heraclea, Aurelian was suddenly attacked

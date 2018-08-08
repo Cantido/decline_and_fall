@@ -8,8 +8,9 @@ Edward Gibbon
 :source: http://www.gutenberg.org/7/3/731/
 :nofooter:
 :endash: &#8211;
-:emdash: --
+:emdash: &#8212;
 :toc:
+:toclevels: 1
 
 include::colophon.adoc[]
 

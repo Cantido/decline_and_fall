@@ -4,10 +4,10 @@
 === Part I
 
      Public Sale Of The Empire To Didius Julianus By The
-     Praetorian Guards--Clodius Albinus In Britain, Pescennius
+     Praetorian Guards{emdash}Clodius Albinus In Britain, Pescennius
      Niger In Syria, And Septimius Severus In Pannonia, Declare
-     Against The Murderers Of Pertinax--Civil Wars And Victory Of
-     Severus Over His Three Rivals--Relaxation Of Discipline--New
+     Against The Murderers Of Pertinax{emdash}Civil Wars And Victory Of
+     Severus Over His Three Rivals{emdash}Relaxation Of Discipline{emdash}New
      Maxims Of Government.
 
 The power of the sword is more sensibly felt in an extensive monarchy,
@@ -62,11 +62,11 @@ the siege of the best fortified cities. Tacit. Hist. iii. 84.]
 and placed on a commanding situation. footnote:[Close to the walls of the city, on the broad summit of the
 Quirinal and Viminal hills. See Nardini Roma Antica, p. 174. Donatus de
 Roma Antiqua, p. 46. * Note: Not on both these hills: neither Donatus
-nor Nardini justify this position. (Whitaker's Review. p. 13.) At the
+nor Nardini justify this position. (Whitaker{apos}s Review. p. 13.) At the
 northern extremity of this hill (the Viminal) are some considerable
 remains of a walled enclosure which bears all the appearance of a Roman
 camp, and therefore is generally thought to correspond with the Castra
-Praetoria. Cramer's Italy 390.--M.]
+Praetoria. Cramer{apos}s Italy 390.{emdash}M.]
 
 
 
@@ -101,7 +101,7 @@ first who gave a donative. He gave quina dena, 120l. (Sueton. in Claud.
 c. 10: ) when Marcus, with his colleague Lucius Versus, took quiet
 possession of the throne, he gave vicena, 160l. to each of the guards.
 Hist. August. p. 25, (Dion, l. lxxiii. p. 1231.) We may form some idea
-of the amount of these sums, by Hadrian's complaint that the promotion
+of the amount of these sums, by Hadrian{apos}s complaint that the promotion
 of a Caesar had cost him ter millies, two millions and a half sterling.]
 
 
@@ -143,7 +143,7 @@ The Praetorians had violated the sanctity of the throne by the atrocious
 murder of Pertinax; they dishonored the majesty of it by their
 subsequent conduct. The camp was without a leader, for even the praefect
 Laetus, who had excited the tempest, prudently declined the public
-indignation. Amidst the wild disorder, Sulpicianus, the emperor's
+indignation. Amidst the wild disorder, Sulpicianus, the emperor{apos}s
 father-in-law, and governor of the city, who had been sent to the camp
 on the first alarm of mutiny, was endeavoring to calm the fury of the
 multitude, when he was silenced by the clamorous return of the
@@ -189,7 +189,7 @@ enough to stipulate that he should pardon and forget the competition of
 Sulpicianus. footnote:[One of the principal causes of the preference of Julianus
 by the soldiers, was the dexterty dexterity with which he reminded them
 that Sulpicianus would not fail to revenge on them the death of his
-son-in-law. (See Dion, p. 1234, 1234. c. 11. Herod. ii. 6.)--W.]
+son-in-law. (See Dion, p. 1234, 1234. c. 11. Herod. ii. 6.){emdash}W.]
 
 
 
@@ -215,11 +215,11 @@ circumstance, that the new emperor, whatever had been his birth, was
 immediately aggregated to the number of patrician families. Note: A new
 fragment of Dion shows some shrewdness in the character of Julian. When
 the senate voted him a golden statue, he preferred one of brass, as more
-lasting. He "had always observed," he said, "that the statues of former
-emperors were soon destroyed. Those of brass alone remained." The
+lasting. He {ldquo}had always observed,{rdquo} he said, {ldquo}that the statues of former
+emperors were soon destroyed. Those of brass alone remained.{rdquo} The
 indignant historian adds that he was wrong. The virtue of sovereigns
 alone preserves their images: the brazen statue of Julian was broken to
-pieces at his death. Mai. Fragm. Vatican. p. 226.--M.]
+pieces at his death. Mai. Fragm. Vatican. p. 226.{emdash}M.]
  From the
 senate Julian was conducted, by the same military procession, to take
 possession of the palace. The first objects that struck his eyes, were
@@ -238,7 +238,7 @@ of the two writers. * Note: The contradiction as M. Guizot observed, is
 irreconcilable. He quotes both passages: in one Julianus is represented
 as a miser, in the other as a voluptuary. In the one he refuses to eat
 till the body of Pertinax has been buried; in the other he gluts himself
-with every luxury almost in the sight of his headless remains.--M.]
+with every luxury almost in the sight of his headless remains.{emdash}M.]
 
 
 
@@ -281,7 +281,7 @@ soldiers of experience and capacity.
 
 Clodius Albinus, governor of Britain, surpassed both his competitors in
 the nobility of his extraction, which he derived from some of the most
-illustrious names of the old republic. footnote:[The Posthumian and the Ce'onian; the former of whom was
+illustrious names of the old republic. footnote:[The Posthumian and the Ce{apos}onian; the former of whom was
 raised to the consulship in the fifth year after its institution.]
  But the branch from which he
 claimed his descent was sunk into mean circumstances, and transplanted
@@ -381,9 +381,9 @@ victory. Instead of entering into an effectual negotiation with the
 powerful armies of the West, whose resolution might decide, or at least
 must balance, the mighty contest; instead of advancing without delay
 towards Rome and Italy, where his presence was impatiently expected, footnote:[Dion, l. lxxiii. p. 1238. Herod. l. ii. p. 67. A verse in
-every one's mouth at that time, seems to express the general opinion of
+every one{apos}s mouth at that time, seems to express the general opinion of
 the three rivals; Optimus est Niger, (Fuscus, which preserves the
-quantity.--M.]
+quantity.{emdash}M.]
 
 Niger trifled away in the luxury of Antioch those irretrievable moments
 which were diligently improved by the decisive activity of Severus. footnote:[Herodian, l. ii. p. 71.]
@@ -455,8 +455,8 @@ as general only, has not considered this transaction with his usual
 accuracy, (Essay on the original contract.) * Note: Carnuntum, opposite
 to the mouth of the Morava: its position is doubtful, either Petronel or
 Haimburg. A little intermediate village seems to indicate by its name
-(Altenburg) the site of an old town. D'Anville Geogr. Anc. Sabaria, now
-Sarvar.--G. Compare note 37.--M.]
+(Altenburg) the site of an old town. D{apos}Anville Geogr. Anc. Sabaria, now
+Sarvar.{emdash}G. Compare note 37.{emdash}M.]
 
 
 
@@ -521,7 +521,7 @@ footnote:[Dion, l. lxxiii. p. 1233. Herodian, l. ii. p. 81. There
 is no surer proof of the military skill of the Romans, than their first
 surmounting the idle terror, and afterwards disdaining the dangerous
 use, of elephants in war. Note: These elephants were kept for
-processions, perhaps for the games. Se Herod. in loc.--M.]
+processions, perhaps for the games. Se Herod. in loc.{emdash}M.]
 
 
 
@@ -542,7 +542,7 @@ fieri in quo pueri praeligatis oculis, incantate..., respicere dicuntur.
 * * * Tuncque puer vidisse dicitur et adventun Severi et Juliani
 decessionem. This seems to have been a practice somewhat similar to that
 of which our recent Egyptian travellers relate such extraordinary
-circumstances. See also Apulius, Orat. de Magia.--M.]
+circumstances. See also Apulius, Orat. de Magia.{emdash}M.]
 
 
 
@@ -655,7 +655,7 @@ in the tenth book of the Pharsalia, where he describes him, at the same
 time, making love to Cleopatra, sustaining a siege against the power of
 Egypt, and conversing with the sages of the country, is, in reality, the
 noblest panegyric. * Note: Lord Byron wrote, no doubt, from a
-reminiscence of that passage--"It is possible to be a very great man,
+reminiscence of that passage{emdash}"It is possible to be a very great man,
 and to be still very inferior to Julius Caesar, the most complete
 character, so Lord Bacon thought, of all antiquity. Nature seems
 incapable of such extraordinary combinations as composed his versatile
@@ -670,12 +670,12 @@ punuing, and collecting a set of good sayings; fighting and making love
 at the same moment, and willing to abandon both his empire and his
 mistress for a sight of the fountains of the Nile. Such did Julius
 Caesar appear to his contemporaries, and to those of the subsequent ages
-who were the most inclined to deplore and execrate his fatal genius."
-Note 47 to Canto iv. of Childe Harold.--M.]
+who were the most inclined to deplore and execrate his fatal genius.{rdquo}
+Note 47 to Canto iv. of Childe Harold.{emdash}M.]
  In one instance only, they may be compared, with some degree of
 propriety, in the celerity of their motions, and their civil victories.
 In less than four years, footnote:[Reckoning from his election, April 13, 193, to the death
-of Albinus, February 19, 197. See Tillemont's Chronology.]
+of Albinus, February 19, 197. See Tillemont{apos}s Chronology.]
  Severus subdued the riches of the East, and
 the valor of the West. He vanquished two competitors of reputation
 and ability, and defeated numerous armies, provided with weapons and
@@ -744,7 +744,7 @@ intimidate, or seduce, the parents.]
  As long as the power of
 Niger inspired terror, or even respect, they were educated with the most
 tender care, with the children of Severus himself; but they were
-soon involved in their father's ruin, and removed first by exile, and
+soon involved in their father{apos}s ruin, and removed first by exile, and
 afterwards by death, from the eye of public compassion. footnote:[Herodian, l. iii. p. 95. Hist. August. p. 67, 68.]
 
 
@@ -785,8 +785,8 @@ The military labors of Severus seem inadequate to the importance of his
 conquests. Two engagements, footnote:[There were three actions; one near Cyzicus, on the
 Hellespont, one near Nice, in Bithynia, the third near the Issus, in
 Cilicia, where Alexander conquered Darius. (Dion, lxiv. c. 6.
-Herodian, iii. 2, 4.)--W Herodian represents the second battle as of
-less importance than Dion--M.]
+Herodian, iii. 2, 4.){emdash}W Herodian represents the second battle as of
+less importance than Dion{emdash}M.]
  the one near the Hellespont, the other
 in the narrow defiles of Cilicia, decided the fate of his Syrian
 competitor; and the troops of Europe asserted their usual ascendant
@@ -807,12 +807,12 @@ day. footnote:[According to Herodian, it was his lieutenant Laetus who
 led back the troops to the battle, and gained the day, which Severus
 had almost lost. Dion also attributes to Laetus a great share in the
 victory. Severus afterwards put him to death, either from fear or
-jealousy.--W. and G. Wenck and M. Guizot have not given the real
+jealousy.{emdash}W. and G. Wenck and M. Guizot have not given the real
 statement of Herodian or of Dion. According to the former, Laetus
 appeared with his own army entire, which he was suspected of having
 designedly kept disengaged when the battle was still doudtful, or rather
 after the rout of severus. Dion says that he did not move till Severus
-had won the victory.--M.]
+had won the victory.{emdash}M.]
 
 
 
@@ -876,7 +876,7 @@ were animated with equal fury; several of the principal officers
 of Niger, who despaired of, or who disdained, a pardon, had thrown
 themselves into this last refuge: the fortifications were esteemed
 impregnable, and, in the defence of the place, a celebrated engineer
-displayed all the mechanic powers known to the ancients. footnote:[The engineer's name was Priscus. His skill saved
+displayed all the mechanic powers known to the ancients. footnote:[The engineer{apos}s name was Priscus. His skill saved
 his life, and he was taken into the service of the conqueror. For the
 particular facts of the siege, consult Dion Cassius (l. lxxv. p. 1251)
 and Herodian, (l. iii. p. 95;) for the theory of it, the fanciful
@@ -902,10 +902,10 @@ this is easily reconciled with the relation of Dion. Perhaps the latter
 mentioned it in some of the fragments of his history which have been
 lost. As to Herodian, his expressions are evidently exaggerated, and he
 has been guilty of so many inaccuracies in the history of Severus, that
-we have a right to suppose one in this passage.--G. from W Wenck and M.
+we have a right to suppose one in this passage.{emdash}G. from W Wenck and M.
 Guizot have omitted to cite Zosimus, who mentions a particular portico
 built by Severus, and called, apparently, by his name. Zosim. Hist. ii.
-c. xxx. p. 151, 153, edit Heyne.--M.]
+c. xxx. p. 151, 153, edit Heyne.{emdash}M.]
  The
 truth of this observation was but too well justified in the succeeding
 age, when the Gothic fleets covered the Euxine, and passed through the
@@ -958,15 +958,15 @@ relatives of Niger and Albinus were put to death. This is true of the
 family of Albinus, whose bodies were thrown into the Rhone; those of
 Niger, according to Lampridius, were sent into exile, but afterwards put
 to death. Among the partisans of Albinus who were put to death were many
-women of rank, multae foeminae illustres. Lamprid. in Sever.--M.]
+women of rank, multae foeminae illustres. Lamprid. in Sever.{emdash}M.]
  and the noblest provincials of Spain and Gaul were involved
 in the same ruin. footnote:[A new fragment of Dion describes the state of Rome during
 this contest. All pretended to be on the side of Severus; but their
 secret sentiments were often betrayed by a change of countenance on the
 arrival of some sudden report. Some were detected by overacting their
 loyalty, Mai. Fragm. Vatican. p. 227 Severus told the senate he would
-rather have their hearts than their votes.--Ibid.--M.]
- Such rigid justice--for so he termed it--was, in
+rather have their hearts than their votes.{emdash}Ibid.{emdash}M.]
+ Such rigid justice{emdash}for so he termed it{emdash}was, in
 the opinion of Severus, the only conduct capable of insuring peace to
 the people or stability to the prince; and he condescended slightly to
 lament, that to be mild, it was necessary that he should first be cruel.
@@ -1011,7 +1011,7 @@ misfortunes of civil discord were obliterated. The calm of peace and
 prosperity was once more experienced in the provinces; and many cities,
 restored by the munificence of Severus, assumed the title of his
 colonies, and attested by public monuments their gratitude and
-felicity. footnote:[See Spanheim's treatise of ancient medals, the
+felicity. footnote:[See Spanheim{apos}s treatise of ancient medals, the
 inscriptions, and our learned travellers Spon and Wheeler, Shaw, Pocock,
 &c, who, in Africa, Greece, and Asia, have found more monuments of
 Severus than of any other Roman emperor whatsoever.]
@@ -1059,8 +1059,8 @@ profuse and elegant luxury. There is still extant a letter of Severus,
 lamenting the licentious stage of the army, footnote:[Not of the army, but of the troops in Gaul. The contents
 of this letter seem to prove that Severus was really anxious to restore
 discipline Herodian is the only historian who accuses him of being the
-first cause of its relaxation.--G. from W Spartian mentions his increase
-of the pays.--M.]
+first cause of its relaxation.{emdash}G. from W Spartian mentions his increase
+of the pays.{emdash}M.]
  and exhorting one of
 his generals to begin the necessary reformation from the tribunes
 themselves; since, as he justly observes, the officer who has forfeited
@@ -1123,7 +1123,7 @@ the levying of taxes, it was not intrusted to them till after the great
 change that Constantine I. made in the organization of the empire at
 least, I know no passage which assigns it to them before that time; and
 Drakenborch, who has treated this question in his Dissertation de
-official praefectorum praetorio, vi., does not quote one.--W.]
+official praefectorum praetorio, vi., does not quote one.{emdash}W.]
  was placed not only at the head of the
 army, but of the finances, and even of the law. In every department of
 administration, he represented the person, and exercised the authority,
@@ -1147,10 +1147,10 @@ when he should come to the throne. It was feared, after that, that
 Plautianus would avail himself of the power which he still possessed,
 against the Imperial family; and Severus caused him to be assassinated
 in his presence, upon the pretext of a conspiracy, which Dion considers
-fictitious.--W. This note is not, perhaps, very necessary and does not
+fictitious.{emdash}W. This note is not, perhaps, very necessary and does not
 contain the whole facts. Dion considers the conspiracy the invention of
 Caracalla, by whose command, almost by whose hand, Plautianus was slain
-in the presence of Severus.--M.]
+in the presence of Severus.{emdash}M.]
  threatened to produce
 a revolution, and obliged the emperor, who still loved him, to consent
 with reluctance to his death. footnote:[Dion, l. lxxvi. p. 1274.
@@ -1210,7 +1210,7 @@ commission, but by the irrevocable resignation of the senate; that the
 emperor was freed from the restraint of civil laws, could command by his
 arbitrary will the lives and fortunes of his subjects, and might dispose
 of the empire as of his private patrimony. footnote:[Dion Cassius seems to have written with no other view than
-to form these opinions into an historical system. The Pandea's will
+to form these opinions into an historical system. The Pandea{apos}s will
 how how assiduously the lawyers, on their side, laboree in the cause of
 prerogative.]
  The most eminent of the

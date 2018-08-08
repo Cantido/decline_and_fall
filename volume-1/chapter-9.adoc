@@ -16,12 +16,12 @@ sea; while the high lands rose above the waters, as so many islands of
 various forms and dimensions. Such, indeed, is the notion given us by
 Mela, Pliny, and Tacitus, of the vast countries round the Baltic. See
 in the Bibliotheque Raisonnee, tom. xl. and xlv. a large abstract of
-Dalin's History of Sweden, composed in the Swedish language. * Note:
+Dalin{apos}s History of Sweden, composed in the Swedish language. * Note:
 Modern geologists have rejected this theory of the depression of the
 Baltic, as inconsistent with recent observation. The considerable
 changes which have taken place on its shores, Mr. Lyell, from actual
 observation now decidedly attributes to the regular and uniform
-elevation of the land.--Lyell's Geology, b. ii. c. 17--M.]
+elevation of the land.{emdash}Lyell{apos}s Geology, b. ii. c. 17{emdash}M.]
  which, with
 their arms and horses, their flocks and herds, their wives and families,
 wandered over the immense plains which spread themselves from the
@@ -41,12 +41,12 @@ account for the form of the work and the views of the author. According
 to Luden, (Geschichte des T. V. i. 432, and note,) it contains the
 unfinished and disarranged for a larger work. An anonymous writer,
 supposed by Luden to be M. Becker, conceives that it was intended as an
-episode in his larger history. According to M. Guizot, "Tacite a peint
+episode in his larger history. According to M. Guizot, {ldquo}Tacite a peint
 les Germains comme Montaigne et Rousseau les sauvages, dans un acces
-d'humeur contre sa patrie: son livre est une satire des moeurs Romaines,
-l'eloquente boutade d'un patriote philosophe qui veut voir la vertu la,
+d{apos}humeur contre sa patrie: son livre est une satire des moeurs Romaines,
+l{apos}eloquente boutade d{apos}un patriote philosophe qui veut voir la vertu la,
 ou il ne rencontre pas la mollesse honteuse et la depravation savante
-d'une vielle societe." Hist. de la Civilisation Moderne, i. 258.--M.]
+d{apos}une vielle societe.{rdquo} Hist. de la Civilisation Moderne, i. 258.{emdash}M.]
  the first of historians who applied the
 science of philosophy to the study of facts. The expressive conciseness
 of his descriptions has served to exercise the diligence of innumerable
@@ -80,15 +80,15 @@ and other Gauls, partly by the Hercynian forest but, from the time of
 Caesar to the great migration, these boundaries were advanced as far as
 the Danube, or, what is the same thing, to the Suabian Alps, although
 the Hercynian forest still occupied, from north to south, a space of
-nine days' journey on both banks of the Danube. "Gatterer, Versuch einer
-all-gemeinen Welt-Geschichte," p. 424, edit. de 1792. This vast country
+nine days{rsquo} journey on both banks of the Danube. {ldquo}Gatterer, Versuch einer
+all-gemeinen Welt-Geschichte,{rdquo} p. 424, edit. de 1792. This vast country
 was far from being inhabited by a single nation divided into different
 tribes of the same origin. We may reckon three principal races, very
 distinct in their language, their origin, and their customs. 1. To the
 east, the Slaves or Vandals. 2. To the west, the Cimmerians or Cimbri.
 3. Between the Slaves and Cimbrians, the Germans, properly so called,
 the Suevi of Tacitus. The South was inhabited, before Julius Caesar, by
-nations of Gaulish origin, afterwards by the Suevi.--G. On the position
+nations of Gaulish origin, afterwards by the Suevi.{emdash}G. On the position
 of these nations, the German antiquaries differ. I. The Slaves, or
 Sclavonians, or Wendish tribes, according to Schlozer, were originally
 settled in parts of Germany unknown to the Romans, Mecklenburgh,
@@ -131,12 +131,12 @@ the Laplanders call themselves Almag, people; the Samoiedes Nilletz,
 Nissetsch, men, &c. As to the name of Germans, (Germani,) Caesar found
 it in use in Gaul, and adopted it as a word already known to the Romans.
 Many of the learned (from a passage of Tacitus, de Mor Germ. c. 2) have
-supposed that it was only applied to the Teutons after Caesar's time;
+supposed that it was only applied to the Teutons after Caesar{apos}s time;
 but Adelung has triumphantly refuted this opinion. The name of Germans
 is found in the Fasti Capitolini. See Gruter, Iscrip. 2899, in which the
 consul Marcellus, in the year of Rome 531, is said to have defeated the
 Gauls, the Insubrians, and the Germans, commanded by Virdomar. See
-Adelung, Aelt. Geschichte der Deutsch, p. 102.--Compressed from G.]
+Adelung, Aelt. Geschichte der Deutsch, p. 102.{emdash}Compressed from G.]
  Almost the whole of modern
 Germany, Denmark, Norway, Sweden, Finland, Livonia, Prussia, and the
 greater part of Poland, were peopled by the various tribes of one great
@@ -158,12 +158,12 @@ sea; while the high lands rose above the waters, as so many islands of
 various forms and dimensions. Such, indeed, is the notion given us by
 Mela, Pliny, and Tacitus, of the vast countries round the Baltic. See
 in the Bibliotheque Raisonnee, tom. xl. and xlv. a large abstract of
-Dalin's History of Sweden, composed in the Swedish language. * Note:
+Dalin{apos}s History of Sweden, composed in the Swedish language. * Note:
 Modern geologists have rejected this theory of the depression of the
 Baltic, as inconsistent with recent observation. The considerable
 changes which have taken place on its shores, Mr. Lyell, from actual
 observation now decidedly attributes to the regular and uniform
-elevation of the land.--Lyell's Geology, b. ii. c. 17--M.]
+elevation of the land.{emdash}Lyell{apos}s Geology, b. ii. c. 17{emdash}M.]
  of Scandinavia.
 
 
@@ -196,13 +196,13 @@ Pesth the bridge is usually taken up, and the traffic and communication
 between the two banks carried on over the ice. The Rhine is likewise in
 many parts passable at least two years out of five. Winter campaigns are
 so unusual, in modern warfare, that I recollect but one instance of an
-army crossing either river on the ice. In the thirty years' war,
+army crossing either river on the ice. In the thirty years{rsquo} war,
 (1635,) Jan van Werth, an Imperialist partisan, crossed the Rhine from
-Heidelberg on the ice with 5000 men, and surprised Spiers. Pichegru's
-memorable campaign, (1794-5,) when the freezing of the Meuse and Waal
+Heidelberg on the ice with 5000 men, and surprised Spiers. Pichegru{apos}s
+memorable campaign, (1794{endash}5,) when the freezing of the Meuse and Waal
 opened Holland to his conquests, and his cavalry and artillery attacked
 the ships frozen in, on the Zuyder Zee, was in a winter of unprecedented
-severity.--M. 1845.]
+severity.{emdash}M. 1845.]
  Modern ages have not presented an instance of a like
 phenomenon. 2. The reindeer, that useful animal, from whom the savage
 of the North derives the best comforts of his dreary life, is of a
@@ -215,16 +215,16 @@ Baltic. footnote:[Buffon, Histoire Naturelle, tom. xii. p. 79, 116.]
 and the wild bull, was a native of the Hercynian forest, which
 then overshadowed a great part of Germany and Poland. footnote:[Caesar de Bell. Gallic. vi. 23, &c. The most inquisitive of
 the Germans were ignorant of its utmost limits, although some of them
-had travelled in it more than sixty days' journey. * Note: The passage
-of Caesar, "parvis renonum tegumentis utuntur," is obscure, observes
+had travelled in it more than sixty days{rsquo} journey. * Note: The passage
+of Caesar, {ldquo}parvis renonum tegumentis utuntur,{rdquo} is obscure, observes
 Luden, (Geschichte des Teutschen Volkes,) and insufficient to prove the
 reindeer to have existed in Germany. It is supported however, by a
-fragment of Sallust. Germani intectum rhenonibus corpus tegunt.--M. It
+fragment of Sallust. Germani intectum rhenonibus corpus tegunt.{emdash}M. It
 has been suggested to me that Caesar (as old Gesner supposed) meant the
 reindeer in the following description. Est bos cervi figura cujus a
 media fronte inter aures unum cornu existit, excelsius magisque directum
 (divaricatum, qu?) his quae nobis nota sunt cornibus. At ejus summo,
-sicut palmae, rami quam late diffunduntur. Bell. vi.--M. 1845.]
+sicut palmae, rami quam late diffunduntur. Bell. vi.{emdash}M. 1845.]
  The modern
 improvements sufficiently explain the causes of the diminution of the
 cold. These immense woods have been gradually cleared, which intercepted
@@ -324,7 +324,7 @@ century by the Marcomanni. The Boii settled in Noricum, were mingled
 afterwards with the Lombards, and received the name of Boio Arii
 (Bavaria) or Boiovarii: var, in some German dialects, appearing to mean
 remains, descendants. Compare Malte B-m, Geography, vol. i. p. 410, edit
-1832--M.]
+1832{emdash}M.]
  but that the name and nation received their
 existence from the gradual union of some wandering savages of the
 Hercynian woods. To assert those savages to have been the spontaneous
@@ -345,7 +345,7 @@ the son of Japhet, the son of Noah, landed on the coast of Munster the
 14th day of May, in the year of the world one thousand nine hundred and
 seventy-eight. Though he succeeded in his great enterprise, the loose
 behavior of his wife rendered his domestic life very unhappy, and
-provoked him to such a degree, that he killed--her favorite greyhound.
+provoked him to such a degree, that he killed{emdash}her favorite greyhound.
 This, as the learned historian very properly observes, was the first
 instance of female falsehood and infidelity ever known in Ireland.]
  as well as the wild Tartar, footnote:[Genealogical History of the Tartars, by Abulghazi Bahadur
@@ -377,7 +377,7 @@ detachment (which marched, if I am not mistaken, under the command of
 Askenaz, the son of Gomer, the son of Japhet) distinguished itself by
 a more than common diligence in the prosecution of this great work. The
 northern hive cast its swarms over the greatest part of Europe, Africa,
-and Asia; and (to use the author's metaphor) the blood circulated from
+and Asia; and (to use the author{apos}s metaphor) the blood circulated from
 the extremities to the heart.
 
 
@@ -417,7 +417,7 @@ the Runic, and supposes them to have been the original characters of the
 Indo-Teutonic tribes, brought from the East, and preserved among the
 different races of that stock. See Ueber Deutsche Runen von W. C. Grimm,
 1821. A Memoir by Dr. Legis. Fundgruben des alten Nordens. Foreign
-Quarterly Review vol. ix. p. 438.--M.]
+Quarterly Review vol. ix. p. 438.{emdash}M.]
  and the use
 of letters is the principal circumstance that distinguishes a civilized
 people from a herd of savages incapable of knowledge or reflection.
@@ -448,7 +448,7 @@ the want of vines and fruit trees, as well as the barbarism of the
 inhabitants, are calumnies of the luxurious Italians. M. Guizot, on the
 other side, (in his Histoire de la Civilisation, vol. i. p. 272, &c.,)
 has drawn a curious parallel between the Germans of Tacitus and the
-North American Indians.--M.]
+North American Indians.{emdash}M.]
  They
 passed their lives in a state of ignorance and poverty, which it has
 pleased some declaimers to dignify with the appellation of virtuous
@@ -473,9 +473,9 @@ time, had no cities; footnote:[Tacit. Germ. 15.]
 Roman industry, as places of confinement rather than of security. footnote:[When the Germans commanded the Ubii of Cologne to cast
 off the Roman yoke, and with their new freedom to resume their ancient
 manners, they insisted on the immediate demolition of the walls of
-the colony. "Postulamus a vobis, muros coloniae, munimenta servitii,
+the colony. {ldquo}Postulamus a vobis, muros coloniae, munimenta servitii,
 detrahatis; etiam fera animalia, si clausa teneas, virtutis
-obliviscuntur." Tacit. Hist. iv. 64.]
+obliviscuntur.{rdquo} Tacit. Hist. iv. 64.]
 
 Their edifices were not even contiguous, or formed into regular villas;
 footnote:[The straggling villages of Silesia are several miles in
@@ -669,7 +669,7 @@ maintain the multitude of its inhabitants. When the return of famine
 severely admonished them of the importance of the arts, the national
 distress was sometimes alleviated by the emigration of a third, perhaps,
 or a fourth part of their youth. footnote:[Paul Diaconus, c. 1, 2, 3. Machiavel, Davila, and the rest
-of Paul's followers, represent these emigrations too much as regular and
+of Paul{apos}s followers, represent these emigrations too much as regular and
 concerted measures.]
  The possession and the enjoyment
 of property are the pledges which bind a civilized people to an improved
@@ -690,12 +690,12 @@ and indeed the impossibility, of the supposition. To the names of
 Mariana and of Machiavel, footnote:[Machiavel, Hist. di Firenze, l. i. Mariana, Hist. Hispan.
 l. v. c. 1]
  we can oppose the equal names of Robertson
-and Hume. footnote:[Robertson's Charles V. Hume's Political Essays. Note: It
-is a wise observation of Malthus, that these nations "were not populous
-in proportion to the land they occupied, but to the food they produced."
+and Hume. footnote:[Robertson{apos}s Charles V. Hume{apos}s Political Essays. Note: It
+is a wise observation of Malthus, that these nations {ldquo}were not populous
+in proportion to the land they occupied, but to the food they produced.{rdquo}
 They were prolific from their pure morals and constitutions, but their
 institutions were not calculated to produce food for those whom they
-brought into being.--M--1845.]
+brought into being.{emdash}M{emdash}1845.]
 
 
 
@@ -711,13 +711,13 @@ brought into being.--M--1845.]
 A warlike nation like the Germans, without either cities, letters, arts,
 or money, found some compensation for this savage state in the enjoyment
 of liberty. Their poverty secured their freedom, since our desires
-and our possessions are the strongest fetters of despotism. "Among the
+and our possessions are the strongest fetters of despotism. {ldquo}Among the
 Suiones (says Tacitus) riches are held in honor. They are therefore
 subject to an absolute monarch, who, instead of intrusting his people
 with the free use of arms, as is practised in the rest of Germany,
 commits them to the safe custody, not of a citizen, or even of a
 freedman, but of a slave. The neighbors of the Suiones, the Sitones,
-are sunk even below servitude; they obey a woman." footnote:[Tacit. German. 44, 45. Freinshemius (who dedicated his
+are sunk even below servitude; they obey a woman.{rdquo} footnote:[Tacit. German. 44, 45. Freinshemius (who dedicated his
 supplement to Livy to Christina of Sweden) thinks proper to be very
 angry with the Roman who expressed so very little reverence for Northern
 queens. Note: The Suiones and the Sitones are the ancient inhabitants
@@ -726,7 +726,7 @@ belong to the race of the Suevi, but that of the non-Suevi or Cimbri,
 whom the Suevi, in very remote times, drove back part to the west, part
 to the north; they were afterwards mingled with Suevian tribes, among
 others the Goths, who have traces of their name and power in the isle of
-Gothland.--G]
+Gothland.{emdash}G]
  In the mention
 of these exceptions, the great historian sufficiently acknowledges the
 general theory of government. We are only at a loss to conceive by what
@@ -740,8 +740,8 @@ despotism? The descendants of Odin, (whose race was not extinct till the
 year 1060) are said to have reigned in Sweden above a thousand years.
 The temple of Upsal was the ancient seat of religion and empire. In the
 year 1153 I find a singular law, prohibiting the use and profession of
-arms to any except the king's guards. Is it not probable that it was
-colored by the pretence of reviving an old institution? See Dalin's
+arms to any except the king{apos}s guards. Is it not probable that it was
+colored by the pretence of reviving an old institution? See Dalin{apos}s
 History of Sweden in the Bibliotheque Raisonneo tom. xl. and xlv.]
  Some tribes, however, on the coast of the Baltic,
 acknowledged the authority of kings, though without relinquishing the
@@ -812,7 +812,7 @@ the war, and in time of peace the German tribes acknowledged not any
 supreme chief. footnote:[Caesar de Bell. Gal. vi. 23.]
  Princes were, however, appointed, in the general
 assembly, to administer justice, or rather to compose differences, footnote:[Minuunt controversias, is a very happy expression of
-Caesar's.]
+Caesar{apos}s.]
 
 in their respective districts. In the choice of these magistrates, as
 much regard was shown to birth as to merit. footnote:[Reges ex nobilitate, duces ex virtute sumunt.
@@ -878,8 +878,8 @@ their duties. The chiefs combated for victory, the companions for the
 chief. The noblest warriors, whenever their native country was sunk into
 the laziness of peace, maintained their numerous bands in some distant
 scene of action, to exercise their restless spirit, and to acquire
-renown by voluntary dangers. Gifts worthy of soldiers--the warlike
-steed, the bloody and even victorious lance--were the rewards which the
+renown by voluntary dangers. Gifts worthy of soldiers{emdash}the warlike
+steed, the bloody and even victorious lance{emdash}were the rewards which the
 companions claimed from the liberality of their chief. The rude plenty
 of his hospitable board was the only pay that he could bestow, or they
 would accept. War, rapine, and the free-will offerings of his friends,
@@ -897,7 +897,7 @@ the fiefs, distributed after the conquest of the Roman provinces, by the
 barbarian lords among their vassals, with a similar duty of homage and
 military service. footnote:[Esprit des Loix, l. xxx. c. 3. The brilliant imagination
 of Montesquieu is corrected, however, by the dry, cold reason of the
-Abbe de Mably. Observations sur l'Histoire de France, tom. i. p. 356.]
+Abbe de Mably. Observations sur l{apos}Histoire de France, tom. i. p. 356.]
  These conditions are, however, very repugnant to
 the maxims of the ancient Germans, who delighted in mutual presents; but
 without either imposing, or accepting, the weight of obligations. footnote:[Gaudent muneribus, sed nec data imputant, nec acceptis
@@ -910,8 +910,8 @@ obligautur. Tacit. Germ. c. 21.]
 
 
 
-"In the days of chivalry, or more properly of romance, all the men were
-brave, and all the women were chaste;" and notwithstanding the latter of
+{ldquo}In the days of chivalry, or more properly of romance, all the men were
+brave, and all the women were chaste;{rdquo} and notwithstanding the latter of
 these virtues is acquired and preserved with much more difficulty than
 the former, it is ascribed, almost without exception, to the wives of
 the ancient Germans. Polygamy was not in use, except among the princes,
@@ -1026,7 +1026,7 @@ Lucan, was in the neighborhood of Marseilles; but there were many of the
 same kind in Germany. * Note: The ancient Germans had shapeless idols,
 and, when they began to build more settled habitations, they raised also
 temples, such as that to the goddess Teufana, who presided over
-divination. See Adelung, Hist. of Ane Germans, p 296--G]
+divination. See Adelung, Hist. of Ane Germans, p 296{emdash}G]
  and the priests, rude and
 illiterate as they were, had been taught by experience the use of every
 artifice that could preserve and fortify impressions so well suited to
@@ -1058,7 +1058,7 @@ suspended, arms laid aside, and the restless Germans had an opportunity
 of tasting the blessings of peace and harmony. footnote:[Tacit. Germania, c. 40.]
  The truce of God,
 so often and so ineffectually proclaimed by the clergy of the eleventh
-century, was an obvious imitation of this ancient custom. footnote:[See Dr. Robertson's History of Charles V. vol. i. note
+century, was an obvious imitation of this ancient custom. footnote:[See Dr. Robertson{apos}s History of Charles V. vol. i. note
 10.]
 
 
@@ -1141,8 +1141,8 @@ of the Gothic king, Ataulph, who sang himself the nuptial hymn when
 he espoused Placidia, sister of the emperors Arcadius and Honorius,
 (Olympiodor. p. 8.) But this marriage was celebrated according to the
 Roman rites, of which the nuptial songs formed a part. Adelung, p.
-382.--G. Charlemagne is said to have collected the national songs of the
-ancient Germans. Eginhard, Vit. Car. Mag.--M.]
+382.{emdash}G. Charlemagne is said to have collected the national songs of the
+ancient Germans. Eginhard, Vit. Car. Mag.{emdash}M.]
 
 
 
@@ -1263,10 +1263,10 @@ danger of unexpected incursions. footnote:[Caesar de Bell. Gal. l. vi. 23.]
 
 
 
-"The Bructeri footnote:[The Bructeri were a non-Suevian tribe, who dwelt below the
+{ldquo}The Bructeri footnote:[The Bructeri were a non-Suevian tribe, who dwelt below the
 duchies of Oldenburgh, and Lauenburgh, on the borders of the Lippe, and
 in the Hartz Mountains. It was among them that the priestess Velleda
-obtained her renown.--G.]
+obtained her renown.{emdash}G.]
  (it is Tacitus who now speaks) were totally
 exterminated by the neighboring tribes, footnote:[They are mentioned, however, in the ivth and vth centuries
 by Nazarius, Ammianus, Claudian, &c., as a tribe of Franks. See Cluver.
@@ -1280,10 +1280,10 @@ We have now attained the utmost verge of prosperity, footnote:[Urgentibus is the
 and some Mss. declare for Vergentibus.]
  and
 have nothing left to demand of fortune, except the discord of the
-barbarians." footnote:[Tacit Germania, c. 33. The pious Abbe de la Bleterie is
+barbarians.{rdquo} footnote:[Tacit Germania, c. 33. The pious Abbe de la Bleterie is
 very angry with Tacitus, talks of the devil, who was a murderer from the
 beginning, &c., &c.]
---These sentiments, less worthy of the humanity than of
+{emdash}These sentiments, less worthy of the humanity than of
 the patriotism of Tacitus, express the invariable maxims of the policy
 of his countrymen. They deemed it a much safer expedient to divide than
 to combat the barbarians, from whose defeat they could derive neither
@@ -1352,7 +1352,7 @@ leaving any traces behind in Germany.
 Vell. Pat. ii. 108. Tacit. Annal. ii. 63. * Note: The Mark-manaen, the
 March-men or borderers. There seems little doubt that this was an
 appellation, rather than a proper name of a part of the great Suevian or
-Teutonic race.--M.]
+Teutonic race.{emdash}M.]
 
 
 
@@ -1379,8 +1379,8 @@ his camp became their country, and some circumstance of the enterprise
 soon gave a common denomination to the mixed multitude. The distinctions
 of the ferocious invaders were perpetually varied by themselves, and
 confounded by the astonished subjects of the Roman empire. footnote:[See an excellent dissertation on the origin and migrations
-of nations, in the Memoires de l'Academie des Inscriptions, tom. xviii.
-p. 48--71. It is seldom that the antiquarian and the philosopher are so
+of nations, in the Memoires de l{apos}Academie des Inscriptions, tom. xviii.
+p. 48{endash}71. It is seldom that the antiquarian and the philosopher are so
 happily blended.]
 
 
@@ -1401,7 +1401,7 @@ though too positively stated, is probably not far wrong, as an average
 estimate. On the subject of Athenian population, see St. Croix, Acad.
 des Inscrip. xlviii. Boeckh, Public Economy of Athens, i. 47. Eng Trans,
 Fynes Clinton, Fasti Hellenici, vol. i. p. 381. The latter author
-estimates the citizens of Sparta at 33,000--M.]
+estimates the citizens of Sparta at 33,000{emdash}M.]
  raises
 almost every member of the community into action, and consequently into
 notice. The irregular divisions, and the restless motions, of the people

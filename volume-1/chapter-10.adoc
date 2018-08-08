@@ -4,7 +4,7 @@
 === Part I
 
      The Emperors Decius, Gallus, Aemilianus, Valerian, And
-     Gallienus.--The General Irruption Of The Barbari Ans.--The
+     Gallienus.{emdash}The General Irruption Of The Barbari Ans.{emdash}The
      Thirty Tyrants.
 
 From the great secular games celebrated by Philip, to the death of the
@@ -42,7 +42,7 @@ fear, and perhaps of disaffection; till at length Decius, one of the
 assembly, assuming a spirit worthy of his noble extraction, ventured to
 discover more intrepidity than the emperor seemed to possess. He treated
 the whole business with contempt, as a hasty and inconsiderate tumult,
-and Philip's rival as a phantom of royalty, who in a very few days would
+and Philip{apos}s rival as a phantom of royalty, who in a very few days would
 be destroyed by the same inconstancy that had created him. The speedy
 completion of the prophecy inspired Philip with a just esteem for so
 able a counsellor; and Decius appeared to him the only person capable
@@ -128,7 +128,7 @@ the Sinus Codanus (the Baltic) took this name, as it was afterwards
 called Mare Suevicum, and Mare Venedicum, during the superiority of the
 proper Suevi and the Venedi. The epoch in which the Goths passed into
 Scandinavia is unknown. See Adelung, Hist. of Anc. Germany, p. 200.
-Gatterer, Hist. Univ. 458.--G. ----M. St. Martin observes, that the
+Gatterer, Hist. Univ. 458.{emdash}G. {emdash}{emdash}M. St. Martin observes, that the
 Scandinavian descent of the Goths rests on the authority of Jornandes,
 who professed to derive it from the traditions of the Goths. He is
 supported by Procopius and Paulus Diaconus. Yet the Goths are
@@ -149,9 +149,9 @@ southern migration, they followed the course of the Vistula; afterwards,
 of the Dnieper. Malte Brun, Geogr. i. p. 387, edit. 1832. Geijer, the
 historian of Sweden, ably maintains the Scandinavian origin of the
 Goths. The Gothic language, according to Bopp, is the link between the
-Sanscrit and the modern Teutonic dialects: "I think that I am reading
-Sanscrit when I am reading Olphilas." Bopp, Conjugations System der
-Sanscrit Sprache, preface, p. x--M.]
+Sanscrit and the modern Teutonic dialects: {ldquo}I think that I am reading
+Sanscrit when I am reading Olphilas.{rdquo} Bopp, Conjugations System der
+Sanscrit Sprache, preface, p. x{emdash}M.]
  That extreme country of the North
 was not unknown to the conquerors of Italy: the ties of ancient
 consanguinity had been strengthened by recent offices of friendship; and
@@ -179,7 +179,7 @@ from their brave ancestors, who had already subdued the mistress of the
 world. footnote:[Voltaire, Histoire de Charles XII. l. iii. When the
 Austrians desired the aid of the court of Rome against Gustavus
 Adolphus, they always represented that conqueror as the lineal successor
-of Alaric. Harte's History of Gustavus, vol. ii. p. 123.]
+of Alaric. Harte{apos}s History of Gustavus, vol. ii. p. 123.]
 
 
 
@@ -205,13 +205,13 @@ the human) were sacrificed, and their bleeding bodies suspended in the
 sacred grove adjacent to the temple. footnote:[See Adam of Bremen in Grotii Prolegomenis, p. 105. The
 temple of Upsal was destroyed by Ingo, king of Sweden, who began
 his reign in the year 1075, and about fourscore years afterwards, a
-Christian cathedral was erected on its ruins. See Dalin's History of
+Christian cathedral was erected on its ruins. See Dalin{apos}s History of
 Sweden, in the Bibliotheque Raisonee.]
  The only traces that now
 subsist of this barbaric superstition are contained in the Edda, footnote:[The Eddas have at length been made accessible to European
 scholars by the completion of the publication of the Saemundine Edda by
 the Arna Magnaean Commission, in 3 vols. 4to., with a copious lexicon of
-northern mythology.--M.]
+northern mythology.{emdash}M.]
  a
 system of mythology, compiled in Iceland about the thirteenth century,
 and studied by the learned of Denmark and Sweden, as the most valuable
@@ -233,7 +233,7 @@ voluntary death. Apprehensive of the ignominious approach of disease
 and infirmity, he resolved to expire as became a warrior. In a solemn
 assembly of the Swedes and Goths, he wounded himself in nine mortal
 places, hastening away (as he asserted with his dying voice) to prepare
-the feast of heroes in the palace of the God of war. footnote:[Mallet, Introduction a l'Histoire du Dannemarc.]
+the feast of heroes in the palace of the God of war. footnote:[Mallet, Introduction a l{apos}Histoire du Dannemarc.]
 
 
 
@@ -267,11 +267,11 @@ to the Gothic nations, who were already seated in the southern parts of
 Sweden. * Note: A curious letter may be consulted on this subject from
 the Swede, Ihre counsellor in the Chancery of Upsal, printed at Upsal by
 Edman, in 1772 and translated into German by M. Schlozer. Gottingen,
-printed for Dietericht, 1779.--G. ----Gibbon, at a later period of his
+printed for Dietericht, 1779.{emdash}G. {emdash}{emdash}Gibbon, at a later period of his
 work, recanted his opinion of the truth of this expedition of Odin. The
 Asiatic origin of the Goths is almost certain from the affinity of their
 language to the Sanscrit and Persian; but their northern writers, when
-all mythology was reduced to hero worship.--M.]
+all mythology was reduced to hero worship.{emdash}M.]
 
 
 
@@ -319,7 +319,7 @@ that division took place after their irruption into Dacia in the third
 century: those who came from Mecklenburgh and Pomerania were called
 Visigoths; those who came from the south of Prussia, and the northwest
 of Poland, called themselves Ostrogoths. Adelung, Hist. All. p. 202
-Gatterer, Hist. Univ. 431.--G.]
+Gatterer, Hist. Univ. 431.{emdash}G.]
  The distinction
 among the Vandals was more strongly marked by the independent names of
 Heruli, Burgundians, Lombards, and a variety of other petty states, many
@@ -378,14 +378,14 @@ the Anses, or demi gods of the Gothic nation. footnote:[Jornandes, c. 13, 14.]
 The fame of a great enterprise excited the bravest warriors from all the
 Vandalic states of Germany, many of whom are seen a few years afterwards
 combating under the common standard of the Goths. footnote:[The Heruli, and the Uregundi or Burgundi, are particularly
-mentioned. See Mascou's History of the Germans, l. v. A passage in the
+mentioned. See Mascou{apos}s History of the Germans, l. v. A passage in the
 Augustan History, p. 28, seems to allude to this great emigration.
 The Marcomannic war was partly occasioned by the pressure of barbarous
 tribes, who fled before the arms of more northern barbarians.]
  The first motions
 of the emigrants carried them to the banks of the Prypec, a river
 universally conceived by the ancients to be the southern branch of the
-Borysthenes. footnote:[D'Anville, Geographie Ancienne, and the third part of his
+Borysthenes. footnote:[D{apos}Anville, Geographie Ancienne, and the third part of his
 incomparable map of Europe.]
  The windings of that great stream through the plains
 of Poland and Russia gave a direction to their line of march, and a
@@ -414,12 +414,12 @@ Chlonix, Chlondicus. Deldon, are not German names. Those who were
 settled in the island of Peuce in the Danube, took the name of Peucini.
 The Carpi appear in 237 as a Suevian tribe who had made an irruption
 into Maesia. Afterwards they reappear under the Ostrogoths, with whom
-they were probably blended. Adelung, p. 236, 278.--G.]
+they were probably blended. Adelung, p. 236, 278.{emdash}G.]
  With
 better authority, a Sarmatian extraction may be assigned to the Venedi,
 who rendered themselves so famous in the middle ages. footnote:[The Venedi, the Slavi, and the Antes, were the three great
 tribes of the same people. Jornandes, 24. * Note Dagger: They formed the
-great Sclavonian nation.--G.]
+great Sclavonian nation.{emdash}G.]
  But the
 confusion of blood and manners on that doubtful frontier often perplexed
 the most accurate observers. footnote:[Tacitus most assuredly deserves that title, and even his
@@ -429,10 +429,10 @@ Sea, they encountered a purer race of Sarmatians, the Jazyges, the
 Alani, footnote:[Jac. Reineggs supposed that he had found, in the mountains
 of Caucasus, some descendants of the Alani. The Tartars call them
 Edeki-Alan: they speak a peculiar dialect of the ancient language of the
-Tartars of Caucasus. See J. Reineggs' Descr. of Caucasus, p. 11, 13.--G.
+Tartars of Caucasus. See J. Reineggs{rsquo} Descr. of Caucasus, p. 11, 13.{emdash}G.
 According to Klaproth, they are the Ossetes of the present day in Mount
 Caucasus and were the same with the Albanians of antiquity. Klaproth,
-Hist. de l'Asie, p. 180.--M.]
+Hist. de l{apos}Asie, p. 180.{emdash}M.]
  and the Roxolani; and they were probably the first Germans
 who saw the mouths of the Borysthenes, and of the Tanais. If we inquire
 into the characteristic marks of the people of Germany and of Sarmatia,
@@ -517,7 +517,7 @@ de Provinciis, and Wesseling ad locum, p. 636. Itinerar.) It is
 surprising how this palpable error of the scribe should escape the
 judicious correction of Grotius. Note: Luden has observed that Jornandes
 mentions two passages over the Danube; this relates to the second
-irruption into Maesia. Geschichte des T V. ii. p. 448.--M.]
+irruption into Maesia. Geschichte des T V. ii. p. 448.{emdash}M.]
  The
 inhabitants consented to ransom their lives and property by the payment
 of a large sum of money, and the invaders retreated back into their
@@ -534,7 +534,7 @@ power.
 
 
 Decius found the Goths engaged before Nicopolis, one of the many
-monuments of Trajan's victories. footnote:[The place is still called Nicop. D'Anville, Geographie
+monuments of Trajan{apos}s victories. footnote:[The place is still called Nicop. D{apos}Anville, Geographie
 Ancienne, tom. i. p. 307. The little stream, on whose banks it stood,
 falls into the Danube.]
  On his approach they raised the
@@ -544,7 +544,7 @@ father of Alexander, near the foot of Mount Haemus. footnote:[Stephan. Byzant. d
 p. 136. Zonaras, by an odd mistake, ascribes the foundation of
 Philippopolis to the immediate predecessor of Decius. * Note: Now
 Philippopolis or Philiba; its situation among the hills caused it to be
-also called Trimontium. D'Anville, Geog. Anc. i. 295.--G.]
+also called Trimontium. D{apos}Anville, Geog. Anc. i. 295.{emdash}G.]
  Decius followed
 them through a difficult country, and by forced marches; but when he
 imagined himself at a considerable distance from the rear of the Goths,
@@ -575,7 +575,7 @@ strengthened the fortifications of the Danube, and exerted his utmost
 vigilance to oppose either the progress or the retreat of the Goths.
 Encouraged by the return of fortune, he anxiously waited for an
 opportunity to retrieve, by a great and decisive blow, his own glory,
-and that of the Roman arms. footnote:[Jornandes, c. 16--18. Zosimus, l. i. p. 22. In the general
+and that of the Roman arms. footnote:[Jornandes, c. 16{endash}18. Zosimus, l. i. p. 22. In the general
 account of this war, it is easy to discover the opposite prejudices of
 the Gothic and the Grecian writer. In carelessness alone they are
 alike.]
@@ -611,7 +611,7 @@ ingenuity, and with uncommon precision.]
 till it was usurped and gradually neglected by the Caesars. footnote:[Vespasian and Titus were the last censors, (Pliny, Hist.
 Natur vii. 49. Censorinus de Die Natali.) The modesty of Trajan
 refused an honor which he deserved, and his example became a law to the
-Antonines. See Pliny's Panegyric, c. 45 and 60.]
+Antonines. See Pliny{apos}s Panegyric, c. 45 and 60.]
 
 Conscious that the favor of the sovereign may confer power, but that the
 esteem of the people can alone bestow authority, he submitted the choice
@@ -621,8 +621,8 @@ who then served with distinction in the army of Decius, was declared the
 most worthy of that exalted honor. As soon as the decree of the senate
 was transmitted to the emperor, he assembled a great council in his
 camp, and before the investiture of the censor elect, he apprised him of
-the difficulty and importance of his great office. "Happy Valerian,"
-said the prince to his distinguished subject, "happy in the general
+the difficulty and importance of his great office. {ldquo}Happy Valerian,{rdquo}
+said the prince to his distinguished subject, {ldquo}happy in the general
 approbation of the senate and of the Roman republic! Accept the
 censorship of mankind; and judge of our manners. You will select those
 who deserve to continue members of the senate; you will restore the
@@ -639,7 +639,7 @@ singular and honorable. Plutarch in Pomp. p. 630.]
  the praefect of the city, the king of the
 sacrifices, and (as long as she preserves her chastity inviolate) the
 eldest of the vestal virgins. Even these few, who may not dread the
-severity, will anxiously solicit the esteem, of the Roman censor." footnote:[See the original speech in the Augustan Hist. p. 173-174.]
+severity, will anxiously solicit the esteem, of the Roman censor.{rdquo} footnote:[See the original speech in the Augustan Hist. p. 173{endash}174.]
 
 
 
@@ -659,7 +659,7 @@ He modestly argued the alarming greatness of the trust, his own
 insufficiency, and the incurable corruption of the times. He artfully
 insinuated, that the office of censor was inseparable from the Imperial
 dignity, and that the feeble hands of a subject were unequal to the
-support of such an immense weight of cares and of power. footnote:[Hist. August. p. 174. The emperor's reply is omitted.]
+support of such an immense weight of cares and of power. footnote:[Hist. August. p. 174. The emperor{apos}s reply is omitted.]
  The
 approaching event of war soon put an end to the prosecution of a project
 so specious, but so impracticable; and whilst it preserved Valerian
@@ -711,13 +711,13 @@ conflict was terrible; it was the combat of despair against grief and
 rage. The first line of the Goths at length gave way in disorder; the
 second, advancing to sustain it, shared its fate; and the third only
 remained entire, prepared to dispute the passage of the morass, which
-was imprudently attempted by the presumption of the enemy. "Here the
+was imprudently attempted by the presumption of the enemy. {ldquo}Here the
 fortune of the day turned, and all things became adverse to the Romans;
 the place deep with ooze, sinking under those who stood, slippery to
 such as advanced; their armor heavy, the waters deep; nor could they
 wield, in that uneasy situation, their weighty javelins. The barbarians,
 on the contrary, were inured to encounter in the bogs, their persons
-tall, their spears long, such as could wound at a distance." footnote:[I have ventured to copy from Tacitus (Annal. i. 64)
+tall, their spears long, such as could wound at a distance.{rdquo} footnote:[I have ventured to copy from Tacitus (Annal. i. 64)
 the picture of a similar engagement between a Roman army and a German
 tribe.]
  In this
@@ -878,7 +878,7 @@ Gallus: he sunk under the weight of a competitor more formidable than
 Gallus. That unfortunate prince had sent Valerian, already distinguished
 by the honorable title of censor, to bring the legions of Gaul and
 Germany footnote:[Zosimus, l. i. p. 28. Eutropius and Victor station
-Valerian's army in Rhaetia.]
+Valerian{apos}s army in Rhaetia.]
  to his aid. Valerian executed that commission with zeal and
 fidelity; and as he arrived too late to save his sovereign, he resolved
 to revenge him. The troops of Aemilianus, who still lay encamped in the
@@ -889,8 +889,8 @@ constitutional principle, they readily imbrued their hands in the blood
 of a prince who so lately had been the object of their partial choice.
 The guilt was theirs, footnote:[Aurelius Victor says that Aemilianus died of a natural
 disorder. Tropius, in speaking of his death, does not say that he was
-assassinated--G.]
- but the advantage of it was Valerian's; who
+assassinated{emdash}G.]
+ but the advantage of it was Valerian{apos}s; who
 obtained the possession of the throne by the means indeed of a civil
 war, but with a degree of innocence singular in that age of revolutions;
 since he owed neither gratitude nor allegiance to his predecessor, whom
@@ -973,7 +973,7 @@ birth to that celebrated colony of warriors. At length the most rational
 critics, rejecting the fictitious emigrations of ideal conquerors, have
 acquiesced in a sentiment whose simplicity persuades us of its truth.
 footnote:[See Cluver. Germania Antiqua, l. iii. c. 20. M. Freret, in
-the Memoires de l'Academie des Inscriptions, tom. xviii.]
+the Memoires de l{apos}Academie des Inscriptions, tom. xviii.]
  They suppose, that about the year two hundred and forty, footnote:[Most probably under the reign of Gordian, from an
 accidental circumstance fully canvassed by Tillemont, tom. iii. p. 710,
 1181.]
@@ -986,8 +986,8 @@ the principality of Waldeck, between the Dimel and the Eder. 4. Of
 the Bructeri, on the banks of the Lippe, and in the Hartz. 5. Of the
 Chamavii, the Gambrivii of Tacitua, who were established, at the time
 of the Frankish confederation, in the country of the Bructeri. 6. Of
-the Catti, in Hessia.--G. The Salii and Cherasci are added. Greenwood's
-Hist. of Germans, i 193.--M.]
+the Catti, in Hessia.{emdash}G. The Salii and Cherasci are added. Greenwood{apos}s
+Hist. of Germans, i 193.{emdash}M.]
  The present circle of Westphalia,
 the Landgraviate of Hesse, and the duchies of Brunswick and Luneburg,
 were the ancient seat of the Chauci who, in their inaccessible morasses,
@@ -1052,15 +1052,15 @@ to the great interests of the monarchy. The treacherous language of
 panegyrics and medals darkly announces a long series of victories.
 Trophies and titles attest (if such evidence can attest) the fame of
 Posthumus, who is repeatedly styled the Conqueror of the Germans, and
-the Savior of Gaul. footnote:[M. de Brequigny (in the Memoires de l'Academie, tom. xxx.)
+the Savior of Gaul. footnote:[M. de Brequigny (in the Memoires de l{apos}Academie, tom. xxx.)
 has given us a very curious life of Posthumus. A series of the Augustan
 History from Medals and Inscriptions has been more than once planned,
 and is still much wanted. * Note: M. Eckhel, Keeper of the Cabinet of
 Medals, and Professor of Antiquities at Vienna, lately deceased, has
 supplied this want by his excellent work, Doctrina veterum Nummorum,
-conscripta a Jos. Eckhel, 8 vol. in 4to Vindobona, 1797.--G. Captain
+conscripta a Jos. Eckhel, 8 vol. in 4to Vindobona, 1797.{emdash}G. Captain
 Smyth has likewise printed (privately) a valuable Descriptive Catologue
-of a series of Large Brass Medals of this period Bedford, 1834.--M.
+of a series of Large Brass Medals of this period Bedford, 1834.{emdash}M.
 1845.]
 
 
@@ -1166,12 +1166,12 @@ Tacitus, Germ. c. 32;) and Aurelius Victor gives the same praise to the
 Alemanni: finally, they never made part of the Frankish league. The
 Alemanni became subsequently a centre round which gathered a multitude
 of German tribes, See Eumen. Panegyr. c. 2. Amm. Marc. xviii. 2, xxix.
-4.--G. ----The question whether the Suevi was a generic name
+4.{emdash}G. {emdash}{emdash}The question whether the Suevi was a generic name
 comprehending the clans which peopled central Germany, is rather hastily
 decided by M. Guizot Mr. Greenwood, who has studied the modern German
 writers on their own origin, supposes the Suevi, Alemanni, and
 Marcomanni, one people, under different appellations. History of
-Germany, vol i.--M.]
+Germany, vol i.{emdash}M.]
  or Allmen; to denote at once their various
 lineage and their common bravery. footnote:[This etymology (far different from those which amuse the
 fancy of the learned) is preserved by Asinius Quadratus, an original
@@ -1249,7 +1249,7 @@ Milan, by Gallienus in person, at the head of only ten thousand Romans.
 footnote:[Zonaras, l. xii. p. 631.]
  We may, however, with great probability, ascribe this incredible
 victory either to the credulity of the historian, or to some exaggerated
-exploits of one of the emperor's lieutenants. It was by arms of a very
+exploits of one of the emperor{apos}s lieutenants. It was by arms of a very
 different nature, that Gallienus endeavored to protect Italy from the
 fury of the Germans. He espoused Pipa, the daughter of a king of the
 Marcomanni, a Suevic tribe, which was often confounded with the Alemanni
@@ -1322,7 +1322,7 @@ the allies of Athens.]
 ambition of Mithridates, footnote:[Appian in Mithridat.]
  and, with the rest of his dominions, sunk
 under the weight of the Roman arms. From the reign of Augustus, footnote:[It was reduced by the arms of Agrippa. Orosius, vi. 21.
-Eu tropius, vii. 9. The Romans once advanced within three days' march of
+Eu tropius, vii. 9. The Romans once advanced within three days{rsquo} march of
 the Tanais. Tacit. Annal. xii. 17.]
 
 the kings of Bosphorus were the humble, but not useless, allies of the
@@ -1386,8 +1386,8 @@ The fleet of the Goths, leaving the coast of Circassia on the left
 hand, first appeared before Pityus, footnote:[Arrian places the frontier garrison at Dioscurias, or
 Sebastopolis, forty-four miles to the east of Pityus. The garrison of
 Phasis consisted in his time of only four hundred foot. See the Periplus
-of the Euxine. * Note: Pityus is Pitchinda, according to D'Anville, ii.
-115.--G. Rather Boukoun.--M. Dioscurias is Iskuriah.--G.]
+of the Euxine. * Note: Pityus is Pitchinda, according to D{apos}Anville, ii.
+115.{emdash}G. Rather Boukoun.{emdash}M. Dioscurias is Iskuriah.{emdash}G.]
  the utmost limits of the Roman
 provinces; a city provided with a convenient port, and fortified with
 a strong wall. Here they met with a resistance more obstinate than they
@@ -1416,10 +1416,10 @@ Phasis. Trebizond, celebrated in the retreat of the ten thousand as an
 ancient colony of Greeks, footnote:[Xenophon, Anabasis, l. iv. p. 348, edit. Hutchinson.
 Note: Fallmerayer (Geschichte des Kaiserthums von Trapezunt, p. 6,
 &c) assigns a very ancient date to the first (Pelasgic) foundation of
-Trapezun (Trebizond)--M.]
+Trapezun (Trebizond){emdash}M.]
  derived its wealth and splendor from the
 magnificence of the emperor Hadrian, who had constructed an artificial
-port on a coast left destitute by nature of secure harbors. footnote:[Arrian, p. 129. The general observation is Tournefort's.]
+port on a coast left destitute by nature of secure harbors. footnote:[Arrian, p. 129. The general observation is Tournefort{apos}s.]
  The
 city was large and populous; a double enclosure of walls seemed to defy
 the fury of the Goths, and the usual garrison had been strengthened by
@@ -1473,15 +1473,15 @@ town of Chalcedon, most plentifully stored with arms and money, to the
 discretion of the conquerors. Whilst they hesitated whether they
 should prefer the sea or land, Europe or Asia, for the scene of their
 hostilities, a perfidious fugitive pointed out Nicomedia, footnote:[It has preserved its name, joined to the preposition of place in that of
-Nikmid. D'Anv. Geog. Anc. ii. 28.--G.]
+Nikmid. D{apos}Anv. Geog. Anc. ii. 28.{emdash}G.]
  once the
 capital of the kings of Bithynia, as a rich and easy conquest. He guided
 the march, which was only sixty miles from the camp of Chalcedon, footnote:[Itiner. Hierosolym. p. 572. Wesseling.]
 
 directed the resistless attack, and partook of the booty; for the Goths
 had learned sufficient policy to reward the traitor whom they detested.
-Nice, Prusa, Apamaea, Cius, footnote:[Now Isnik, Bursa, Mondania Ghio or Kemlik D'Anv. ii.
-23.--G.]
+Nice, Prusa, Apamaea, Cius, footnote:[Now Isnik, Bursa, Mondania Ghio or Kemlik D{apos}Anv. ii.
+23.{emdash}G.]
  cities that had sometimes rivalled, or
 imitated, the splendor of Nicomedia, were involved in the same calamity,
 which, in a few weeks, raged without control through the whole
@@ -1511,7 +1511,7 @@ footnote:[Strabo, l. xii. p. 573.]
 strength, nothing remained except the situation, in a little island of
 the Propontis, connected with the continent of Asia only by two bridges.
 From the recent sack of Prusa, the Goths advanced within eighteen miles.
-footnote:[Pocock's Description of the East, l. ii. c. 23, 24.]
+footnote:[Pocock{apos}s Description of the East, l. ii. c. 23, 24.]
  of the city, which they had devoted to destruction; but the ruin of
 Cyzicus was delayed by a fortunate accident. The season was rainy,
 and the Lake Apolloniates, the reservoir of all the springs of Mount
@@ -1572,7 +1572,7 @@ on the coast of Greece as on that of Asia. At length the Gothic fleet
 anchored in the port of Piraeus, five miles distant from Athens, footnote:[Plin. Hist. Natur. iii. 7.]
 
 which had attempted to make some preparations for a vigorous defence.
-Cleodamus, one of the engineers employed by the emperor's orders to
+Cleodamus, one of the engineers employed by the emperor{apos}s orders to
 fortify the maritime cities against the Goths, had already begun to
 repair the ancient walls, fallen to decay since the time of Scylla. The
 efforts of his skill were ineffectual, and the barbarians became masters
@@ -1586,12 +1586,12 @@ the calamities of his country. footnote:[Hist. August. p. 181. Victor, c. 33. Or
 Zosimus, l. i. p. 35. Zonaras, l. xii. 635. Syncellus, p. 382. It is
 not without some attention, that we can explain and conciliate their
 imperfect hints. We can still discover some traces of the partiality of
-Dexippus, in the relation of his own and his countrymen's exploits. *
+Dexippus, in the relation of his own and his countrymen{apos}s exploits. *
 Note: According to a new fragment of Dexippus, published by Mai, the 2000
 men took up a strong position in a mountainous and woods district,
 and kept up a harassing warfare. He expresses a hope of being speedily
 joined by the Imperial fleet. Dexippus in rov. Byzantinorum Collect a
-Niebuhr, p. 26, 8--M.]
+Niebuhr, p. 26, 8{emdash}M.]
 
 
 
@@ -1688,10 +1688,10 @@ vanquished Amazons. footnote:[Strabo, l. xiv. p. 640. Vitruvius, l. i. c. i. pra
 vii. Tacit Annal. iii. 61. Plin. Hist. Nat. xxxvi. 14.]
  Yet the length of the temple of Ephesus was
 only four hundred and twenty-five feet, about two thirds of the measure
-of the church of St. Peter's at Rome. footnote:[The length of St. Peter's is 840 Roman palms; each palm
-is very little short of nine English inches. See Greaves's Miscellanies
-vol. i. p. 233; on the Roman Foot. * Note: St. Paul's Cathedral is 500
-feet. Dallaway on Architecture--M.]
+of the church of St. Peter{apos}s at Rome. footnote:[The length of St. Peter{apos}s is 840 Roman palms; each palm
+is very little short of nine English inches. See Greaves{apos}s Miscellanies
+vol. i. p. 233; on the Roman Foot. * Note: St. Paul{apos}s Cathedral is 500
+feet. Dallaway on Architecture{emdash}M.]
  In the other dimensions,
 it was still more inferior to that sublime production of modern
 architecture. The spreading arms of a Christian cross require a much
@@ -1748,7 +1748,7 @@ natural strength of his country; by the perpetual resort of fugitives
 and malecontents; by the alliance of the Romans, and above all, by his
 own courage.
 
-Invincible in arms, during a thirty years' war, he was at length
+Invincible in arms, during a thirty years{rsquo} war, he was at length
 assassinated by the emissaries of Sapor, king of Persia. The patriotic
 satraps of Armenia, who asserted the freedom and dignity of the crown,
 implored the protection of Rome in favor of Tiridates, the lawful heir.
@@ -1761,12 +1761,12 @@ footnote:[Moses Chorenensis, l. ii. c. 71, 73, 74. Zonaras, l. xii.
 p. 628. The anthentic relation of the Armenian historian serves to
 rectify the confused account of the Greek. The latter talks of the
 children of Tiridates, who at that time was himself an infant. (Compare
-St Martin Memoires sur l'Armenie, i. p. 301.--M.)]
+St Martin Memoires sur l{apos}Armenie, i. p. 301.{emdash}M.)]
  Elated with this easy conquest, and presuming on the distresses or
 the degeneracy of the Romans, Sapor obliged the strong garrisons of
 Carrhae and Nisibis footnote:[Nisibis, according to Persian authors, was taken by a
 miracle, the wall fell, in compliance with the prayers of the army.
-Malcolm's Persia, l. 76.--M]
+Malcolm{apos}s Persia, l. 76.{emdash}M]
  to surrender, and spread devastation and
 terror on either side of the Euphrates.
 
@@ -1775,7 +1775,7 @@ terror on either side of the Euphrates.
 
 
 The loss of an important frontier, the ruin of a faithful and natural
-ally, and the rapid success of Sapor's ambition, affected Rome with a
+ally, and the rapid success of Sapor{apos}s ambition, affected Rome with a
 deep sense of the insult as well as of the danger. Valerian flattered
 himself, that the vigilance of his lieutenants would sufficiently
 provide for the safety of the Rhine and of the Danube; but he resolved,
@@ -1849,7 +1849,7 @@ reign of Gallienus, xxiii. 5. * Note: Heyne, in his note on Zosimus,
 contests this opinion of Gibbon and observes, that the testimony of
 Ammianus is in fact by no means clear, decisive. Gallienus and Valerian
 reigned together. Zosimus, in a passage, l. iiii. 32, 8, distinctly
-places this event before the capture of Valerian.--M.]
+places this event before the capture of Valerian.{emdash}M.]
  the city of Antioch was surprised when the
 idle multitude was fondly gazing on the amusements of the theatre. The
 splendid buildings of Antioch, private as well as public, were either
@@ -1907,13 +1907,13 @@ At the time when the East trembled at the name of Sapor, he received
 a present not unworthy of the greatest kings; a long train of camels,
 laden with the most rare and valuable merchandises. The rich offering
 was accompanied with an epistle, respectful, but not servile, from
-Odenathus, one of the noblest and most opulent senators of Palmyra. "Who
-is this Odenathus," (said the haughty victor, and he commanded that the
-present should be cast into the Euphrates,) "that he thus insolently
+Odenathus, one of the noblest and most opulent senators of Palmyra. {ldquo}Who
+is this Odenathus,{rdquo} (said the haughty victor, and he commanded that the
+present should be cast into the Euphrates,) {ldquo}that he thus insolently
 presumes to write to his lord? If he entertains a hope of mitigating his
 punishment, let him fall prostrate before the foot of our throne, with
 his hands bound behind his back. Should he hesitate, swift destruction
-shall be poured on his head, on his whole race, and on his country."
+shall be poured on his head, on his whole race, and on his country.{rdquo}
 footnote:[Peter Patricius in Excerpt. Leg. p. 29.]
  The desperate extremity to which the Palmyrenian was reduced,
 called into action all the latent powers of his soul. He met Sapor; but
@@ -1963,13 +1963,13 @@ collected by Tillemont, tom. iii. p. 739, &c. So little has been
 preserved of eastern history before Mahomet, that the modern Persians
 are totally ignorant of the victory Sapor, an event so glorious to their
 nation. See Bibliotheque Orientale. * Note: Malcolm appears to write
-from Persian authorities, i. 76.--M.]
+from Persian authorities, i. 76.{emdash}M.]
  The tale is moral and pathetic, but
 the truth footnote:[Yet Gibbon himself records a speech of the emperor Galerius,
 which alludes to the cruelties exercised against the living, and the
 indignities to which they exposed the dead Valerian, vol. ii. ch. 13.
 Respect for the kingly character would by no means prevent an eastern
-monarch from ratifying his pride and his vengeance on a fallen foe.--M.]
+monarch from ratifying his pride and his vengeance on a fallen foe.{emdash}M.]
  of it may very fairly be called in question. The letters
 still extant from the princes of the East to Sapor are manifest
 forgeries; footnote:[One of these epistles is from Artavasdes, king of
@@ -1991,8 +1991,8 @@ hopeless captivity.
 The emperor Gallienus, who had long supported with impatience
 the censorial severity of his father and colleague, received the
 intelligence of his misfortunes with secret pleasure and avowed
-indifference. "I knew that my father was a mortal," said he; "and since
-he has acted as it becomes a brave man, I am satisfied." Whilst Rome
+indifference. {ldquo}I knew that my father was a mortal,{rdquo} said he; {ldquo}and since
+he has acted as it becomes a brave man, I am satisfied.{rdquo} Whilst Rome
 lamented the fate of her sovereign, the savage coldness of his son was
 extolled by the servile courtiers as the perfect firmness of a hero
 and a stoic. footnote:[See his life in the Augustan History.]
@@ -2003,15 +2003,15 @@ art that he attempted, his lively genius enabled him to succeed; and as
 his genius was destitute of judgment, he attempted every art, except
 the important ones of war and government. He was a master of several
 curious, but useless sciences, a ready orator, an elegant poet, footnote:[There is still extant a very pretty Epithalamium,
-composed by Gallienus for the nuptials of his nephews:--"Ite ait, O
+composed by Gallienus for the nuptials of his nephews:{emdash}"Ite ait, O
 juvenes, pariter sudate medullis Omnibus, inter vos: non murmura vestra
 columbae, Brachia non hederae, non vincant oscula conchae."]
  a
 skilful gardener, an excellent cook, and most contemptible prince. When
 the great emergencies of the state required his presence and attention,
 he was engaged in conversation with the philosopher Plotinus, footnote:[He was on the point of giving Plotinus a ruined city of
-Campania to try the experiment of realizing Plato's Republic. See the
-Life of Plotinus, by Porphyry, in Fabricius's Biblioth. Graec. l. iv.]
+Campania to try the experiment of realizing Plato{apos}s Republic. See the
+Life of Plotinus, by Porphyry, in Fabricius{apos}s Biblioth. Graec. l. iv.]
 
 wasting his time in trifling or licentious pleasures, preparing his
 initiation to the Grecian mysteries, or soliciting a place in the
@@ -2026,11 +2026,11 @@ unworthy of the gravity of the Roman mint, M. de Vallemont has deduced
 from a passage of Trebellius Pollio (Hist. Aug. p. 198) an ingenious
 and natural solution. Galliena was first cousin to the emperor. By
 delivering Africa from the usurper Celsus, she deserved the title of
-Augusta. On a medal in the French king's collection, we read a similar
+Augusta. On a medal in the French king{apos}s collection, we read a similar
 inscription of Faustina Augusta round the head of Marcus Aurelius.
 With regard to the Ubique Pax, it is easily explained by the vanity of
 Gallienus, who seized, perhaps, the occasion of some momentary calm. See
-Nouvelles de la Republique des Lettres, Janvier, 1700, p. 21--34.]
+Nouvelles de la Republique des Lettres, Janvier, 1700, p. 21{endash}34.]
  The repeated intelligence of invasions,
 defeats, and rebellions, he received with a careless smile; and singling
 out, with affected contempt, some particular production of the lost
@@ -2064,7 +2064,7 @@ tyrants of Athens, that induced the writers of the Augustan History to
 select that celebrated number, which has been gradually received into
 a popular appellation. footnote:[Pollio expresses the most minute anxiety to complete the
 number. * Note: Compare a dissertation of Manso on the thirty tyrants at
-the end of his Leben Constantius des Grossen. Breslau, 1817.--M.]
+the end of his Leben Constantius des Grossen. Breslau, 1817.{emdash}M.]
  But in every light the parallel is idle and
 defective. What resemblance can we discover between a council of thirty
 persons, the united oppressors of a single city, and an uncertain list
@@ -2081,14 +2081,14 @@ was a tyrant in Pontus, and we are acquainted with the seat of all the
 others.]
  Saturninus; in
 Isauria, Trebellianus; Piso in Thessaly; Valens in Achaia; Aemilianus in
-Egypt; and Celsus in Africa. footnote:[Captain Smyth, in his "Catalogue of Medals," p.
+Egypt; and Celsus in Africa. footnote:[Captain Smyth, in his {ldquo}Catalogue of Medals,{rdquo} p.
 307, substitutes two new names to make up the number of nineteen, for
-those of Odenathus and Zenobia. He subjoins this list:--1. 2. 3. Of
+those of Odenathus and Zenobia. He subjoins this list:{emdash}1. 2. 3. Of
 those whose coins Those whose coins Those of whom no are undoubtedly
 true. are suspected. coins are known. Posthumus. Cyriades. Valens.
 Laelianus, (Lollianus, G.) Ingenuus. Balista Victorinus Celsus.
 Saturninus. Marius. Piso Frugi. Trebellianus. Tetricus.
---M. 1815 Macrianus. Quietus. Regalianus (Regillianus, G.) Alex.
+{emdash}M. 1815 Macrianus. Quietus. Regalianus (Regillianus, G.) Alex.
 Aemilianus. Aureolus. Sulpicius Antoninus]
  To illustrate the obscure monuments of
 the life and death of each individual, would prove a laborious task,
@@ -2127,8 +2127,8 @@ The accidental identity of names was the only circumstance that could
 tempt Pollio to imitate Sallust.]
  His mean and recent trade cast, indeed, an air of ridicule on his
 elevation; footnote:[Marius was killed by a soldier, who had formerly served
-as a workman in his shop, and who exclaimed, as he struck, "Behold the
-sword which thyself hast forged." Trob vita.--G.]
+as a workman in his shop, and who exclaimed, as he struck, {ldquo}Behold the
+sword which thyself hast forged.{rdquo} Trob vita.{emdash}G.]
  but his birth could not be more obscure than was that of
 the greater part of his rivals, who were born of peasants, and enlisted
 in the army as private soldiers. In times of confusion, every active
@@ -2136,8 +2136,8 @@ genius finds the place assigned him by nature: in a general state
 of war, military merit is the road to glory and to greatness. Of the
 nineteen tyrants Tetricus only was a senator; Piso alone was a noble.
 The blood of Numa, through twenty-eight successive generations, ran in
-the veins of Calphurnius Piso, footnote:["Vos, O Pompilius sanguis!" is Horace's address to
-the Pisos See Art. Poet. v. 292, with Dacier's and Sanadon's notes.]
+the veins of Calphurnius Piso, footnote:["Vos, O Pompilius sanguis!{rdquo} is Horace{apos}s address to
+the Pisos See Art. Poet. v. 292, with Dacier{apos}s and Sanadon{apos}s notes.]
  who, by female alliances, claimed
 a right of exhibiting, in his house, the images of Crassus and of the
 great Pompey. footnote:[Tacit. Annal. xv. 48. Hist. i. 15. In the former of
@@ -2153,7 +2153,7 @@ Caesars. The personal qualities of Piso added new lustre to his race.
 The usurper Valens, by whose order he was killed, confessed, with deep
 remorse, that even an enemy ought to have respected the sanctity of
 Piso; and although he died in arms against Gallienus, the senate, with
-the emperor's generous permission, decreed the triumphal ornaments
+the emperor{apos}s generous permission, decreed the triumphal ornaments
 to the memory of so virtuous a rebel. footnote:[Hist. August. p. 195. The senate, in a moment of
 enthusiasm, seems to have presumed on the approbation of Gallienus.]
  [See Roman Coins: From The
@@ -2185,9 +2185,9 @@ war than to expect the hand of an executioner.
 
 When the clamor of the soldiers invested the reluctant victims with the
 ensigns of sovereign authority, they sometimes mourned in secret their
-approaching fate. "You have lost," said Saturninus, on the day of his
-elevation, "you have lost a useful commander, and you have made a very
-wretched emperor." footnote:[Hist. August p. 196.]
+approaching fate. {ldquo}You have lost,{rdquo} said Saturninus, on the day of his
+elevation, {ldquo}you have lost a useful commander, and you have made a very
+wretched emperor.{rdquo} footnote:[Hist. August p. 196.]
 
 
 
@@ -2234,7 +2234,7 @@ provinces in their fall. There is still extant a most savage mandate
 from Gallienus to one of his ministers, after the suppression of
 Ingenuus, who had assumed the purple in Illyricum.
 
-"It is not enough," says that soft but inhuman prince, "that you
+{ldquo}It is not enough,{rdquo} says that soft but inhuman prince, {ldquo}that you
 exterminate such as have appeared in arms; the chance of battle might
 have served me as effectually. The male sex of every age must be
 extirpated; provided that, in the execution of the children and old men,
@@ -2246,11 +2246,11 @@ son of Gallienus succeeded to the name and rank of his elder brother
 Valerian, the brother of Gallienus, was also associated to the empire:
 several other brothers, sisters, nephews, and nieces of the emperor
 formed a very numerous royal family. See Tillemont, tom iii, and M. de
-Brequigny in the Memoires de l'Academie, tom xxxii p. 262.]
+Brequigny in the Memoires de l{apos}Academie, tom xxxii p. 262.]
 
 Remember that Ingenuus was made emperor: tear, kill, hew in pieces.
 I write to you with my own hand, and would inspire you with my own
-feelings." footnote:[Hist. August. p. 188.]
+feelings.{rdquo} footnote:[Hist. August. p. 188.]
  Whilst the public forces of the state were dissipated
 in private quarrels, the defenceless provinces lay exposed to every
 invader. The bravest usurpers were compelled, by the perplexity of their
@@ -2311,7 +2311,7 @@ footnote:[Diodor. Sicul. l. xvii. p. 590, edit. Wesseling.]
  The lucrative trade of Arabia and India flowed through the port of
 Alexandria, to the capital and provinces of the empire. footnote:[Berenice, or Myos-Hormos, on the Red Sea, received the
 eastern commodities. From thence they were transported to the Nile, and
-down the Nile to Alexandria.--M.]
+down the Nile to Alexandria.{emdash}M.]
  Idleness was
 unknown. Some were employed in blowing of glass, others in weaving of
 linen, others again manufacturing the papyrus. Either sex, and every
@@ -2330,7 +2330,7 @@ Christian, were unfailing causes of tumult, sedition, and massacre. In
 no place were the religious disputes, after the establishment of
 Christianity, more frequent or more sanguinary. See Philo. de Legat.
 Hist. of Jews, ii. 171, iii. 111, 198. Gibbon, iii c. xxi. viii. c.
-xlvii.--M.]
+xlvii.{emdash}M.]
  were
 at any time sufficient to kindle a sedition among that vast multitude,
 whose resentments were furious and implacable. footnote:[Hist. August. p. 195. This long and terrible sedition was
@@ -2349,12 +2349,12 @@ every building of strength converted into a citadel; nor did the tumults
 subside till a considerable part of Alexandria was irretrievably ruined.
 The spacious and magnificent district of Bruchion, footnote:[The Bruchion was a quarter of Alexandria which extended
 along the largest of the two ports, and contained many palaces,
-inhabited by the Ptolemies. D'Anv. Geogr. Anc. iii. 10.--G.]
+inhabited by the Ptolemies. D{apos}Anv. Geogr. Anc. iii. 10.{emdash}G.]
  with its palaces
 and musaeum, the residence of the kings and philosophers of Egypt, is
 described above a century afterwards, as already reduced to its present
 state of dreary solitude. footnote:[Scaliger. Animadver. ad Euseb. Chron. p. 258. Three
-dissertations of M. Bonamy, in the Mem. de l'Academie, tom. ix.]
+dissertations of M. Bonamy, in the Mem. de l{apos}Academie, tom. ix.]
 
 
 

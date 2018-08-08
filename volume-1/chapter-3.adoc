@@ -19,8 +19,8 @@ been seen on the side of the people. footnote:[Often enough in the ages of super
 interest of the people or the state, but in that of the church to which
 all others were subordinate. Yet the power of the pope has often been of
 great service in repressing the excesses of sovereigns, and in softening
-manners.--W. The history of the Italian republics proves the error of
-Gibbon, and the justice of his German translator's comment.--M.]
+manners.{emdash}W. The history of the Italian republics proves the error of
+Gibbon, and the justice of his German translator{apos}s comment.{emdash}M.]
  A martial nobility and
 stubborn commons, possessed of arms, tenacious of property, and
 collected into constitutional assemblies, form the only balance capable
@@ -33,15 +33,15 @@ Every barrier of the Roman constitution had been levelled by the vast
 ambition of the dictator; every fence had been extirpated by the cruel
 hand of the triumvir. After the victory of Actium, the fate of the
 Roman world depended on the will of Octavianus, surnamed Caesar, by
-his uncle's adoption, and afterwards Augustus, by the flattery of the
+his uncle{apos}s adoption, and afterwards Augustus, by the flattery of the
 senate. The conqueror was at the head of forty-four veteran legions,
 footnote:[Orosius, vi. 18. * Note: Dion says twenty-five, (or three,)
 (lv. 23.) The united triumvirs had but forty-three. (Appian. Bell. Civ.
 iv. 3.) The testimony of Orosius is of little value when more certain
-may be had.--W. But all the legions, doubtless, submitted to Augustus
-after the battle of Actium.--M.]
+may be had.{emdash}W. But all the legions, doubtless, submitted to Augustus
+after the battle of Actium.{emdash}M.]
  conscious of their own strength, and of the weakness of the
-constitution, habituated, during twenty years' civil war, to every act
+constitution, habituated, during twenty years{rsquo} civil war, to every act
 of blood and violence, and passionately devoted to the house of Caesar,
 from whence alone they had received, and expected the most lavish
 rewards. The provinces, long oppressed by the ministers of the republic,
@@ -71,8 +71,8 @@ The reformation of the senate was one of the first steps in which
 Augustus laid aside the tyrant, and professed himself the father of
 his country. He was elected censor; and, in concert with his faithful
 Agrippa, he examined the list of the senators, expelled a few members,
-footnote:[Of these Dion and Suetonius knew nothing.--W. Dion says the
-contrary.--M.]
+footnote:[Of these Dion and Suetonius knew nothing.{emdash}W. Dion says the
+contrary.{emdash}M.]
  whose vices or whose obstinacy required a public example, persuaded
 near two hundred to prevent the shame of an expulsion by a voluntary
 retreat, raised the qualification of a senator to about ten thousand
@@ -85,7 +85,7 @@ customary, during the free republic, for the censor to be named Princeps
 Senatus, (S. Liv. l. xxvii. c. 11, l. xl. c. 51;) and Dion expressly
 says, that this was done according to ancient usage. He was empowered
 by a decree of the senate to admit a number of families among the
-patricians. Finally, the senate was not the legislative power.--W]
+patricians. Finally, the senate was not the legislative power.{emdash}W]
  which had
 always been bestowed, by the censors, on the citizen the most eminent
 for his honors and services. footnote:[Dion Cassius, l. liii. p. 693. Suetonius in August. c. 35.]
@@ -102,8 +102,8 @@ nominated by the executive.
 
 Before an assembly thus modelled and prepared, Augustus pronounced
 a studied oration, which displayed his patriotism, and disguised his
-ambition. "He lamented, yet excused, his past conduct. Filial piety had
-required at his hands the revenge of his father's murder; the humanity
+ambition. {ldquo}He lamented, yet excused, his past conduct. Filial piety had
+required at his hands the revenge of his father{apos}s murder; the humanity
 of his own nature had sometimes given way to the stern laws of
 necessity, and to a forced connection with two unworthy colleagues:
 as long as Antony lived, the republic forbade him to abandon her to
@@ -111,7 +111,7 @@ a degenerate Roman, and a barbarian queen. He was now at liberty to
 satisfy his duty and his inclination. He solemnly restored the senate
 and people to all their ancient rights; and wished only to mingle with
 the crowd of his fellow-citizens, and to share the blessings which he
-had obtained for his country." footnote:[Dion (l. liii. p. 698) gives us a prolix and bombast speech
+had obtained for his country.{rdquo} footnote:[Dion (l. liii. p. 698) gives us a prolix and bombast speech
 on this great occasion. I have borrowed from Suetonius and Tacitus the
 general language of Augustus.]
 
@@ -252,13 +252,13 @@ than the lieutenants of the emperor, who commanded in Gaul or Syria. The
 former were attended by lictors, the latter by soldiers. footnote:[This distinction is without foundation. The
 lieutenants of the emperor, who were called Propraetors, whether they
 had been praetors or consuls, were attended by six lictors; those who
-had the right of the sword, (of life and death over the soldiers.--M.)
+had the right of the sword, (of life and death over the soldiers.{emdash}M.)
 bore the military habit (paludamentum) and the sword. The provincial
 governors commissioned by the senate, who, whether they had been consuls
 or not, were called Pronconsuls, had twelve lictors when they had been
 consuls, and six only when they had but been praetors. The provinces of
 Africa and Asia were only given to ex-consuls. See, on the Organization
-of the Provinces, Dion, liii. 12, 16 Strabo, xvii 840.--W]
+of the Provinces, Dion, liii. 12, 16 Strabo, xvii 840.{emdash}W]
  A law
 was passed, that wherever the emperor was present, his extraordinary
 commission should supersede the ordinary jurisdiction of the governor;
@@ -330,8 +330,8 @@ each other, their mutual conflicts contributed, for the most part, to
 strengthen rather than to destroy the balance of the constitution. footnote:[The note of M. Guizot on the tribunitian power applies
 to the French translation rather than to the original. The former
 has, maintenir la balance toujours egale, which implies much more than
-Gibbon's general expression. The note belongs rather to the history of
-the Republic than that of the Empire.--M]
+Gibbon{apos}s general expression. The note belongs rather to the history of
+the Republic than that of the Empire.{emdash}M]
 
 But when the consular and tribunitian powers were united, when they were
 vested for life in a single person, when the general of the army was, at
@@ -365,11 +365,11 @@ advantageous to the empire, and agreeable to the majesty of things
 private or public, human of divine. footnote:[See a fragment of a Decree of the Senate, conferring
 on the emperor Vespasian all the powers granted to his predecessors,
 Augustus, Tiberius, and Claudius. This curious and important monument is
-published in Gruter's Inscriptions, No. ccxlii. * Note: It is also in
+published in Gruter{apos}s Inscriptions, No. ccxlii. * Note: It is also in
 the editions of Tacitus by Ryck, (Annal. p. 420, 421,) and Ernesti,
 (Excurs. ad lib. iv. 6;) but this fragment contains so many
 inconsistencies, both in matter and form, that its authenticity may be
-doubted--W.]
+doubted{emdash}W.]
 
 
 
@@ -398,7 +398,7 @@ which they condescended to share with the most illustrious of their
 fellow-citizens. footnote:[The tyrants themselves were ambitious of the consulship.
 The virtuous princes were moderate in the pursuit, and exact in the
 discharge of it. Trajan revived the ancient oath, and swore before the
-consul's tribunal that he would observe the laws, (Plin. Panegyric c.
+consul{apos}s tribunal that he would observe the laws, (Plin. Panegyric c.
 64.)]
  In the election of these magistrates, the
 people, during the reign of Augustus, were permitted to expose all
@@ -416,7 +416,7 @@ and unsuccessful efforts which were made towards restoring them to the
 people. Note: The emperor Caligula made the attempt: he rest red the
 Comitia to the people, but, in a short time, took them away again. Suet.
 in Caio. c. 16. Dion. lix. 9, 20. Nevertheless, at the time of Dion,
-they preserved still the form of the Comitia. Dion. lviii. 20.--W.]
+they preserved still the form of the Comitia. Dion. lviii. 20.{emdash}W.]
  The assemblies of the
 people were forever abolished, and the emperors were delivered from
 a dangerous multitude, who, without restoring liberty, might have
@@ -463,14 +463,14 @@ of the people, it may be defined an absolute monarchy disguised by the
 forms of a commonwealth. The masters of the Roman world surrounded their
 throne with darkness, concealed their irresistible strength, and humbly
 professed themselves the accountable ministers of the senate, whose
-supreme decrees they dictated and obeyed. footnote:[Dion Cassius (l. liii. p. 703--714) has given a very loose
+supreme decrees they dictated and obeyed. footnote:[Dion Cassius (l. liii. p. 703{endash}714) has given a very loose
 and partial sketch of the Imperial system. To illustrate and often to
 correct him, I have meditated Tacitus, examined Suetonius, and consulted
 the following moderns: the Abbe de la Bleterie, in the Memoires de
-l'Academie des Inscriptions, tom. xix. xxi. xxiv. xxv. xxvii. Beaufort
-Republique Romaine, tom. i. p. 255--275. The Dissertations of Noodt and
+l{apos}Academie des Inscriptions, tom. xix. xxi. xxiv. xxv. xxvii. Beaufort
+Republique Romaine, tom. i. p. 255{endash}275. The Dissertations of Noodt and
 Gronovius de lege Regia, printed at Leyden, in the year 1731 Gravina de
-Imperio Romano, p. 479--544 of his Opuscula. Maffei, Verona Illustrata,
+Imperio Romano, p. 479{endash}544 of his Opuscula. Maffei, Verona Illustrata,
 p. i. p. 245, &c.]
 
 
@@ -512,11 +512,11 @@ a religious worship, for it had neither priests nor sacrifices. Augustus
 was severely blamed for having permitted himself to be worshipped as
 a god in the provinces, (Tac. Ann. i. 10: ) he would not have incurred
 that blame if he had only done what the governors were accustomed to
-do.--G. from W. M. Guizot has been guilty of a still greater inaccuracy
+do.{emdash}G. from W. M. Guizot has been guilty of a still greater inaccuracy
 in confounding the deification of the living with the apotheosis of the
 dead emperors. The nature of the king-worship of Egypt is still
 very obscure; the hero-worship of the Greeks very different from the
-adoration of the "praesens numen" in the reigning sovereign.--M.]
+adoration of the {ldquo}praesens numen{rdquo} in the reigning sovereign.{emdash}M.]
  It was easily
 transferred from the kings to the governors of Asia; and the Roman
 magistrates very frequently were adored as provincial deities, with the
@@ -541,7 +541,7 @@ Augustus. Note: The good princes were not those who alone obtained
 the honors of an apotheosis: it was conferred on many tyrants. See
 an excellent treatise of Schaepflin, de Consecratione Imperatorum
 Romanorum, in his Commentationes historicae et criticae. Bale, 1741, p.
-184.--W.]
+184.{emdash}W.]
  but he contented himself with being revered by the
 senate and the people in his human character, and wisely left to his
 successor the care of his public deification. A regular custom was
@@ -549,7 +549,7 @@ introduced, that on the decease of every emperor who had neither lived
 nor died like a tyrant, the senate by a solemn decree should place him
 in the number of the gods: and the ceremonies of his apotheosis were
 blended with those of his funeral. footnote:[The curious satire in the works of Seneca, is the strongest
-remonstrance of profaned religion.--M.]
+remonstrance of profaned religion.{emdash}M.]
  This legal, and, as it should
 seem, injudicious profanation, so abhorrent to our stricter principles,
 was received with a very faint murmur, footnote:[See Cicero in Philippic. i. 6. Julian in Caesaribus. Inque
@@ -590,8 +590,8 @@ the title of Imperator, and was on the point of becoming consul when he
 died. His mother Attia, was daughter of M. Attius Balbus, who had also
 been praetor. M. Anthony reproached Octavius with having been born in
 Aricia, which, nevertheless, was a considerable municipal city: he was
-vigorously refuted by Cicero. Philip. iii. c. 6.--W. Gibbon probably
-meant that the family had but recently emerged into notice.--M.]
+vigorously refuted by Cicero. Philip. iii. c. 6.{emdash}W. Gibbon probably
+meant that the family had but recently emerged into notice.{emdash}M.]
  It was stained with the blood of the
 proscription; and he was desirous, had it been possible, to erase all
 memory of his former life. The illustrious surname of Caesar he had
@@ -630,7 +630,7 @@ received this title on his adoption; but as the adoption of Hadrian is
 still doubtful, and besides this, as Trajan, on his death-bed, was
 not likely to have created a new title for his successor, it is more
 probable that Aelius Verus was the first who was called Caesar when
-adopted by Hadrian. Spart. in Aelio Vero, 102.--W.]
+adopted by Hadrian. Spart. in Aelio Vero, 102.{emdash}W.]
 
 
 
@@ -680,7 +680,7 @@ and the Romans, who revered the memory of Brutus, footnote:[Two centuries after 
 emperor Marcus Antoninus recommends the character of Brutus as a perfect
 model of Roman virtue. * Note: In a very ingenious essay, Gibbon has
 ventured to call in question the preeminent virtue of Brutus. Misc
-Works, iv. 95.--M.]
+Works, iv. 95.{emdash}M.]
  would applaud the
 imitation of his virtue. Caesar had provoked his fate, as much as by
 the ostentation of his power, as by his power itself. The consul or the
@@ -750,7 +750,7 @@ and Domitian were assassinated in their palace by their own domestics:
 footnote:[Caligula perished by a conspiracy formed by the officers
 of the praetorian troops, and Domitian would not, perhaps, have been
 assassinated without the participation of the two chiefs of that guard
-in his death.--W.]
+in his death.{emdash}W.]
  the convulsions which agitated Rome on the death of the former, were
 confined to the walls of the city. But Nero involved the whole empire in
 his ruin. In the space of eighteen months, four princes perished by
@@ -778,7 +778,7 @@ murdered their general, and offered their assistance to the Gauls who
 were in insurrection. Julius Sabinus made himself be proclaimed emperor,
 &c. The wars, the merit, and the severe discipline of Trajan, Hadrian,
 and the two Antonines, established, for some time, a greater degree of
-subordination.--W]
+subordination.{emdash}W]
  The legions respected their oath of fidelity; and it
 requires a minute inspection of the Roman annals to discover three
 inconsiderable rebellions, which were all suppressed in a few months,
@@ -869,7 +869,7 @@ years of age, and who commanded a powerful army in the Lower Germany;
 and immediately, by a decree of the senate, declared him his colleague
 and successor in the empire. footnote:[Dion, l. lxviii. p. 1121. Plin. Secund. in Panegyric.]
  It is sincerely to be lamented, that
-whilst we are fatigued with the disgustful relation of Nero's crimes
+whilst we are fatigued with the disgustful relation of Nero{apos}s crimes
 and follies, we are reduced to collect the actions of Trajan from the
 glimmerings of an abridgment, or the doubtful light of a panegyric.
 There remains, however, one panegyric far removed beyond the suspicion
@@ -944,7 +944,7 @@ over his memory.
 
 
 
-As soon as Hadrian's passion was either gratified or disappointed, he
+As soon as Hadrian{apos}s passion was either gratified or disappointed, he
 resolved to deserve the thanks of posterity, by placing the most exalted
 merit on the Roman throne. His discerning eye easily discovered a
 senator about fifty years of age, blameless in all the offices of life;
@@ -962,19 +962,19 @@ was not in a situation to display.
 turn, Marcus Aurelius and L. Verus.
 
 2. His two sons died children, and one of them, M. Galerius, alone,
-appears to have survived, for a few years, his father's coronation.
-Gibbon is also mistaken when he says (note 42) that "without the help
+appears to have survived, for a few years, his father{apos}s coronation.
+Gibbon is also mistaken when he says (note 42) that {ldquo}without the help
 of medals and inscriptions, we should be ignorant that Antoninus had
-two sons." Capitolinus says expressly, (c. 1,) Filii mares duo,
+two sons.{rdquo} Capitolinus says expressly, (c. 1,) Filii mares duo,
 duae-foeminae; we only owe their names to the medals. Pagi. Cont. Baron,
-i. 33, edit Paris.--W.]
+i. 33, edit Paris.{emdash}W.]
 
 he preferred the welfare of Rome to the interest of his family, gave his
 daughter Faustina, in marriage to young Marcus, obtained from the senate
 the tribunitian and proconsular powers, and, with a noble disdain, or
 rather ignorance of jealousy, associated him to all the labors of
 government. Marcus, on the other hand, revered the character of his
-benefactor, loved him as a parent, obeyed him as his sovereign, footnote:[During the twenty-three years of Pius's reign, Marcus was
+benefactor, loved him as a parent, obeyed him as his sovereign, footnote:[During the twenty-three years of Pius{apos}s reign, Marcus was
 only two nights absent from the palace, and even those were at different
 times. Hist. August. p. 25.]
 
@@ -991,7 +991,7 @@ Titus Antoninus Pius has been justly denominated a second Numa. The
 same love of religion, justice, and peace, was the distinguishing
 characteristic of both princes. But the situation of the latter opened
 a much larger field for the exercise of those virtues. Numa could
-only prevent a few neighboring villages from plundering each other's
+only prevent a few neighboring villages from plundering each other{apos}s
 harvests. Antoninus diffused order and tranquillity over the greatest
 part of the earth. His reign is marked by the rare advantage of
 furnishing very few materials for history; which is, indeed, little more
@@ -1039,21 +1039,21 @@ severe to himself, indulgent to the imperfections of others, just
 and beneficent to all mankind. He regretted that Avidius Cassius, who
 excited a rebellion in Syria, had disappointed him, by a voluntary
 death, footnote:[Cassius was murdered by his own partisans. Vulcat. Gallic.
-in Cassio, c. 7. Dion, lxxi. c. 27.--W.]
+in Cassio, c. 7. Dion, lxxi. c. 27.{emdash}W.]
  of the pleasure of converting an enemy into a friend;; and he
 justified the sincerity of that sentiment, by moderating the zeal of the
 senate against the adherents of the traitor. footnote:[Dion, l. lxxi. p. 1190. Hist. August. in Avid. Cassio.
 Note: See one of the newly discovered passages of Dion Cassius. Marcus
 wrote to the senate, who urged the execution of the partisans of
-Cassius, in these words: "I entreat and beseech you to preserve my reign
+Cassius, in these words: {ldquo}I entreat and beseech you to preserve my reign
 unstained by senatorial blood. None of your order must perish either by
-your desire or mine." Mai. Fragm. Vatican. ii. p. 224.--M.]
+your desire or mine.{rdquo} Mai. Fragm. Vatican. ii. p. 224.{emdash}M.]
  War he detested, as the
 disgrace and calamity of human nature; footnote:[Marcus would not accept the services of any of the
 barbarian allies who crowded to his standard in the war against Avidius
-Cassius. "Barbarians," he said, with wise but vain sagacity, "must not
-become acquainted with the dissensions of the Roman people." Mai. Fragm
-Vatican l. 224.--M.]
+Cassius. {ldquo}Barbarians,{rdquo} he said, with wise but vain sagacity, {ldquo}must not
+become acquainted with the dissensions of the Roman people.{rdquo} Mai. Fragm
+Vatican l. 224.{emdash}M.]
  but when the necessity of
 a just defence called upon him to take up arms, he readily exposed his
 person to eight winter campaigns, on the frozen banks of the Danube, the
@@ -1120,15 +1120,15 @@ the furious Caligula, the feeble Claudius, the profligate and cruel
 Nero, the beastly Vitellius, footnote:[Vitellius consumed in mere eating at least six millions
 of our money in about seven months. It is not easy to express his vices
 with dignity, or even decency. Tacitus fairly calls him a hog, but it
-is by substituting for a coarse word a very fine image. "At Vitellius,
+is by substituting for a coarse word a very fine image. {ldquo}At Vitellius,
 umbraculis hortorum abditus, ut ignava animalia, quibus si cibum
 suggeras, jacent torpentque, praeterita, instantia, futura, pari
-oblivione dimiserat. Atque illum nemore Aricino desidem et marcentum,"
+oblivione dimiserat. Atque illum nemore Aricino desidem et marcentum,{rdquo}
 &c. Tacit. Hist. iii. 36, ii. 95. Sueton. in Vitell. c. 13. Dion.
 Cassius, l xv. p. 1062.]
  and the timid, inhuman Domitian, are
 condemned to everlasting infamy. During fourscore years (excepting only
-the short and doubtful respite of Vespasian's reign) footnote:[The execution of Helvidius Priscus, and of the virtuous
+the short and doubtful respite of Vespasian{apos}s reign) footnote:[The execution of Helvidius Priscus, and of the virtuous
 Eponina, disgraced the reign of Vespasian.]
  Rome groaned
 beneath an unremitting tyranny, which exterminated the ancient families
@@ -1151,17 +1151,17 @@ escaping from the hand of the oppressor.
 I. When Persia was governed by the descendants of Sefi, a race of
 princes whose wanton cruelty often stained their divan, their table, and
 their bed, with the blood of their favorites, there is a saying recorded
-of a young nobleman, that he never departed from the sultan's presence,
+of a young nobleman, that he never departed from the sultan{apos}s presence,
 without satisfying himself whether his head was still on his shoulders.
 The experience of every day might almost justify the scepticism of
 Rustan. footnote:[Voyage de Chardin en Perse, vol. iii. p. 293.]
  Yet the fatal sword, suspended above him by a single
 thread, seems not to have disturbed the slumbers, or interrupted the
-tranquillity, of the Persian. The monarch's frown, he well knew, could
+tranquillity, of the Persian. The monarch{apos}s frown, he well knew, could
 level him with the dust; but the stroke of lightning or apoplexy might
 be equally fatal; and it was the part of a wise man to forget the
 inevitable calamities of human life in the enjoyment of the fleeting
-hour. He was dignified with the appellation of the king's slave; had,
+hour. He was dignified with the appellation of the king{apos}s slave; had,
 perhaps, been purchased from obscure parents, in a country which he
 had never known; and was trained up from his infancy in the severe
 discipline of the seraglio. footnote:[The practice of raising slaves to the great offices of
@@ -1170,7 +1170,7 @@ miserable countries of Georgia and Circassia supply rulers to the
 greatest part of the East.]
  His name, his wealth, his honors, were
 the gift of a master, who might, without injustice, resume what he had
-bestowed. Rustan's knowledge, if he possessed any, could only serve to
+bestowed. Rustan{apos}s knowledge, if he possessed any, could only serve to
 confirm his habits by prejudices. His language afforded not words for
 any form of government, except absolute monarchy. The history of the
 East informed him, that such had ever been the condition of mankind.
@@ -1212,7 +1212,7 @@ the public service was rewarded by riches and honors. footnote:[They alleged the
 Annal. iii. 66.) Marcellus Epirus and Crispus Vibius had acquired two
 millions and a half under Nero. Their wealth, which aggravated their
 crimes, protected them under Vespasian. See Tacit. Hist. iv. 43. Dialog.
-de Orator. c. 8. For one accusation, Regulus, the just object of Pliny's
+de Orator. c. 8. For one accusation, Regulus, the just object of Pliny{apos}s
 satire, received from the senate the consular ornaments, and a present
 of sixty thousand pounds.]
  The servile
@@ -1222,7 +1222,7 @@ against the Roman people. As tribunes of the people, Augustus and
 Tiberius applied tit to their own persons, and extended it to an
 infinite latitude. Note: It was Tiberius, not Augustus, who first took
 in this sense the words crimen laesae majestatis. Bachii Trajanus, 27.
---W.]
+{emdash}W.]
  whose clemency they most
 applauded when they trembled the most at his inexorable and impending
 cruelty. footnote:[After the virtuous and unfortunate widow of Germanicus had
@@ -1259,7 +1259,7 @@ gilded chain in rome and the senate, or to were out a life of exile on
 the barren rock of Seriphus, or the frozen bank of the Danube, expected
 his fate in silent despair. footnote:[Seriphus was a small rocky island in the Aegean Sea, the
 inhabitants of which were despised for their ignorance and obscurity.
-The place of Ovid's exile is well known, by his just, but unmanly
+The place of Ovid{apos}s exile is well known, by his just, but unmanly
 lamentations. It should seem, that he only received an order to leave
 rome in so many days, and to transport himself to Tomi. Guards and
 jailers were unnecessary.]
@@ -1270,13 +1270,13 @@ discovered, seized, and restored to his irritated master. Beyond the
 frontiers, his anxious view could discover nothing, except the ocean,
 inhospitable deserts, hostile tribes of barbarians, of fierce manners
 and unknown language, or dependent kings, who would gladly purchase
-the emperor's protection by the sacrifice of an obnoxious fugitive. footnote:[Under Tiberius, a Roman knight attempted to fly to the
+the emperor{apos}s protection by the sacrifice of an obnoxious fugitive. footnote:[Under Tiberius, a Roman knight attempted to fly to the
 Parthians. He was stopped in the straits of Sicily; but so little danger
 did there appear in the example, that the most jealous of tyrants
 disdained to punish it. Tacit. Annal. vi. 14.]
 
-"Wherever you are," said Cicero to the exiled Marcellus, "remember that
-you are equally within the power of the conqueror." footnote:[Cicero ad Familiares, iv. 7.]
+{ldquo}Wherever you are,{rdquo} said Cicero to the exiled Marcellus, {ldquo}remember that
+you are equally within the power of the conqueror.{rdquo} footnote:[Cicero ad Familiares, iv. 7.]
 
 
 
