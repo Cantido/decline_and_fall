@@ -13,7 +13,7 @@ ARGV.each do |file|
 
   footnotes = chapter.scan(fnrx) { |n, s|
     note = s.gsub(/(\[|\])/m, brackets)
-    notes["[#{n}]"] = "footnote:[#{note}]\n"
+    notes["[#{n}]"] = "footnote:[#{note}]"
   }
 
   updated = chapter
