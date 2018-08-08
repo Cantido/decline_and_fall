@@ -5,13 +5,14 @@ It is not my intention to detain the reader by expatiating on the
 variety or the importance of the subject, which I have undertaken to
 treat; since the merit of the choice would serve to render the weakness
 of the execution still more apparent, and still less excusable. But as
-I have presumed to lay before the public a first volume only [1] of the
+I have presumed to lay before the public a first volume only footnote:[The first volume of the quarto, which contained the sixteen
+first chapters.]
+ of the
 History of the Decline and Fall of the Roman Empire, it will, perhaps,
 be expected that I should explain, in a few words, the nature and limits
 of my general plan.
 
-[Footnote 1: The first volume of the quarto, which contained the sixteen
-first chapters.]
+
 
 The memorable series of revolutions, which in the course of about
 thirteen centuries gradually undermined, and at length destroyed, the
@@ -52,7 +53,11 @@ during the darkness and confusion of the middle ages.
 As I have ventured, perhaps too hastily, to commit to the press a work
 which in every sense of the word, deserves the epithet of imperfect. I
 consider myself as contracting an engagement to finish, most probably in
-a second volume, [2] the first of these memorable periods; and to deliver
+a second volume, footnote:[The Author, as it frequently
+happens, took an inadequate measure of his growing work. The remainder
+of the first period has filled two volumes in quarto, being the third,
+fourth, fifth, and sixth volumes of the octavo edition.]
+ the first of these memorable periods; and to deliver
 to the Public the complete History of the Decline and Fall of Rome, from
 the age of the Antonines to the subversion of the Western Empire. With
 regard to the subsequent periods, though I may entertain some hopes, I
@@ -61,10 +66,7 @@ plan which I have described, would connect the ancient and modern
 history of the world; but it would require many years of health, of
 leisure, and of perseverance.
 
-[Footnote 2: The Author, as it frequently
-happens, took an inadequate measure of his growing work. The remainder
-of the first period has filled two volumes in quarto, being the third,
-fourth, fifth, and sixth volumes of the octavo edition.]
+
 
 Bentinck Street, February 1, 1776.
 
@@ -81,7 +83,8 @@ favorable to his labors; and I have now embraced the serious resolution
 of proceeding to the last period of my original design, and of the
 Roman Empire, the taking of Constantinople by the Turks, in the year
 one thousand four hundred and fifty-three. The most patient Reader, who
-computes that three ponderous [3] volumes have been already employed
+computes that three ponderous footnote:[The first six volumes of the octavo edition.]
+ volumes have been already employed
 on the events of four centuries, may, perhaps, be alarmed at the long
 prospect of nine hundred years. But it is not my intention to expatiate
 with the same minuteness on the whole series of the Byzantine history.
@@ -92,5 +95,5 @@ with the revolutions of Modern Europe. From the seventh to the eleventh
 century, the obscure interval will be supplied by a concise narrative
 of such facts as may still appear either interesting or important.
 
-[Footnote 3: The first six volumes of the octavo edition.] Bentinck
+ Bentinck
 Street, March 1, 1782.
