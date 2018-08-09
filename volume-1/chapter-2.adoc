@@ -1,10 +1,6 @@
-== Chapter II: The Internal Prosperity In The Age Of The Antonines.
-
+== Chapter II: The Internal Prosperity In The Age Of The Antonines
 
 === Part I
-
-     Of The Union And Internal Prosperity Of The Roman Empire, In
-     The Age Of The Antonines.
 
 It is not alone by the rapidity, or extent of conquest, that we should
 estimate the greatness of Rome. The sovereign of the Russian deserts
@@ -26,12 +22,12 @@ Lassen, Pentapotam. Ind. Wilson{apos}s Sanscrit Dict., and the valuable
 memoir of Lieut. Burnes, Journal of London Geogr. Society, vol. iii. p.
 2, with the travels of that very able writer. Compare Gibbon{apos}s own note,
 c. lxv. note 25.{emdash}M substit. for G.]
- Within less than a century, the
+Within less than a century, the
 irresistible Zingis, and the Mogul princes of his race, spread their
 cruel devastations and transient empire from the Sea of China, to the
 confines of Egypt and Germany. footnote:[See M. de Guignes, Histoire des Huns, l. xv. xvi. and
 xvii.]
- But the firm edifice of Roman power
+But the firm edifice of Roman power
 was raised and preserved by the wisdom of ages. The obedient provinces
 of Trajan and the Antonines were united by laws, and adorned by arts.
 They might occasionally suffer from the partial abuse of delegated
@@ -40,11 +36,7 @@ and beneficent. They enjoyed the religion of their ancestors, whilst in
 civil honors and advantages they were exalted, by just degrees, to an
 equality with their conquerors.
 
-
-
-
-
-I. The policy of the emperors and the senate, as far as it concerned
+The policy of the emperors and the senate, as far as it concerned
 religion, was happily seconded by the reflections of the enlightened,
 and by the habits of the superstitious, part of their subjects. The
 various modes of worship, which prevailed in the Roman world, were
@@ -1384,15 +1376,6 @@ water. footnote:[Montfaucon l{apos}Antiquite Expliquee, tom. iv. p. 2, l. i.
 c. 9. Fabretti has composed a very learned treatise on the aqueducts of
 Rome.]
 
-
-
-
-
-
-
-
-
-
 We have computed the inhabitants, and contemplated the public works,
 of the Roman empire. The observation of the number and greatness of its
 cities will serve to confirm the former, and to multiply the latter. It
@@ -1401,7 +1384,7 @@ to that subject without forgetting, however, that from the vanity of
 nations and the poverty of language, the vague appellation of city has
 been indifferently bestowed on Rome and upon Laurentum.
 
-I. Ancient Italy is said to have contained eleven hundred and
+Ancient Italy is said to have contained eleven hundred and
 ninety-seven cities; and for whatsoever aera of antiquity the expression
 might be intended, footnote:[Aelian. Hist. Var. lib. ix. c. 16. He lived in the time of
 Alexander Severus. See Fabricius, Biblioth. Graeca, l. iv. c. 21.]
@@ -1414,7 +1397,7 @@ around Rome where, in his time, a scanty stock of free soldiers among
 a larger population of Roman slaves broke the solitude. Vix seminario
 exiguo militum relicto servitia Romana ab solitudine vindicant, Liv. vi.
 vii. Compare Appian Bel Civ. i. 7.{emdash}M. subst. for G.]
- Those
+Those
 parts of Italy which have so long languished under the lazy tyranny
 of priests and viceroys, had been afflicted only by the more tolerable
 calamities of war; and the first symptoms of decay which they
@@ -1436,7 +1419,7 @@ Romans, he speaks of the Gauls as submitting to 1200 soldiers, (which is
 false, as there were eight legions in Gaul, Tac. iv. 5,) while there are
 nearly twelve hundred cities.{emdash}G. Josephus (infra) places these eight
 legions on the Rhine, as Tacitus does.{emdash}M.]
- and though, in the northern parts, many of them,
+and though, in the northern parts, many of them,
 without excepting Paris itself, were little more than the rude and
 imperfect townships of a rising people, the southern provinces imitated
 the wealth and elegance of Italy. footnote:[Plin. Hist. Natur. iii. 5.]

@@ -1,10 +1,7 @@
-== Chapter III: The Constitution In The Age Of The Antonines.
+== Chapter III: The Constitution In The Age Of The Antonines
 
 
 === Part I
-
-     Of The Constitution Of The Roman Empire, In The Age Of The
-     Antonines.
 
 The obvious definition of a monarchy seems to be that of a state, in
 which a single person, by whatsoever name he may be distinguished, is
@@ -26,8 +23,6 @@ stubborn commons, possessed of arms, tenacious of property, and
 collected into constitutional assemblies, form the only balance capable
 of preserving a free constitution against enterprises of an aspiring
 prince.
-
-
 
 Every barrier of the Roman constitution had been levelled by the vast
 ambition of the dictator; every fence had been extirpated by the cruel
@@ -61,11 +56,6 @@ than a thousand persons, who reflected disgrace upon their rank, instead
 of deriving honor from it. footnote:[Julius Caesar introduced soldiers, strangers, and
 half-barbarians into the senate (Sueton. in Caesar. c. 77, 80.) The
 abuse became still more scandalous after his death.]
-
-
-
-
-
 
 The reformation of the senate was one of the first steps in which
 Augustus laid aside the tyrant, and professed himself the father of
@@ -1277,10 +1267,3 @@ disdained to punish it. Tacit. Annal. vi. 14.]
 
 {ldquo}Wherever you are,{rdquo} said Cicero to the exiled Marcellus, {ldquo}remember that
 you are equally within the power of the conqueror.{rdquo} footnote:[Cicero ad Familiares, iv. 7.]
-
-
-
-
-
-
-

@@ -1,10 +1,7 @@
-== Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.
+== Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons
 
 
 === Part I
-
-     Conduct Of The Army And Senate After The Death Of Aurelian.
-     {emdash}Reigns Of Tacitus, Probus, Carus, And His Sons.
 
 Such was the unhappy condition of the Roman emperors, that, whatever
 might be their conduct, their fate was commonly the same. A life of
@@ -1676,8 +1673,3 @@ officers. A tribune, whose wife he had seduced, seized the opportunity
 of revenge, and, by a single blow, extinguished civil discord in the
 blood of the adulterer. footnote:[Hist. August. p. 254. Eutropius, ix. 20. Aurelius Victor
 et Epitome]
-
-
-
-
-

@@ -1,11 +1,6 @@
 == Chapter I: The Extent Of The Empire In The Age Of The Antonines
 
-
-
 === Part I: Introduction
-
-     The Extent And Military Force Of The Empire In The Age Of
-     The Antonines.
 
 In the second century of the Christian Aera, the empire of Rome
 comprehended the fairest part of the earth, and the most civilized
@@ -274,7 +269,7 @@ Jupiter himself. A favorable inference was drawn from his obstinacy,
 which was interpreted by the augurs as a sure presage that the
 boundaries of the Roman power would never recede.footnote:[Ovid. Fast. l. ii. ver. 667. See Livy, and Dionysius of
 Halicarnassus, under the reign of Tarquin.]
- During many ages,
+During many ages,
 the prediction, as it is usual, contributed to its own accomplishment.
 But though Terminus had resisted the Majesty of Jupiter, he submitted
 to the authority of the emperor Hadrian. footnote:[St. Augustin is highly delighted with the proof of the
@@ -867,7 +862,7 @@ provinces, which extended from the columns of Hercules to the wall of
 Antoninus, and from the mouth of the Tagus to the sources of the Rhine
 and Danube.
 
- Before
+Before
 the Roman conquest, the country which is now called Lombardy, was not
 considered as a part of Italy. It had been occupied by a powerful colony
 of Gauls, who, settling themselves along the banks of the Po, from

@@ -3,10 +3,6 @@
 
 === Part I
 
-     The Emperors Decius, Gallus, Aemilianus, Valerian, And
-     Gallienus.{emdash}The General Irruption Of The Barbari Ans.{emdash}The
-     Thirty Tyrants.
-
 From the great secular games celebrated by Philip, to the death of the
 emperor Gallienus, there elapsed twenty years of shame and misfortune.
 During that calamitous period, every instant of time was marked, every
@@ -2448,8 +2444,3 @@ suspect, that war, pestilence, and famine, had consumed, in a few
 years, the moiety of the human species. footnote:[In a great number of parishes, 11,000 persons were found
 between fourteen and eighty; 5365 between forty and seventy. See Buffon,
 Histoire Naturelle, tom. ii. p. 590.]
-
-
-
-
-
